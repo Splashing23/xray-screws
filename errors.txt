@@ -1,0 +1,13 @@
+Error - Stream Handler: list index out of range, Image: 114907468_01.jpg, Line: 120
+Error - Image Cropper: zero-size array to reduction operation minimum which has no identity, Image: https://storage.labelbox.com/clg2m7dx5021r07061ukwbebf%2F8bcb3ab3-361c-4160-c95f-3ffaaa389ee9-00.jpg?Expires=1715442443762&KeyName=labelbox-assets-key-3&Signature=kg8VNUsWzGAuWsZlz4nDdAHk4aI, Line: 81
+Error - Stream Handler: OpenCV(4.9.0) /Users/xperience/GHA-OpenCV-Python2/_work/opencv-python/opencv-python/opencv/modules/imgcodecs/src/loadsave.cpp:786: error: (-215:Assertion failed) !_img.empty() in function 'imwrite'
+, Image: 117373809_00.jpg, Line: 145
+Error - Stream Handler: list index out of range, Image: 115725428_02.jpg, Line: 120
+Error - Stream Handler: list index out of range, Image: 114907468_00.jpg, Line: 120
+Error - Stream Handler: list index out of range, Image: 116338696_04.jpg, Line: 120
+Error - Stream Handler: list index out of range, Image: 114037105_01.jpg, Line: 120
+Error - Stream Handler: list index out of range, Image: 116452937_00.jpg, Line: 120
+Error - Stream Handler: list index out of range, Image: 116452937_03.jpg, Line: 120
+Error - Image Cropper: HTTP Error 520: , Image: https://storage.labelbox.com/clg2m7dx5021r07061ukwbebf%2Fde6ae650-3fe2-d4ce-7637-028c8f703b64-03.jpg?Expires=1715442443958&KeyName=labelbox-assets-key-3&Signature=wCBKI4oGTJqlTDkgQh0pPOxuhes, Line: 71
+Error - Stream Handler: OpenCV(4.9.0) /Users/xperience/GHA-OpenCV-Python2/_work/opencv-python/opencv-python/opencv/modules/imgcodecs/src/loadsave.cpp:786: error: (-215:Assertion failed) !_img.empty() in function 'imwrite'
+, Image: 114266257_03.jpg, Line: 145

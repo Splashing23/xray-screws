@@ -1,0 +1,1174 @@
+Patient ID,Accession #,Image Date,Date of Surgery,Implant Manufacturer (from chart),Implant Manufacturer (Padhye confirm),Implant Name,Date Implanted,Model/Category #,# of Screws,Disc received?,Name:,Notes:,
+32879-001,117373809,7/6/2022,6/28/2022,Synthes Spine,Depuy expedium (Synthes),Screw 6.5Mm 50Mm Pa Spne Xpdm Ti 5.5Mm,6/28/2022,179715650,4,Y,AG,,1
+32879-001,117373809,7/6/2022,6/28/2022,Synthes Spine,Depuy expedium (Synthes),Screw 7Mm 55Mm Pa Spne Pdcl Xpdm Ti,6/28/2022,179712755,2,,LS,,2
+32879-001,117373809,7/6/2022,6/28/2022,Synthes Spine,Depuy expedium (Synthes),Screw 7.5Mm 50Mm Pa Spne Pdcl Xpdm Ti,6/28/2022,179712050,1,,LS,,3
+32879-001,117373809,7/6/2022,6/17/2022,Synthes Spine ,Depuy expedium (Synthes),Screw 8Mm 45Mm Pa Spne Pdcl Xpdm Ti,6/28/2022,179712845,4,,LS,,4
+32879-001,117373809,7/6/2022,6/17/2022,Synthes Spine ,Depuy expedium (Synthes),Screw 8Mm 50Mm Pa Spne Xpdm Ti Bone,6/28/2022,179712850,1,,LS,,5
+32879-002,117581750,8/5/2022,6/23/2022,Medtronic,,,,,,Unavailable - not done @ SSM,,,6
+32879-003,117411567,7/12/2022,6/21/2022,Seaspine Northstar,seaspine mariner,SEASPINE NORTHSTAR SPINE IMPLANT - 4.5 X 30MM SCREW,6/21/2022,PC1-104530,2,,LS,CERVICAL PT - cervical implants plus screws in place from previous surgery (Spine Wave),7
+32879-003,117411567,7/12/2022,6/21/2022,Seaspine Northstar,seaspine mariner,SEASPINE NORTHSTAR SPINE IMPLANT - 5.5 X 30MM SCREW,6/21/2022,PC1-105530,2,,LS,,8
+32879-003,117411567,7/12/2022,6/21/2022,Seaspine Northstar,seaspine mariner,SEASPINE NORTHSTAR SPINE IMPLANT - 5.5 X 34MM SCREW,6/21/2022,PC1-105534,2,,LS,,9
+32879-004,117277863,6/21/2022,6/17/2022,Synthes Spine,Depuy expedium (Synthes),Screw 7.5Mm 50Mm Pa Spne Pdcl Xpdm Ti,6/17/2022,179712050,3,Y,LS,,10
+32879-004,117277863,6/21/2022,6/17/2022,Synthes Spine,Depuy expedium (Synthes),Screw 7.5Mm 45Mm Pa Spne Pdcl Xpdm Ti,6/17/2022,179712045,1,,LS,,11
+32879-004,117277863,6/21/2022,6/17/2022,Depuy Spine,Depuy expedium (Synthes),6.5 X 55 SCREW,6/17/2022,1797-15-655,2,,LS,,12
+32879-004,117277863,6/21/2022,6/17/2022,Depuy Spine,Depuy expedium (Synthes),9 X 90 CLOSED PELVIC SCREW,6/17/2022,1867-19-990,2,,LS,,13
+32879-005,117246037,6/16/2022,6/14/2022,Sea Spine Inc.,seaspine mariner,6.5 x 40mm screw,6/14/2022,41-6540-1,8,,LS,,14
+32879-005,117246037,6/16/2022,6/14/2022,Sea Spine Inc.,seaspine mariner,7.5 x 40mm screw,6/14/2022,41-7540-1,8,,LS,,15
+32879-006,117268317,6/20/2022,6/13/2022,Johnson & Johnson Health Care Syste,Depuy expedium (Synthes),EXPEDIUM SCREW 5 X 5O,6/13/2022,179712550,2,Y,LS,,16
+32879-006,117268317,6/20/2022,6/13/2022, Johnson & Johnson Health Care Syste,Depuy expedium (Synthes),EXPEDIUM SCREW 6 X 50,6/13/2022,1797-12-650,2,,LS,,17
+32879-006,117268317,6/20/2022,6/13/2022, Johnson & Johnson Health Care Syste,Depuy expedium (Synthes),EXPEDIUM SCREW 7.5 X 45,6/13/2022,1797-12-045,2,,LS,,18
+32879-006,117268317,6/20/2022,6/13/2022, Johnson & Johnson Health Care Syste,Depuy expedium (Synthes),EXPEDIUM SCREW 7.5 X 50,6/13/2022,1797-12-050,4,,LS,,19
+32879-007,117174308,6/7/2022,6/2/2022,Nuvasive,nuvasive reline,Screw 5.5mm 35mm 2s Pa Spne Reline-o,6/2/2022,13015535,2,,WK,Thoracic,20
+32879-007,117174308,6/7/2022,6/2/2022,Nuvasive,nuvasive reline,SCREW 5.5x40,6/2/2022,13015540,4,,WK,Thoracic,21
+32879-007,117174308,6/7/2022,6/2/2022,Nuvasive,nuvasive reline,SCREW 6.5x45,6/2/2022,13016545,3,,WK,Thoracic,22
+32879-007,117174308,6/7/2022,6/2/2022,Nuvasive,nuvasive reline,SCREW 6.5x50,6/2/2022,13016550,2,,WK,Thoracic,23
+32879-007,117174308,6/7/2022,6/2/2022,Nuvasive,nuvasive reline,SCREW 6.5x55,6/2/2022,13016555,2,,WK,Thoracic,24
+32879-007,117174308,6/7/2022,6/2/2022,Nuvasive,nuvasive reline,Screw 5.5mm Lck Opn Tulip Spne Reline,6/2/2022,13550000,13,,WK,Thoracic,25
+32879-008,117252588,6/17/2022,6/1/2022,,,,6/1/2022,,,,WK,"Graft only, no screws",26
+32879-009,117134345,5/31/2022,5/27/2022,Nuvasive,nuvasive reline,RELINE-O SCREWS 5.5x35MM,5/27/2022,13015535,8,,WK,,27
+32879-009,117134345,5/31/2022,5/27/2022,Nuvasive,nuvasive reline,RELINE-O SCREWS 5.5x40MM,5/27/2022,13015540,4,,WK,,28
+32879-009,117134345,5/31/2022,5/27/2022,Nuvasive,nuvasive reline,RELINE-O SCREWS 6.5x40MM,5/27/2022,13016540,2,,WK,,29
+32879-009,117134345,5/31/2022,5/27/2022,Nuvasive,nuvasive reline,RELINE-O SCREWS 6.5x45MM,5/27/2022,13016545,2,,WK,,30
+32879-009,117134345,5/31/2022,5/27/2022,Nuvasive,nuvasive reline,RELINE-O LOCK SCREWS 5.5,5/27/2022,13550000,16,,WK,,31
+32879-010,117135857,6/1/2022,5/27/2022,Nuvasive,nuvasive reline,RELINE-O SCREWS 6.5X55MM,5/27/2022,13016555,4,,WK,,32
+32879-010,117135857,6/1/2022,5/27/2022,Nuvasive,nuvasive reline,RELINE-O SCREWS 7.5X55MM,5/27/2022,13017555,4,,WK,,33
+32879-010,117135857,6/1/2022,5/27/2022,Nuvasive,nuvasive reline,RELINE-O SET SCREWS,5/27/2022,13550000,8,,WK,set screw,34
+32879-011,117115093,5/27/2022,5/23/2022,Medtronic Inc,medtronic solera,Dual Rod Multi-Axial Screw 7.5x40,5/23/2022,55720007540,2,,WK,,35
+32879-011,117115093,5/27/2022,5/23/2022,Medtronic Inc,medtronic solera,Rod Multi-Axial Screw,5/23/2022,55720005535,2,,WK,,36
+32879-011,117115093,5/27/2022,5/23/2022,Medtronic Inc,medtronic solera,Screw Set Ti Spnl Brk Off Cd Hzn Nonster,5/23/2022,5540030,16,,WK,set screw,37
+32879-011,117115093,5/27/2022,5/23/2022,Medtronic Inc,medtronic solera,Screw 4Mm 35Mm Ma Spne Solera Cocr Bone,5/23/2022,55840004035,2,,WK,,38
+32879-011,117115093,5/27/2022,5/23/2022,Medtronic Inc,medtronic solera,Screw 4.5Mm 40Mm Ma Spne Solera Cd Hzn,5/23/2022,55840004540,1,,WK,,39
+32879-011,117115093,5/27/2022,5/23/2022,Medtronic Inc,medtronic solera,Screw 6.5Mm 40Mm Ma Spne Solera Cd Hzn,5/23/2022,55840006540,3,,WK,,40
+32879-011,117115093,5/27/2022,5/23/2022,Medtronic Inc,medtronic solera,Screw 4Mm 30Mm Ma Spne Solera Cd Hzn,5/23/2022,55840004030,2,,WK,,41
+32879-011,117115093,5/27/2022,5/23/2022,Medtronic Inc,medtronic solera,Screw 4Mm 35Mm Ma Spne Solera Cocr Bone,5/23/2022,55840004035,1,,WK,"Action: states this was ""wasted""",42
+32879-012,117087287,5/24/2022,5/20/2022,Orthofix Inc,orthofix firebird ,Screw 6.5Mm 45Mm Slf-Tap Cann Mdlr Spne,5/20/2022,77-8645,2,,LS,,43
+32879-012,117087287,5/24/2022,5/20/2022,Orthofix Inc,orthofix firebird ,ORTHOFIX 8.5 X 40MM SCREW,5/20/2022,77-8840,2,,LS,,44
+32879-013,117082961,5/23/2022,5/17/2022,Medtronic Inc,medtronic solera,Screw 7.5Mm 40Mm Ma Spne Solera Cd Hzn,5/17/2022,55840007540,3,,LS,,45
+32879-013,117082961,5/23/2022,5/17/2022,Medtronic Inc,medtronic solera,Screw 7.5Mm 45Mm Ma Spne Solera Cd Hzn,5/17/2022,55840007545,3,,LS,,46
+32879-013,117082961,5/23/2022,5/17/2022,Medtronic Inc,medtronic solera,Screw 7.5Mm 50Mm Ma Spne Solera Cd Hzn,5/17/2022,55840007550,1,,LS,,47
+32879-014,117068627,5/20/2022,5/17/2022,Medtronic Inc,medtronic solera,Screw 6.5Mm 40Mm Ma Spne Solera Cd Hzn,5/17/2022,55840006540,2,,LS,,48
+32879-014,117068627,5/20/2022,5/17/2022,Medtronic Inc,medtronic solera,Screw 6.5Mm 50Mm Ma Spne Solera Cd Hzn,5/17/2022,55840006550,2,,LS,,49
+32879-014,117068627,5/20/2022,5/17/2022,Medtronic Inc,medtronic solera,Screw 7.5Mm 50Mm Ma Spne Solera Cd Hzn,5/17/2022,55840007550,2,,LS,,50
+32879-014,117068627,5/20/2022,5/17/2022,Medtronic Inc,medtronic solera,Screw 9.5Mm 45Mm Ma Spne Cocr 5.5Mm Rod,5/17/2022,55840009545,2,,LS,not sure if this is a screw or a rod,51
+32879-015,117050436,5/18/2022,5/16/2022,Medtronic Inc,medtronic solera,Screw 4Mm 30Mm Ma Spne Solera Cd Hzn,5/16/2022,55840004030,4,,LS,,52
+32879-015,117050436,5/18/2022,5/16/2022,Medtronic Inc,medtronic solera,Screw 5Mm 30Mm Ma Spne Solera Cd Hzn,5/16/2022,55840005030,2,,LS,,53
+32879-015,117050436,5/18/2022,5/16/2022,Medtronic Inc,medtronic solera,Screw 6.5Mm 30Mm Ma Spne Solera Cd Hzn,5/16/2022,55840006530,2,,LS,,54
+32879-015,117050436,5/18/2022,5/16/2022,Medtronic Inc,medtronic solera,Screw 4.5Mm 30Mm Ma Spne Solera Cd Hzn,5/16/2022,55840004530,1,,LS,,55
+32879-015,117050436,5/18/2022,5/16/2022,Medtronic Inc,medtronic solera,Screw 5Mm 35Mm Ma Spne Solera Cd Hzn,5/16/2022,55840005035,1,,LS,,56
+32879-015,117050436,5/18/2022,5/16/2022,Medtronic Inc,medtronic solera,Screw 6.5Mm 35Mm Ma Spne Solera Cd Hzn,5/16/2022,55840006535,2,,LS,,57
+32879-016,117146949,6/2/2022,5/13/2022,Nuvasive,nuvasive reline,Reline-O screw 6.5x50,5/13/2022,13016550,6,,LS,,58
+32879-017,116975907,5/8/2022,5/7/2022,,nuvasive reline,RELINE MAS REDUCTION SCREW 7.5X55 POLY 2C,5/7/2022,16027555,4,,LS,no manufacturer listed,59
+32879-017,116975907,5/8/2022,5/7/2022,,nuvasive reline,RELINE MAS REDUCTION SCREW 6.5X50 POLY 2C,5/7/2022,16026550,6,,LS,see above,60
+32879-017,116975907,5/8/2022,5/7/2022,,nuvasive reline,RELINE MAS REDUCTION 6.5MMX55MM,5/7/2022,16026555,4,,LS,see above,61
+32879-017,116975907,5/8/2022,5/7/2022,,nuvasive reline,RELINE LOCK SCREW,5/7/2022,13550000,14,,LS,see above,62
+32879-018,116946048,5/4/2022,5/3/2022,Medtronic Inc,medtronic solera,Screw 5.5/6.0 Drmas 5.5x50,5/3/2022,55720005550,2,,LS,"patient died 2 weeks after surgery, only had CXR 1VW done",63
+32879-018,116946048,5/4/2022,5/3/2022,Medtronic Inc,medtronic solera,Screw 5.5/6.0 Drmas 5.5x50,5/3/2022,55720005550,2,,LS,,64
+32879-018,116946048,5/4/2022,5/3/2022,Medtronic Inc,medtronic solera,Dual Rod Multi-Axial Screw 7.5mm x 55 mm,5/3/2022,55720007555,2,,LS,not sure if this is a screw or a rod,65
+32879-018,116946048,5/4/2022,5/3/2022,Medtronic Inc,medtronic solera,Screw 5.5/6.0mm 7.5mm x 50mm Dual Rod,5/3/2022,55720007550,2,,LS,not sure if this is a screw or a rod,66
+32879-018,116946048,5/4/2022,5/3/2022,Medtronic Inc,medtronic solera,Screw 5.5/6.0mm 6.5mm x 50mm,5/3/2022,55720006550,2,,LS,,67
+32879-018,116946048,5/4/2022,5/3/2022,Medtronic Inc,medtronic solera,Screw 4.5Mm 35Mm Ma Spne Solera Cd Hzn,5/3/2022,55840004535,5,,LS,,68
+32879-018,116946048,5/4/2022,5/3/2022,Medtronic Inc,medtronic solera,Screw 5Mm 35Mm Ma Spne Solera Cd Hzn,5/3/2022,55840005035,3,,LS,,69
+32879-018,116946048,5/4/2022,5/3/2022,Medtronic Inc,medtronic solera,Screw 5Mm 40Mm Ma Spne Solera Cd Hzn,5/3/2022,55840005040,2,,LS,,70
+32879-018,116946048,5/4/2022,5/3/2022,Medtronic Inc,medtronic solera,Screw 7.5Mm 60Mm Ma Spne Solera Cd Hzn,5/3/2022,55840007560,2,,LS,,71
+32879-019,116944690,5/5/2022,5/2/2022,Nuvasive,nuvasive reline,Screw 5.5mm Lck Opn Tulip Spne Reline,5/2/2022,13550000,8,,LS,,72
+32879-019,116944690,5/5/2022,5/2/2022,Nuvasive,nuvasive reline,"NUVASIVE RELINE O SCREW, 6.5 X 50MM",5/2/2022,13016550,6,,LS,,73
+32879-020,116924613,5/2/2022,4/29/2022,,nuvasive reline,Reline O Screw,4/29/2022,13016545,6,,LS,no manufacturer given in the implants list; size is 6.5x45,74
+32879-020,116924613,5/2/2022,4/29/2022,Nuvasive,nuvasive reline,Screw 5.5mm Lck Opn Tulip Spne Reline,4/29/2022,13550000,6,,LS,,75
+32879-021,116878388,4/24/2022,4/23/2022,Nuvasive,nuvasive reline,Screw 5.5mm Lck Opn Tulip Spne Reline,4/23/2022,13550000,6,,LS,,76
+32879-021,116878388,4/24/2022,4/23/2022,Nuvasive,nuvasive reline,RELINE - O SCREW ,4/23/2022,13015545,2,,LS,size: 5.5 X 45,77
+32879-021,116878388,4/24/2022,4/23/2022,Nuvasive,nuvasive reline,RELINE SCREW 2 FS POLY,4/23/2022,14215540,2,,LS,size: 5.5 X 40,78
+32879-021,116878388,4/24/2022,4/23/2022,Nuvasive,nuvasive reline,RELINE SCREW 2FS POLY,4/23/2022,14215545,2,,LS,size: 5.5 X 45,79
+32879-022,116788885,4/11/2022,4/5/2022,Medtronic Sofamor Danek Inc,medtronic solera,Screw 4.5Mm 45Mm Ma Spne Cocr 5.5Mm Rod,4/5/2022,55840004545,3,,LS,not sure if this is a screw or a rod,80
+32879-022,116788889,4/11/2022,4/5/2022,Medtronic Sofamor Danek Inc,medtronic solera,Screw 4Mm 40Mm Ma Spne Solera Cd Hzn,4/5/2022,55840004040,4,,LS,,81
+32879-022,116788889,4/11/2022,4/5/2022,Medtronic Sofamor Danek Inc,medtronic solera,Screw 4.5Mm 40Mm Ma Spne Solera Cd Hzn,4/5/2022,55840004540,1,,LS,,82
+32879-022,116788889,4/11/2022,4/5/2022,Medtronic Sofamor Danek Inc,medtronic solera,Screw Set Ti Spnl Brk Off Cd Hzn Nonster,4/5/2022,5540030,8,,LS,screw set,83
+32879-022,116788889,4/11/2022,4/5/2022,Medtronic Sofamor Danek Inc,medtronic solera,Screw Set .25In Std 32 Thrd Spne Cap,4/5/2022,779170005,8,,LS,screw set,84
+32879-022,116788889,4/11/2022,4/5/2022,Medtronic Sofamor Danek Inc,medtronic solera,Cnct Ti Sdld Sd6.35 Cl5.5,4/5/2022,779146555,4,,LS,not sure what this is,85
+32879-023,116765111,4/7/2022,4/4/2022,Medtronic Sofamor Danek Inc,medtronic solera,Screw 7.5Mm 45Mm Ma Spne Cd Hzn Solera,4/4/2022,55850017545,6,,LS,,86
+32879-023,116765111,4/7/2022,4/4/2022,Medtronic Sofamor Danek Inc,medtronic solera,Screw 5.5/6.0 Sv Ats 7.5x45,4/4/2022,55850047545,1,,LS,,87
+32879-023,116765111,4/7/2022,4/4/2022,Medtronic Sofamor Danek Inc,medtronic solera,Screw 6.5Mm 45Mm Ma Spne Cd Hzn Solera,4/4/2022,55850016545,3,,LS,,88
+32879-023,116765111,4/7/2022,4/4/2022,Medtronic Sofamor Danek Inc,medtronic solera,Screw 7.5Mm 50Mm Ma Spne Cd Hzn Solera,4/4/2022,55850017550,1,,LS,,89
+32879-023,116765111,4/7/2022,4/4/2022,Medtronic Sofamor Danek Inc,medtronic solera,Screw 6.5Mm 50Mm Ma Spne Cd Hzn Solera,4/4/2022,55850016550,1,,LS,,90
+32879-024,116741929,4/4/2022,3/30/2022,Nuvasive,nuvasive reline,Screw 5.5mm Lck Opn Tulip Spne Reline,3/30/2022,13550000,8,,LS,this may be a screw set..,91
+32879-024,116741929,4/4/2022,3/30/2022,,nuvasive reline,Nuvasive Reline,3/30/2022,13014545,4,,LS,size: 4.5mm x 45mm,92
+32879-024,116741929,4/4/2022,3/30/2022,,nuvasive reline,Nuvasive Reline,3/30/2022,13014550,4,,LS,size: 4.5 x 45mm,93
+32879-025,116667233,3/23/2022,3/22/2022,Medtronic Sofamor Danek Inc,medtronic solera,Mas 55840027545t 5.5/6.0 Fenstrtd 7.5x45,3/22/2022,55840027545T,4,,LS,not sure if these are screws or not; but there is a screw set of 8 - yes I believe these are fenestrated screw,94
+32879-025,116667233,3/23/2022,3/22/2022,Medtronic Sofamor Danek Inc,medtronic solera,Mas 55840026545t 5.5/6.0 Fenstrtd 6.5x45,3/22/2022,55840026545T,4,,LS,,95
+32879-025,116667233,3/23/2022,3/22/2022,Medtronic Sofamor Danek Inc,medtronic solera,Screw Set Ti 4.75Mm Spne Nonster,3/22/2022,5440030,8,,LS,screw set,96
+32879-026,116658208,3/22/2022,3/21/2022,Nuvasive,nuvasive reline,Screw 5.5mm Lck Opn Tulip Spne Reline,3/21/2022,13550000,4,,LS,,97
+32879-026,116658208,3/22/2022,3/21/2022,Nuvasive,nuvasive reline,"Reline Screw, 7.5 x 5.0",3/21/2022,13017550,4,,LS,,98
+32879-027,116601677,3/14/2022,3/10/2022,Nuvasive,nuvasive reline,RELINE C LOCKSCREW,3/10/2022,3700240,7,,LS,CERVICAL PT,99
+32879-027,116601677,3/14/2022,3/10/2022,Nuvasive,,RELINE C SCREW 3.5 X 16,3/10/2022,3713516,1,,LS,,100
+32879-027,116601677,3/14/2022,3/10/2022,Nuvasive,,RELINE C SCREW 3.5 X 14,3/10/2022,3703514,5,,LS,,101
+32879-027,116601677,3/14/2022,3/10/2022,Nuvasive,,OCCIPTAL SCREW 4.0 X 12,3/10/2022,35140-12,1,,LS,looks like cervical screws,102
+32879-027,116601677,3/14/2022,3/10/2022,Nuvasive,,OCCIPITAL SCREW 4.0 X 10,3/10/2022,35140-10,2,,LS,looks like cervical screws,103
+32879-027,116601677,3/14/2022,3/10/2022,Core Link Llc,,Screw 4Mm 8Mm Spne Ocptl Tiger Nonster,3/10/2022,35140-08,2,,LS,looks like cervical screws,104
+32879-027,116601677,3/14/2022,3/10/2022,,,RELINE-C SCREW 3.5 X 18MM FA,3/10/2022,3713518,1,,LS,no manufacturer,105
+32879-028,116514418,3/1/2022,2/28/2022,Alphatec Spine,,6.5x50 screw,2/28/2022,15004-065-050,8,,LS,,106
+32879-029,116594557,3/13/2022,2/25/2022,Medtronic Sofamor Danek Inc,medtronic solera,Screw 4Mm 30Mm Ma Spne Solera Cd Hzn,2/25/2022,55840004030,3,,LS,looks like this was a right tibial shaft fracture? look into it.. I put thoracic XR for now - the tibial shaft fracture procedure is included in the surgery note since they are all from the same admission; I believe you chose the correct xray,107
+32879-029,116594557,3/13/2022,2/25/2022,Medtronic Sofamor Danek Inc,medtronic solera,Screw 4Mm 25Mm Ma Spne Cocr 5.5Mm Rod,2/25/2022,55840004025,1,,LS,can't tell if this is a rod or screw - leave as is,108
+32879-029,116594557,3/13/2022,2/25/2022,Medtronic Sofamor Danek Inc,medtronic solera,Screw 4Mm 35Mm Ma Spne Solera Cocr Bone,2/25/2022,55840004035,4,,LS,,109
+32879-029,116594557,3/13/2022,2/25/2022,Medtronic Sofamor Danek Inc,medtronic solera,Screw 4.5Mm 35Mm Ma Spne Solera Cd Hzn,2/25/2022,55840004535,4,,LS,,110
+32879-030,116457066,2/20/2022,2/17/2022,Nuvasive,nuvasive reline ,Screw 5.5mm Lck Opn Tulip Spne Reline,2/17/2022,13550000,8,,LS,,111
+32879-030,116457066,2/20/2022,2/17/2022,Nuvasive,nuvasive reline ,Reline Red Screw 6.5 x 55,2/17/2022,16026555,6,,LS,,112
+32879-030,116457066,2/20/2022,2/17/2022,Nuvasive,nuvasive reline ,Reline Red Screw 5.5 x 55,2/17/2022,16025555,2,,LS,,113
+32879-031,116446748,2/18/2022,2/16/2022,Nuvasive,nuvasive reline ,Screw 5.5mm Lck Opn Tulip Spne Reline,2/16/2022,13550000,18,,WK,,114
+32879-031,116446748,2/18/2022,2/16/2022,Nuvasive,nuvasive reline ,Reline Screw,2/16/2022,13016535,2,,WK,"manufacturer not indicated, assuming nuvasive",115
+32879-031,116446748,2/18/2022,2/16/2022,Nuvasive,nuvasive reline ,Reline Screw,2/16/2022,13017535,2,,WK,,116
+32879-031,116446748,2/18/2022,2/16/2022,Nuvasive,nuvasive reline ,Reline Screw,2/16/2022,13015540,2,,WK,,117
+32879-031,116446748,2/18/2022,2/16/2022,Nuvasive,nuvasive reline ,Reline Screw,2/16/2022,13016545,4,,WK,,118
+32879-031,116446748,2/18/2022,2/16/2022,Nuvasive,nuvasive reline ,Reline Poly Screw,2/16/2022,14215535,4,,WK,,119
+32879-031,116446748,2/18/2022,2/16/2022,Nuvasive,nuvasive reline ,Reline Poly Screw,2/16/2022,14216545,4,,WK,,120
+32879-032,,,2/15/2022,Nuvasive,nuvasive reline ,Screw 5.5mm Lck Opn Tulip Spne Reline,2/15/2022,13550000,9,,WK,postop imaging not completed,121
+32879-032,,,2/15/2022,Nuvasive,nuvasive reline ,Reline MAS Reduction Screw 6.5x45mm,2/15/2022,16026545,4,,WK,,122
+32879-032,,,2/15/2022,Nuvasive,nuvasive reline ,Reline MAS Reduction Screw 5.5x45mm,2/15/2022,16025545,5,,WK,,123
+32879-033,116452937,2/18/2022,2/15/2022,Medtronic Sofamor Danek Inc,medtronic solera,Screw 4.5Mm 35Mm Ma Spne Solera Cd Hzn,2/15/2022,55840004535,2,,WK,,124
+32879-033,116452937,2/18/2022,2/15/2022,Medtronic Sofamor Danek Inc,medtronic solera,Screw 5.5Mm 35Mm Ma Spne Solera Cd Hzn,2/15/2022,55840005535,2,,WK,,125
+32879-033,116452937,2/18/2022,2/15/2022,Medtronic Sofamor Danek Inc,medtronic solera,Screw 6.5Mm 45Mm Ma Spne Solera Cd Hzn,2/15/2022,55840006545,4,,WK,,126
+32879-034,116414745,2/14/2022,2/12/2022,Nuvasive,nuvasive reline,Xcore mini core 12mm,2/12/2022,5962366,2,,WK,Not sure if this is a screw,127
+32879-034,116414745,2/14/2022,2/12/2022,Nuvasive,nuvasive reline,X core mini lock screw end cap,2/12/2022,5960011,4,,WK,,128
+32879-034,116414745,2/14/2022,2/12/2022,Nuvasive,nuvasive reline,Screw 5.5mm Lck Opn Tulip Spne Reline,2/12/2022,13550000,8,,WK,,129
+32879-034,116414745,2/14/2022,2/12/2022,Nuvasive,nuvasive reline,Reline Screw,2/12/2022,13015545,2,,WK,,130
+32879-034,116414745,2/14/2022,2/12/2022,Nuvasive,nuvasive reline,Reline Screw,2/12/2022,13016545,2,,WK,,131
+32879-034,116414745,2/14/2022,2/12/2022,Nuvasive,nuvasive reline,Reline Screw,2/12/2022,13015550,2,,WK,,132
+32879-034,116414745,2/14/2022,2/12/2022,Nuvasive,nuvasive reline,RelineScrew,2/12/2022,13016550,2,,WK,,133
+32879-035,116387610,2/9/2022,2/8/2022,Nuvasive,medtronic solera,Screw 5.5Mm 35Mm Ma Spne Solera Cd Hzn,2/8/2022,5584005535,5,,WK,Original date said 2/9/2022 but i changed it to 2/8/2022 according to EPIC,134
+32879-035,116387610,2/9/2022,2/8/2022,Nuvasive,medtronic solera,Screw 5Mm 35Mm Ma Spne Solera Cd Hzn,2/8/2022,55840005035,1,,WK,,135
+32879-035,116387610,2/9/2022,2/8/2022,Nuvasive,medtronic solera,Screw 5Mm 30Mm Ma Spne Solera Cd Hzn,2/8/2022,55840005030,1,,WK,,136
+32879-035,116387610,2/9/2022,2/8/2022,Nuvasive,medtronic solera,Screw 4.5Mm 30Mm Ma Spne Solera Cd Hzn,2/8/2022,55840004530,3,,WK,,137
+32879-036,116392459,2/9/2022,2/7/2022,Nuvasive,nuvasive reline,Screw 5.5mm Lck Opn Tulip Spne Reline,2/7/2022,13550000,8,,WK,,138
+32879-036,116392459,2/9/2022,2/7/2022,Nuvasive,nuvasive reline,"Reline-O screw, 7.5x50mm",2/7/2022,13017550,2,,WK,,139
+32879-036,116392459,2/9/2022,2/7/2022,Nuvasive,nuvasive reline,"Reline-O Screw, 6.5x50mm",2/7/2022,13016550,2,,WK,,140
+32879-036,116392459,2/9/2022,2/7/2022,Nuvasive,nuvasive reline,Reline-O Screw 7.5x45mm,2/7/2022,13017545,4,,WK,,141
+32879-037,116352691,2/2/2022,2/1/2022,Medtronic Sofamor Danek Inc,medtronic solera,Screw 4Mm 30Mm Ma Spne Solera Cd Hzn,2/1/2022,55840004030,1,,WK,Original date said 2/2/2022 but EPIC says surgery was 2/1/2022,142
+32879-037,116352691,2/2/2022,2/1/2022,Medtronic Sofamor Danek Inc,medtronic solera,Screw 4.5Mm 35Mm Ma Spne Solera Cd Hzn,2/1/2022,55840004535,1,,WK,,143
+32879-037,116352691,2/2/2022,2/1/2022,Medtronic Sofamor Danek Inc,medtronic solera,Screw 5Mm 30Mm Ma Spne Solera Cd Hzn,2/1/2022,55840005030,1,,WK,,144
+32879-037,116352691,2/2/2022,2/1/2022,Medtronic Sofamor Danek Inc,medtronic solera,Screw 5Mm 35Mm Ma Spne Solera Cd Hzn,2/1/2022,55840005035,3,,WK,,145
+32879-037,116352691,2/2/2022,2/1/2022,Medtronic Sofamor Danek Inc,medtronic solera,Screw 5.5Mm 35Mm Ma Spne Solera Cd Hzn,2/1/2022,55840005535,2,,WK,,146
+32879-038,116338696,1/31/2022,1/29/2022,Medtronic Sofamor Danek Inc,medtronic solera,Screw 4.5Mm 35Mm Ma Spne Solera. Cd Hzn,1/29/2022,55840004535,1,,WK,,147
+32879-038,116338696,1/31/2022,1/29/2022,Medtronic Sofamor Danek Inc,medtronic solera,Screw 5.5Mm 35Mm Ma Spne Solera Cd Hzn,1/29/2022,55840005535,1,,WK,,148
+32879-038,116338696,1/31/2022,1/29/2022,Medtronic Sofamor Danek Inc,medtronic solera,Screw 4.5Mm 40Mm Ma Spne Solera Cd Hzn,1/29/2022,55840004540,2,,WK,,149
+32879-038,116338696,1/31/2022,1/29/2022,Medtronic Sofamor Danek Inc,medtronic solera,Screw 6.5Mm 40Mm Ma Spne Solera Cd Hzn,1/29/2022,55840006535,1,,WK,,150
+32879-038,116338696,1/31/2022,1/29/2022,Medtronic Sofamor Danek Inc,medtronic solera,Screw 6.5Mm 40Mm Ma Spne Solera Cd Hzn,1/29/2022,55840006540,1,,WK,,151
+32879-039,116317936,1/27/2022,1/25/2022,Medtronic Sofamor Danek Inc,medtronic solera,Screw 6.5Mm 40Mm Ma Spne Solera Cd Hzn,1/25/2022,55840006540,3,,WK,,152
+32879-039,116317936,1/27/2022,1/25/2022,Medtronic Sofamor Danek Inc,medtronic solera,Screw 6.5Mm 45Mm Ma Spne Solera Cd Hzn,1/25/2022,55840006545,5,,WK,,153
+32879-040,116299495,1/25/2022,1/24/2022,Nuvasive,nuvasive reline,Screw 5.5mm Lck Opn Tulip Spne Reline,1/24/2022,13550000,16,,WK,,154
+32879-040,116299495,1/25/2022,1/24/2022,Nuvasive,nuvasive reline,RELINE SCREW 5.5MM X 45MM,1/24/2022,13015545,12,,WK,,155
+32879-040,116299495,1/25/2022,1/24/2022,Nuvasive,nuvasive reline,"RELINE SCREW, 5.5MMX50MM",1/24/2022,13015550,4,,WK,,156
+32879-041,116256695,1/18/2022,1/17/2022,EVEREST SCREW,Styker everest (K2M),EVEREST SCREW,1/17/2022,2911-08550,2,,WK,,157
+32879-041,116256695,1/18/2022,1/17/2022,EVEREST SCREW,Styker everest (K2M),EVEREST SCREW,1/17/2022,2911-09550,1,,WK,,158
+32879-041,116256695,1/18/2022,1/17/2022,EVEREST SCREW,Styker everest (K2M),EVEREST SCREW,1/17/2022,2911-01050,1,,WK,,159
+32879-042,,,1/5/2022,,,,,,,,,Surgery not listed in EPIC,160
+32879-043,116170167,1/4/2022,1/3/2022,Nuvasive,nuvasive reline,RELINE-C LOCKSCREW 4.0MM,1/3/2022,3800240,4,,WK,,161
+32879-043,116170167,1/4/2022,1/3/2022,Nuvasive,nuvasive reline,RELINE O SCREW 5.5X35MM,1/3/2022,13015535,4,,WK,,162
+32879-043,116170167,1/4/2022,1/3/2022,Nuvasive,nuvasive reline,RELINE O SCREW 5.5X40MM,1/3/2022,13015540,2,,WK,,163
+32879-043,116170167,1/4/2022,1/3/2022,Nuvasive,nuvasive reline,Screw 5.5mm Lck Opn Tulip Spne Reline,1/3/2022,13550000,10,,WK,,164
+32879-044,116104001,12/22/2022,12/21/2021,K2 Medical Llc,Styker everest (K2M),8.5 x 45 sacral screw,12/21/2021,801-08545D,1,,WK,Not 100% sure on manufacturer,165
+32879-044,116104001,12/22/2022,12/21/2021,K2 Medical Llc,Styker everest (K2M),8.5 x 55 SACRAL SCREW,12/21/2021,801-08555D,2,,WK,,166
+32879-044,116104001,12/22/2022,12/21/2021,K2 Medical Llc,Styker everest (K2M),8.5 X 60 SACRAL SCREW,12/21/2021,801-08560D,1,,WK,,167
+32879-045,116083628,12/20/2021,12/18/2021,Medtronic Sofamor Danek Inc,medtronic solera,Screw 4.5Mm 40Mm Ma Spne Solera Cd Hzn,12/18/2021,55840004540,4,,LS,,168
+32879-045,116083628,12/20/2021,12/18/2021,Medtronic Sofamor Danek Inc,medtronic solera,Screw 6.5Mm 40Mm Ma Spne Solera Cd Hzn,12/18/2021,55840006540,6,,LS,,169
+32879-046,116180262,1/5/2022,12/16/2021,Nuvasive,nuvasive reline,Screw 5.5mm Lck Opn Tulip Spne Reline,12/16/2021,13550000,8,,LS,,170
+32879-046,116180262,1/5/2022,12/16/2021,Nuvasive,nuvasive reline,RELINE MAS RED SCREW 6.5X45,12/16/2021,16026545,6,,LS,,171
+32879-046,116180262,1/5/2022,12/16/2021,Nuvasive,nuvasive reline,RELINE MAS RED SCREW 5.5 X 45,12/16/2021,16025545,2,,LS,,172
+32879-047,116077251,12/18/2021,12/16/2021,Medtronic Sofamor Danek Inc,medtronic solera,Screw 5Mm 40Mm Ma Spne Solera Cd Hzn,12/16/2021,55840005040,4,,LS,,173
+32879-047,116077251,12/18/2021,12/16/2021,Medtronic Sofamor Danek Inc,medtronic solera,Screw 6.5Mm 35Mm Ma Spne Solera Cd Hzn,12/16/2021,55840006535,2,,LS,,174
+32879-047,116077251,12/18/2021,12/16/2021,Medtronic Sofamor Danek Inc,medtronic solera,Screw 6.5Mm 40Mm Ma Spne Solera Cd Hzn,12/16/2021,55840006540,2,,LS,,175
+32879-048,116050737,12/14/2021,12/13/2021,,nuvasive reline,"Reline MAS Redux Screw, 6.5x40mm",12/13/2021,16026540,4,,LS,no manufacturer given,176
+32879-048,116050737,12/14/2021,12/13/2021,,nuvasive reline,Reline MAS R,12/13/2021,16026545,4,,LS,can't tell if this is a screw or not; no manufacturer given,177
+32879-048,116050737,12/14/2021,12/13/2021,Nuvasive,nuvasive reline,Screw 5.5mm Lck Opn Tulip Spne Reline,12/13/2021,13550000,8,,LS,,178
+32879-049,116133611,12/28/2021,"12/12/2021 corrected from EPIC, originally was 12/11/2021",,,Reline Screw ,12/12/2021,13018545,1,,LS,no manufacturer given; 8.5 x 4.5 screw,179
+32879-050,115998807,12/7/2021,12/3/2021,Orthofix Inc,orthofix firebird,Screw 6.5Mm 45Mm Slf-Tap Cann Mdlr Spne,12/3/2021,77-8645,2,,LS,,180
+32879-050,115998807,12/7/2021,12/3/2021,Orthofix Inc,orthofix firebird,Screw 7.5Mm 40Mm Slf-Tap Cann Mdlr Spne,12/3/2021,77-8740,2,,LS,,181
+32879-050,115998807,12/7/2021,12/3/2021,Depuy Spine,orthofix firebird,8.5X40 SCREW,12/3/2021,77-8840,1,,LS,,182
+32879-051,115973006,12/2/2021,11/29/2021,Sea Spine Inc,Seaspine mariner,5.5x35,11/29/2021,41-5535-1,1,,LS,this may be a screw but not sure,183
+32879-051,115973006,12/2/2021,11/29/2021,Sea Spine Inc,Seaspine mariner,5.5x40,11/29/2021,41-5540-1,4,,LS,this may be a screw but not sure,184
+32879-051,115973006,12/2/2021,11/29/2021,Sea Spine Inc,Seaspine mariner,6.5x40,11/29/2021, 41-6540-1,4,,LS,this may be a screw but not sure,185
+32879-052,115923116,11/24/2021,11/22/2021,Nuvasive,nuvasive reline,Screw 5.5mm Lck Opn Tulip Spne Reline,11/24/2021,13550000,4,,LS,,186
+32879-052,115923116,11/24/2021,11/22/2021,Nuvasive,nuvasive reline,"NUVASIVE RELINE SCREW, 6.5 X 45",11/24/2021,13016545,4,,LS,assumed Nuvasive based off of the name...,187
+32879-053,115954928,11/30/2021,11/15/2021,Core Link Llc,,Screw 11.5Mm 40Mm 2 Ld Spne Sacroiliac,11/15/2021,40115-40,1,,LS,,188
+32879-053,115954928,11/30/2021,11/15/2021,Core Link Llc,,Screw 11.5Mm 45Mm 2 Ld Spne Sacroiliac,11/15/2021,40115-45,1,,LS,,189
+32879-053,115954928,11/30/2021,11/15/2021,Core Link Llc,,Screw 11.5Mm 50Mm 2 Ld Spne Sacroiliac,11/15/2021,40115-50,2,,LS,,190
+32879-054,116141150,12/29/2021,11/14/2021,Nuvasive,nuvasive reline,RELINE LOCK SCREW 5.5 OPEN,11/14/2021,13550000,8,,LS,,191
+32879-054,116141150,12/29/2021,11/14/2021,Nuvasive,nuvasive reline,RELINE SCREW 5.5 X 40,11/14/2021,13015540,4,,LS,,192
+32879-054,116141150,12/29/2021,11/14/2021,Nuvasive,nuvasive reline,RELINE SCREW 5.5 X 45,11/14/2021,13015545,4,,LS,,193
+32879-055,115913943,11/23/2021,11/1/2021,Nuvasive,nuvasive reline,Reline Lock Screw,11/1/2021,13550000,4,,LS,,194
+32879-055,115913943,11/23/2021,11/1/2021,Nuvasive,nuvasive reline,"Reline 0 Screw, 7.5 x 50mm",11/1/2021,13017550,2,,LS,,195
+32879-055,115913943,11/23/2021,11/1/2021,Nuvasive,nuvasive reline,"Reline 0 Screw, 6.5 x 50mm",11/1/2021,13016550,2,,LS,,196
+32879-056,115748640,10/28/2021,10/26/2021,Stryker Spine,Styker everest (K2M),Screw 5.5Mm 30Mm Sm Stat Pa Spne Nonster,10/26/2021,,4,,WK,Model/Category # not included,197
+32879-056,115748640,10/28/2021,10/26/2021,Stryker Spine,Styker everest (K2M),Screw 5.5Mm 35Mm Sm Stat Pa Spne Nonster,10/26/2021,,10,,WK,Model/Category # not included,198
+32879-056,115748640,10/28/2021,10/26/2021,Stryker Spine,Styker everest (K2M),Screw 4.5Mm 500Mm Str Sm Stat Rail Spne,10/26/2021,,1,,WK,Model/Category # not included,199
+32879-057,858044492,10/27/2021,10/25/2021,Nuvasive,nuvasive reline,reline lock screw,10/25/2021,13550000,10,,WK,,200
+32879-057,858044492,10/27/2021,10/25/2021,Nuvasive,nuvasive reline,reline screw 4.5 x 30,10/25/2021,13014530,4,,WK,,201
+32879-057,858044492,10/27/2021,10/25/2021,Nuvasive,nuvasive reline,reline scew 7.5 X 50,10/25/2021,13017550,6,,WK,,202
+32879-058,115726282,10/25/2021,10/22/2021,Nuvasive,nuvasive reline,reline lock screw,10/22/2021,13550000,6,,WK,,203
+32879-058,115726282,10/25/2021,10/22/2021,Nuvasive,nuvasive reline,reline mas screw 8.5x45,10/22/2021,16018545,2,,WK,,204
+32879-058,115726282,10/25/2021,10/22/2021,Nuvasive,nuvasive reline,RELINE MAS SCREW 7.5 X 45MM,10/22/2021,16017545,4,,WK,,205
+32879-059,115725428,10/26/2021,10/20/2021,Nuvasive,nuvasive reline,6.5x45 screws ,10/20/2021,16026545,6,,WK,All screw were cervical; excluded,206
+32879-059,115725428,10/26/2021,10/20/2021,Nuvasive,nuvasive reline,6.5x50 screws,10/20/2021,16026550,2,,,,207
+32879-060,115695442,10/20/2021,10/19/2021,Nuvasive,nuvasive reline,NUVASIVE RELINE LOCK SCREW,10/19/2021,13550000,8,,WK,,208
+32879-060,115695442,10/20/2021,10/19/2021,Nuvasive,nuvasive reline,NUVASIVE RELINE MAS SCREW,10/19/2021,16016545,8,,WK,,209
+32879-061,115690246,10/19/2021,10/18/2021,Nuvasive,nuvasive reline,Reline Lock Screw,10/18/2021,13550000,8,,WK,,210
+32879-061,115690246,10/19/2021,10/18/2021,Nuvasive,nuvasive reline,Reline 0 screw,10/18/2021,13015540,4,,WK,,211
+32879-061,115690246,10/19/2021,10/18/2021,Nuvasive,nuvasive reline,Reline 0 screw,10/18/2021,13015545,4,,WK,,212
+32879-062,115673608,10/17/2021,10/15/2021,Nuvasive,nuvasive reline,Reline lock screw,10/15/2021,13550000,8,,LS,,213
+32879-062,115673608,10/17/2021,10/15/2021,Nuvasive,nuvasive reline,reline 0 screw,10/15/2021,13015550,4,,LS,5.5 mm x 50 mm,214
+32879-062,115673608,10/17/2021,10/15/2021,Nuvasive,nuvasive reline,reline 0 screw,10/15/2021,13015545,4,,LS,5.5 mm x 45 mm,215
+32879-063,115735425,10/26/2021,10/4/2021,Nuvasive,nuvasive reline,NuVasive Reline Lock Screw,10/4/2021,13550000,4,,LS,,216
+32879-063,115735425,10/26/2021,10/4/2021,Nuvasive,nuvasive reline,"NuVasive Reline Screw, Fenestrated 6.5 x 45",10/4/2021,14216545,2,,LS,,217
+32879-063,115735425,10/26/2021,10/4/2021,Nuvasive,nuvasive reline,"NuVasive Reline Screw, 5.5 x 50",10/4/2021,14215550,2,,LS,,218
+32879-064,115485274,9/17/2021,9/15/2021,Nuvasive,nuvasive reline,NUVASIVE  RELINE LOCK SCREW,9/15/2021,13550000,5,,LS,,219
+32879-064,115485274,9/17/2021,9/15/2021,Nuvasive,nuvasive reline,NUVASIVE RELINE OPEN SCREW,9/15/2021,13016550,5,,LS,,220
+32879-065,115587904,10/4/2021,9/14/2021,Orthofix Inc,orthofix firebird,Screw 5.5Mm 40Mm Slf-Tap Mdlr Spne,9/14/2021, 44-5540,4,,LS,,221
+32879-065,115587904,10/4/2021,9/14/2021,Orthofix Inc,orthofix firebird,Top Screw Firebird Mdlr Noncannulate,9/14/2021,36-2101,4,,LS,,222
+32879-066,115780309,11/2/2021,9/14/2021,Stryker Spine,Styker everest (K2M),Screw 5.5Mm 40Mm Pa Spne Vrst Nonster,9/14/2021,2911-05540,2,,LS,,223
+32879-066,115780309,11/2/2021,9/14/2021,Stryker Spine,Styker everest (K2M),Screw 6.5Mm 50Mm Pa Spne Vrst Nonster,9/14/2021,2911-06550,4,,LS,,224
+32879-067,115355607,8/29/2021,8/26/2021,Stryker Spine,Styker everest (K2M),Screw 6.5Mm 45Mm Pa Spne Vrst Nonster,8/26/2021,2911-06545,5,,LS,,225
+32879-067,115355607,8/29/2021,8/26/2021,Stryker Spine,Styker everest (K2M),Screw 6.5Mm 50Mm Pa Spne Vrst Nonster,8/26/2021,2911-06550,5,,LS,,226
+32879-068,115349880,8/27/2021,8/24/2021,Stryker Spine,Styker everest (K2M),Screw 5.5Mm 35Mm Pa Spne Vrst Nonster,8/27/2021,2911-05535,4,,LS,,227
+32879-068,115349880,8/27/2021,8/24/2021,Stryker Spine,Styker everest (K2M),Screw 5.5Mm 40Mm Pa Spne Vrst Nonster,8/27/2021,2911-05540,6,,LS,,228
+32879-069,115328120,8/25/2021,8/21/2021,Stryker Spine,Styker everest (K2M),Screw 5.5Mm 35Mm Pa Spne Vrst Nonster,8/21/2021,2911-05535,1,,LS,,229
+32879-069,115328120,8/25/2021,8/21/2021,Stryker Spine,Styker everest (K2M),Screw 5.5Mm 40Mm Pa Spne Vrst Nonster,8/21/2021,2911-05540,10,,LS,,230
+32879-069,115328120,8/25/2021,8/21/2021,Stryker Spine,Styker everest (K2M),Screw 5.5Mm 40Mm Pa Spne Vrst Nonster,8/21/2021,2911-05540,1,,LS,,231
+32879-069,115328120,8/25/2021,8/21/2021,Stryker Spine,Styker everest (K2M),Screw 5.5Mm 45Mm Pa Spne Vrst Nonster,8/21/2021,2911-05545,1,,LS,,232
+32879-070,115304998,8/20/2021,8/19/2021,Orthofix Inc,orthofix firebird,Screw 5.5Mm 35Mm Slf-Tap Mdlr Spne,8/19/2021,44-5535,4,,LS,,233
+32879-070,115304998,8/20/2021,8/19/2021,Orthofix Inc,orthofix firebird,Screw 5.5Mm 40Mm Slf-Tap Mdlr Spne,8/19/2021,44-5540,8,,LS,,234
+32879-071,115300834,8/20/2021,8/17/2021,,seaspine mariner,SEASPINE 6.5MM X 40MM SCREW,8/17/2021, 41-6540-1,2,,LS,"no manufacturer given, could assume seaspine?",235
+32879-071,115300834,8/20/2021,8/17/2021,,seaspine mariner,SEASPINE 6.5MM X 45MM SCREW,8/17/2021,41-6545-1,1,,LS,"no manufacturer given, could assume seaspine?",236
+32879-072,115304097,8/20/2021,8/16/2021,Stryker Spine,Styker everest (K2M),Screw 5.5Mm 40Mm Pa Spne Vrst Nonster,8/16/2021,2911-05540,6,,LS,,237
+32879-072,115304097,8/20/2021,8/16/2021,Stryker Spine,Styker everest (K2M),Screw 5.5Mm 45Mm Pa Spne Vrst Nonster,8/16/2021,2911-05545,2,,LS,,238
+32879-073,115269638,8/16/2021,8/13/2021,Orthofix Inc,orthofix firebird,Screw 6.5Mm 40Mm Slf-Tap Mdlr Spne Bone,8/13/2021,44-5640,8,,LS,no surgery found - updated,239
+32879-074,115213728,8/6/2021,8/4/2021,Stryker Spine,Styker everest (K2M),Screw Everest Polyaxial 06.5X40Mm,8/4/2021,2911-06540,2,,LS,,240
+32879-074,115213728,8/6/2021,8/4/2021,Stryker Spine,Styker everest (K2M),Screw 6.5Mm 45Mm Pa Spne Vrst Nonster,8/4/2021,2911-06545,6,,LS,,241
+32879-075,115191230,8/3/2021,7/30/2021,,Depuy expedium (Synthes),Expedium Poly Screw,7/30/2021,179715535,2,,LS,5.5x35; no manufacturer given,242
+32879-075,115191230,8/3/2021,7/30/2021,Depuy Spine,Depuy expedium (Synthes),Connector Set Screw,7/30/2021,177091075,2,,LS,does this count as a screw?,243
+32879-075,115191230,8/3/2021,7/30/2021,Synthes Spine,Depuy expedium (Synthes),Screw Set Ti 5.5Mm Spne 1 Inr Ma Xpdm,7/30/2021,179702000,9,,LS,this was a screw set but the individual screws were not listed..,244
+32879-076,115183565,8/2/2021,7/30/2021,Orthofix Inc,orthofix firebird ,Top Screw Firebird Mdlr Noncannulate,7/30/2021,36-2101,12,,LS,,245
+32879-076,115183565,8/2/2021,7/30/2021,,orthofix firebird ,6.5X35MM SCREW,7/30/2021,36-2635,2,,LS,no manufacturer given,246
+32879-076,115183565,8/2/2021,7/30/2021,Orthofix Inc,orthofix firebird ,Screw 6.5Mm 40Mm Slf-Tap Mdlr Spne Bone,7/30/2021, 44-5640,10,,LS,,247
+32879-077,115237299,8/10/2021,7/29/2021,Stryker Spine,Styker everest (K2M),Screw 5.5Mm 45Mm Pa Spne Vrst Nonster,7/29/2021,2911-05545,2,,LS,,248
+32879-077,115237299,8/10/2021,7/29/2021,Stryker Spine,Styker everest (K2M),Screw 6.5Mm 35Mm Pa Spne Vrst Nonster,7/29/2021,2911-06535,2,,LS,,249
+32879-077,115237299,8/10/2021,7/29/2021,Stryker Spine,Styker everest (K2M),Screw Everest Polyaxial 06.5X40Mm,7/29/2021, 2911-06540,2,,LS,,250
+32879-077,115237299,8/10/2021,7/29/2021,Stryker Spine,Styker everest (K2M),Screw 6.5Mm 45Mm Pa Spne Vrst Nonster,7/29/2021, 2911-06545,2,,LS,,251
+32879-077,115237299,8/10/2021,7/29/2021,Stryker Spine,Styker everest (K2M),Screw 6.5Mm 50Mm Pa Spne Vrst Nonster,7/29/2021,2911-06550,10,,LS,,252
+32879-077,115237299,8/10/2021,7/29/2021,,Styker everest (K2M),9.5x100mm Everest Screw ,7/29/2021,M5111-095100,2,,LS,no manufacturer given,253
+32879-078,115450751,9/13/2021,7/27/2021,Stryker Spine,Styker everest (K2M),Screw 5.5Mm 35Mm Pa Spne Vrst Nonster,7/27/2021,2911-05535,1,,AG,,254
+32879-078,115450751,9/13/2021,7/27/2021,K2 Medical Llc,Styker everest (K2M),Everest Polyaxial Screws 5.5mm,7/27/2021,2911-05530,5,,AG,,255
+32879-079,115125674,7/23/2021,7/22/2021,Stryker Spine,Styker everest (K2M),Screw 6.5Mm 45Mm Pa Spne Vrst Nonster,7/22/2021,2911-06545,4,,WK,,256
+32879-080,115076234,7/16/2021,7/10/2021,Stryker Spine,Styker everest (K2M),Screw 5.5Mm 40Mm Pa Spne Vrst Nonster,7/10/2021,,2,,WK,Model/Category # not included,257
+32879-080,115076234,7/16/2021,7/10/2021,Stryker Spine,Styker everest (K2M),Screw 5.5Mm 35Mm Pa Spne Vrst Nonster,7/10/2021,,4,,WK,Model/Category # not included,258
+32879-080,115076234,7/16/2021,7/10/2021,,Styker everest (K2M),Screw 5.5Mm 30Mm Pa Spne Vrst Nonster,7/10/2021,,2,,WK,"Model/Category # not included, no manufacturer given",259
+32879-081,115032809,7/9/2021,7/6/2021,Stryker Spine,Styker everest (K2M),SCREW EVEREST POLYAXIAL 06.5X40MM,7/6/2021,2911-06540,12,,WK,,260
+32879-081,115032809,7/9/2021,7/6/2021,Stryker Spine,Styker everest (K2M),SCREW 6.5MM 45MM PA SPNE VRST NONSTER - SN/A,7/6/2021,2911-06545,6,,WK,,261
+32879-081,115032809,7/9/2021,7/6/2021,,Styker everest (K2M),9.5X100MM SCREW,7/6/2021,M5111-095100,2,,WK,manufacturer not given; probably stryker spine,262
+32879-082,114999073,7/4/2021,7/4/2021,Stryker Spine,Styker everest (K2M),Screw Everest Polyaxial 06.5X40Mm,7/4/2021,2911-06540,1,,WK,,263
+32879-082,114999073,7/4/2021,7/4/2021,Stryker Spine,Styker everest (K2M),Screw 6.5Mm 45Mm Pa Spne Vrst Nonster,7/4/2021,2911-06545,7,,WK,,264
+32879-083,114949278,6/25/2021,6/23/2021,Orthofix Inc,Styker everest (K2M),ORTHOFIX 5.5MM X 35MM SCREW,6/23/2021,77-8535,1,,WK,,265
+32879-083,114949278,6/25/2021,6/23/2021,Orthofix Inc,Styker everest (K2M),5.5 X 40MM,6/23/2021,77-850,3,,WK,,266
+32879-084,114937350,6/24/2021,6/22/2021,Nuvasive,nuvasive reline,Screw 5.5mm Lck Opn Tulip Spne Reline,6/22/2021,13550000,8,,WK,,267
+32879-084,114937350,6/24/2021,6/22/2021,Nuvasive,nuvasive reline,RELINE-O Screw 4.5 x 25mm 2S Polyaxial,6/22/2021,13014525,4,,WK,,268
+32879-084,114937350,6/24/2021,6/22/2021,Nuvasive,nuvasive reline,Screw 5.5mm 35mm 2s Pa Spne Reline-o,6/22/2021,13015535,4,,WK,,269
+32879-085,114942777,6/25/2021,6/21/2021,Sea Spine Inc,seaspine mariner,5.5 x 30mm Screw,6/21/2021,41-5530,1,,WK,,270
+32879-085,114942777,6/25/2021,6/21/2021,Sea Spine Inc,seaspine mariner,5.5 x 35mm Screw,6/21/2021,41-5535,5,,WK,,271
+32879-085,114942777,6/25/2021,6/21/2021,Sea Spine Inc,seaspine mariner,6.5 x 40mm Screw,6/21/2021,41-6540,6,,WK,,272
+32879-086,114907468,6/19/2021,6/18/2021,Sea Spine Inc,seaspine mariner,6.5 x 45 Screw,6/18/2021,41-6545-1,4,,WK,,273
+32879-086,114907468,6/19/2021,6/18/2021,Sea Spine Inc,seaspine mariner,7.5 x 40 Screw,6/18/2021,41-7540-1,2,,WK,,274
+32879-086,114907468,6/19/2021,6/18/2021,Sea Spine Inc,seaspine mariner,8.5 x 80mm Screw,6/18/2021,41-8580-2,2,,WK,,275
+32879-087,114879990,6/15/2021,6/12/2021,Stryker Spine,Styker everest (K2M),Screw Everest Polyaxial 06.5X40Mm,6/12/2021,2911-06540,4,,LS,,276
+32879-088,114871761,6/14/2021,5/25/2021,Stryker Spine,Styker everest (K2M),Screw 5.5Mm 45Mm Pa Spne Vrst Nonster,5/25/2021,2911-05545,6,,LS,,277
+32879-088,114871761,6/14/2021,5/25/2021,Stryker Spine,Styker everest (K2M),Screw 6.5Mm 50Mm Pa Spne Vrst Nonster,5/25/2021,2911-06550,4,,LS,,278
+32879-089,114705270,5/18/2021,5/14/2021,Stryker Spine,Styker everest (K2M),Screw Everest Polyaxial 06.5X40Mm,5/14/2021,2911-06540,4,,LS,,279
+32879-089,114705270,5/18/2021,5/14/2021,Stryker Spine,Styker everest (K2M),Screw 5.5Mm 40Mm Pa Spne Vrst Nonster,5/14/2021,2911-05540,1,,LS,,280
+32879-090,114547234,4/22/2021,4/20/2021,Stryker Spine,Styker everest (K2M),Screw 6.5Mm 45Mm Pa Spne Vrst Nonster,,2911-06545,4,,LS,"surgery originally said 4/22 in the doc, but it was 4/20 in epic. also, scan may not be accessible...",281
+32879-091,114626980,5/5/2021,4/20/2021,Medtronic Sofamor Danek Inc,medtronic solera,SCREW 7.5MM 50MM MA SPNE SOLERA CD HZN - SN/A,4/20/2021,55840007550,4,,LS,,282
+32879-091,114626980,5/5/2021,4/20/2021,Medtronic Sofamor Danek Inc,medtronic solera,SCREW 8.5MM 40MM MA SPNE SOLERA CD HZN - SN/A,4/20/2021,55840008540,2,,LS,,283
+32879-091,114626980,5/5/2021,4/20/2021,Medtronic Sofamor Danek Inc,medtronic solera,SCREW 5.5/6 MAS 10.5X40 CC - SN/A,4/20/2021,55840001540,1,,LS,,284
+32879-091,114626980,5/5/2021,4/20/2021,Medtronic Sofamor Danek Inc,medtronic solera,SCREW 9.5MM 40MM MA SPNE COCR 5.5MM ROD - SN/A,4/20/2021,55840009540,1,,LS,,285
+32879-091,114626980,5/5/2021,4/20/2021,Medtronic Sofamor Danek Inc,medtronic solera,SCREW 9.5MM 90MM MA SPNE SOLERA CD HZN - SN/A,4/20/2021,55840009590,1,,LS,,286
+32879-091,114626980,5/5/2021,4/20/2021,Medtronic Sofamor Danek Inc,medtronic solera,SCREW 9.5MM 80MM MA SPNE COCR 5.5MM ROD - SN/A,4/20/2021,55840009580,1,,LS,,287
+32879-092,114634343,5/6/2021,4/20/2021,,seaspine mariner,SEASPINE 7.5 X 45MM SCREW,4/20/2021,41-7545,8,,LS,no manufacturer given,288
+32879-092,114634343,5/6/2021,4/20/2021,,seaspine mariner,SEASPINE POLY HEAD ,4/20/2021,41-3010,8,,LS,are these screws? unclear; also no manufacturer given,289
+32879-093,114653836,5/10/2021,4/16/2021,Stryker Spine,Styker everest (K2M),Screw 6.5Mm 35Mm Pa Spne Vrst Nonster,4/16/2021,2911-06535,1,,LS,,290
+32879-093,114653836,5/10/2021,4/16/2021,Stryker Spine,Styker everest (K2M),Screw Everest Polyaxial 06.5X40Mm,4/16/2021,2911-06540,7,,LS,,291
+32879-094,114529110,4/20/2021,4/16/2021,Sea Spine Inc,seaspine mariner,6.5 x 45mm screw,4/16/2021,41-6545-1,4,,LS,,292
+32879-094,114529110,4/20/2021,4/16/2021,Sea Spine Inc,seaspine mariner,6.5 x 40mm screw,4/16/2021,41-6540-1,2,,LS,,293
+32879-094,114529110,4/20/2021,4/16/2021,Sea Spine Inc,seaspine mariner,Polyaxial heads,4/16/2021,41-3010,6,,LS,not sure if these are screws or not,294
+32879-095,114511748,4/16/2021,4/13/2021,,seaspine mariner,SeaSpine 6.5 x 50mm screw,4/13/2021,41-6550-1,4,,LS,,295
+32879-095,114511748,4/16/2021,4/13/2021,,seaspine mariner,SeaSpine Poly Head,4/13/2021,41-3010,4,,LS,not sure if these are screws or not,296
+32879-096,114740757,5/24/2021,4/2/2021,Stryker Spine,Styker everest (K2M),Screw Everest Polyaxial 06.5X40Mm,4/2/2021,2911-06540,6,,LS,,297
+32879-096,114740757,5/24/2021,4/2/2021,Stryker Spine,Styker everest (K2M),Screw 6.5Mm 55Mm Pa Spne Vrst Nonster,4/2/2021,2911-06555,1,,LS,,298
+32879-097,114424774,4/3/2021,3/29/2021,Orthofix Inc,orthofix firebird,Screw 6.5Mm 40Mm Slf-Tap Mdlr Spne Bone,3/29/2021,44-5640,4,,LS,,299
+32879-097,114424774,4/3/2021,3/29/2021,Orthofix Inc,orthofix firebird,Screw 6.5Mm 45Mm Slf-Tap Mdlr Spne Bone,3/29/2021,44-5645,4,,LS,,300
+32879-097,114424774,4/3/2021,3/29/2021,Orthofix Inc,orthofix firebird,Top Screw Firebird Mdlr Noncannulate,3/29/2021,36-2101,8,,LS,,301
+32879-098,114458194,4/8/2021,3/24/2021,Sea Spine Inc,seaspine mariner ,SEA SPINE 6.5 X 45MM SCREW,3/24/2021,41-6545-1,4,,LS,,302
+32879-098,114458194,4/8/2021,3/24/2021,Sea Spine Inc,seaspine mariner ,SEA SPINE POLY HEAD,3/24/2021,41-3010,4,,LS,not sure if this is a screw or not..,303
+32879-099,114366832,3/24/2021,3/23/2021,Orthofix Inc,orthofix firebird,Screw 6.5Mm 45Mm Slf-Tap Mdlr Spne Bone,3/23/2021,44-5645,4,,LS,,304
+32879-099,114366832,3/24/2021,3/23/2021,Orthofix Inc,orthofix firebird,Top Screw Firebird Mdlr Noncannulate,3/23/2021,36-2101,4,,LS,,305
+32879-100,114365005,3/24/2021,3/22/2021,Stryker Spine,Styker everest (K2M),Screw 5.5Mm 45Mm Pa Spne Vrst Nonster,3/22/2021,2911-05545,8,,LS,,306
+32879-101,114568864,4/26/2021,3/16/2021,Stryker Spine,Styker everest (K2M),Screw Everest Polyaxial 06.5X40Mm,3/16/2021,2911-06540,6,,LS,,307
+32879-101,114568864,4/26/2021,3/16/2021,Stryker Spine,Styker everest (K2M),Screw 6.5Mm 50Mm Pa Spne Vrst Nonster,3/16/2021,2911-06550,1,,LS,,308
+32879-101,114568864,4/26/2021,3/16/2021,Stryker Spine,Styker everest (K2M),Screw Everest Polyaxial 06.5X40Mm,3/16/2021,2911-06540,1,,LS,,309
+32879-102,114330822,3/18/2021,3/15/2021,Medtronic Sofamor Danek Inc,medtronic solera,Screw 6.5Mm 50Mm Ma Spne Solera Cd Hzn,3/15/2021,55840006550,1,,LS,,310
+32879-102,114330822,3/18/2021,3/15/2021,Medtronic Sofamor Danek Inc,medtronic solera,Screw 6.5Mm 45Mm Ma Spne Solera Cd Hzn,3/15/2021,55840006545,1,,LS,,311
+32879-102,114330822,3/18/2021,3/15/2021,Medtronic Sofamor Danek Inc,medtronic solera,Screw Set Ti Spnl Brk Off Cd Hzn Nonster,3/15/2021,5540030,6,,LS,screw set had 6 screws; listed screws were only 2,312
+32879-103,114389190,3/29/2021,3/15/2021,Sea Spine Inc,seaspine mariner ,5.5 x 35 screw,3/15/2021,41-5535,2,,LS,,313
+32879-103,114389190,3/29/2021,3/15/2021,Sea Spine Inc,seaspine mariner ,5.5 x 40 screw,3/15/2021,41-5540,3,,LS,,314
+32879-103,114389190,3/29/2021,3/15/2021,Sea Spine Inc,seaspine mariner ,6.5 x 40 screw,3/15/2021,41-6540,2,,LS,,315
+32879-103,114389190,3/29/2021,3/15/2021,Sea Spine Inc,seaspine mariner ,poly head,3/15/2021,41-3010,7,,LS,not sure if these are screws or not,316
+32879-104,114266257,3/8/2021,3/4/2021,Stryker Spine,Styker everest (K2M),Screw 6.5Mm 35Mm Pa Spne Vrst Nonster,3/4/2021,2911-06535,1,,LS,,317
+32879-104,114266257,3/8/2021,3/4/2021,Stryker Spine,Styker everest (K2M),Screw Everest Polyaxial 06.5X40Mm,3/4/2021,2911-06540,9,,LS,,318
+32879-105,114255427,3/6/2021,3/2/2021,Orthofix Inc,orthofix firebird,Screw 6.5Mm 40Mm Slf-Tap Mdlr Spne Bone,3/2/2021,44-5640,8,,LS,,319
+32879-105,114255427,3/6/2021,3/2/2021,Orthofix Inc,orthofix firebird,Top Screw Firebird Mdlr Noncannulate,3/2/2021,36-2101,8,,LS,,320
+32879-106,114242758,3/4/2021,3/2/2021,Stryker Spine,Styker everest (K2M),Screw 5.5Mm 35Mm Pa Spne Vrst Nonster,3/2/2021,2911-05535,1,,LS,,321
+32879-106,114242758,3/4/2021,3/2/2021,Stryker Spine,Styker everest (K2M),Screw 5.5Mm 40Mm Pa Spne Vrst Nonster,3/2/2021,2911-05540,7,,LS,,322
+32879-107,114322642,3/17/2021,2/25/2021,Stryker Spine,Styker everest (K2M),Screw Everest Polyaxial 06.5X40Mm,2/25/2021,2911-06540,3,,LS,,323
+32879-107,114322642,3/17/2021,2/25/2021,Stryker Spine,Styker everest (K2M),Screw 6.5Mm 45Mm Pa Spne Vrst Nonster,2/25/2021,2911-06545,8,,LS,,324
+32879-107,114322642,3/17/2021,2/25/2021,Stryker Spine,Styker everest (K2M),Screw 6.5Mm 50Mm Pa Spne Vrst Nonster,2/25/2021,2911-06550,1,,LS,,325
+32879-107,114322642,3/17/2021,2/25/2021,Everest Medical,Styker everest (K2M),9.5x100 Co0nnulated Everest,2/25/2021,M5111-095100,2,,LS,"not sure if these are screws or not, but the set screw list was missing 2-- assumed these were the 2",326
+32879-108,114212941,2/27/2021,2/23/2021,Medtronic Sofafmor Danek Inc,medtronic solera,Screw 9.5Mm 100Mm Ma Spne Solera Cd Hzn,2/23/2021,55840009500,1,,WK,,327
+32879-108,114212941,2/27/2021,2/23/2021,Medtronic Sofafmor Danek Inc,medtronic solera,Screw 6.5Mm 40Mm Ma Spne Solera Cd Hzn,2/23/2021,55840006540,9,,WK,,328
+32879-108,114212941,2/27/2021,2/23/2021,Medtronic Sofafmor Danek Inc,medtronic solera,Screw 6.5Mm 35Mm Ma Spne Solera Cd Hzn,2/23/2021,55840006535,1,,WK,,329
+32879-108,114212941,2/27/2021,2/23/2021,Medtronic Sofafmor Danek Inc,medtronic solera,Screw 6.5Mm 50Mm Ma Spne Solera Cd Hzn,2/23/2021,55840006550,3,,WK,,330
+32879-108,114212941,2/27/2021,2/23/2021,Medtronic Sofafmor Danek Inc,medtronic solera,Screw 6.5Mm 45Mm Ma Spne Solera Cd Hzn,2/23/2021,55840006545,5,,WK,,331
+32879-109,114138050,2/14/2021,2/11/2021,Ortho Pediatrics,,6.5 x 45 PR screw,2/11/2021,00-1300-9645,2,,WK,,332
+32879-109,114138050,2/14/2021,2/11/2021,Ortho Pediatrics,,6.5 x 40 PR screw,2/11/2021,00-1300-9640,6,,WK,,333
+32879-109,114138050,2/14/2021,2/11/2021,Ortho Pediatrics,,5.5 x 35 PR screw,2/11/2021,00-1300-9535,8,,WK,,334
+32879-110,1140888480,2/4/2021,2/2/2021,Stryker Spine,Styker everest (K2M),Screw 6.5Mm 45Mm Pa Spne Vrst Nonster,2/2/2021,2911-06545,6,,WK,,335
+32879-111,114075826,2/2/2021,1/30/2021,Stryker Spine,Styker everest (K2M),Screw 5.5Mm 35Mm Pa Spne Vrst Nonster,1/30/2021,2911-05535,4,,WK,,336
+32879-111,114075826,2/2/2021,1/30/2021,Stryker Spine,Styker everest (K2M),Screw 5.5Mm 40Mm Pa Spne Vrst Nonster,1/30/2021,2911-05540,2,,WK,,337
+32879-112,114059577,1/31/2021,1/28/2021,Stryker Spine,Styker everest (K2M),Screw 6.5Mm 50Mm Pa Spne Vrst Nonster,1/28/2021,2911-06550,6,,WK,,338
+32879-113,114047386,1/28/2021,1/26/2021,Stryker Spine,Styker everest (K2M),Screw 5.5Mm 35Mm Pa Spne Vrst Nonster,1/26/2021,2911-05535,2,,WK,,339
+32879-113,114047386,1/28/2021,1/26/2021,Stryker Spine,Styker everest (K2M),Screw 5.5Mm 40Mm Pa Spne Vrst Nonster,1/26/2021,2911-05540,2,,WK,,340
+32879-113,114047386,1/28/2021,1/26/2021,Stryker Spine,Styker everest (K2M),6.5x30mm Everest Polyaxial Screw,1/26/2021,2911-06530,2,,WK,,341
+32879-113,114047386,1/28/2021,1/26/2021,Stryker Spine,Styker everest (K2M),9.5x70 Cannulated Everest Screw,1/26/2021,M5111-09570,2,,WK,original surgery date was wrong (not 1/27/2021),342
+32879-114,114048599,1/28/2021,1/26/2021,Stryker Spine,Styker everest (K2M),Screw Everest Polyaxial 06.5X40Mm,1/26/2021,2911-06540,1,,WK,,343
+32879-115,114028351,1/26/2021,1/25/2021,Orthofix Inc,orthofix firebird ,Screw 4.5Mm 30Mm Slf-Tap Mdlr Nclnlt,1/25/2021,44-5430,2,,WK,,344
+32879-115,114028351,1/26/2021,1/25/2021,Orthofix Inc,orthofix firebird ,Screw 4.5Mm 35Mm Slf-Tap Mdlr Nclnlt,1/25/2021,44-5435,2,,WK,,345
+32879-116,114019166,1/24/2021,1/21/2021,Stryker Spine,Styker everest (K2M),YUKON OCT POLYAXIAL SCREW 5.0 X 24 MM,1/21/2021,7601-05024,2,,WK,,346
+32879-116,114019166,1/24/2021,1/21/2021,Stryker Spine,Styker everest (K2M),YUKON OCTPOLYAXIAL SCREWS 5.0 X 28 MM,1/21/2021,7601-05028M,2,,WK,,347
+32879-117,114037105,1/27/2021,1/20/2021,Orthofix Inc,orthofix firebird ,Screw 4Mm 20Mm Ma Drv Bdy Rod Sdl Spne,1/20/2021,69-3420,2,,WK,,348
+32879-117,114037105,1/27/2021,1/20/2021,Orthofix Inc,orthofix firebird ,4.0 X 26 MM SCREW,1/20/2021,69-3420,2,,WK,,349
+32879-117,114037105,1/27/2021,1/20/2021,Orthofix Inc,orthofix firebird ,4.5 X 35 MM SCREW,1/20/2021,69-3535,2,,WK,,350
+32879-117,114037105,1/27/2021,1/20/2021,Orthofix Inc,orthofix firebird ,5.0 X 35 MM SCREW,1/20/2021,69-3635,2,,WK,,351
+32879-118,114008942,1/21/2021,1/19/2021,Sea Spine Inc,seaspine mariner,6.5 X 35 MM SCREW,1/19/2021,41-6535,2,,WK,,352
+32879-118,114008942,1/21/2021,1/19/2021,Sea Spine Inc,seaspine mariner,6.5 X 45 MM SCREW,1/19/2021,41-6545,4,,WK,,353
+32879-118,114008942,1/21/2021,1/19/2021,Sea Spine Inc,seaspine mariner,7.5 x 35 MM SCREW,1/19/2021,41-7535,2,,WK,,354
+32879-118,114008942,1/21/2021,1/19/2021,Sea Spine Inc,seaspine mariner,8.5 X 90 MM SCREW,1/19/2021,41-8590,2,,WK,,355
+32879-118,114008942,1/21/2021,1/19/2021,Sea Spine Inc,seaspine mariner,6.0 x 250 MM SCREW,1/19/2021,41-1250,2,,WK,,356
+32879-119,113846513,12/22/2020,12/21/2020,Sea Spine Inc,seaspine mariner,5.5 x 40mm Screw,12/21/2020,41-5540-1,8,,WK,,357
+32879-119,113846513,12/22/2020,12/21/2020,Sea Spine Inc,seaspine mariner,5.5 x 45mm Screw,12/21/2020,41-5545-1,2,,WK,,358
+32879-119,113846513,12/22/2020,12/21/2020,Sea Spine Inc,seaspine mariner,6.5 x 40mm Screw,12/21/2020,41-6540-1,2,,WK,,359
+32879-120,113789273,12/12/2020,12/11/2020,Orthofix Inc,orthofix firebird ,Screw 5.5Mm 35Mm Slf-Tap Mdlr Spne,12/11/2020,44-5535,8,,WK,,360
+32879-120,113789273,12/12/2020,12/11/2020,Orthofix Inc,orthofix firebird ,Screw 5.5Mm 40Mm Slf-Tap Mdlr Spne,12/11/2020,44-5540,1,,WK,,361
+32879-121,113797571,12/14/2020,12/11/2020,Sea Spine Inc,seaspine mariner,5.5 x 35 screw,12/11/2020,41-5535-1,4,,WK,,362
+32879-121,113797571,12/14/2020,12/11/2020,Sea Spine Inc,seaspine mariner,5.5 x 40 screw,12/11/2020,41-5540-1,2,,WK,,363
+32879-121,113797571,12/14/2020,12/11/2020,Sea Spine Inc,seaspine mariner,6.5 x 40 screw,12/11/2020,41-6540-1,4,,WK,,364
+32879-122,113760260,12/8/2020,12/7/2020,Core Link Llc,,Screw 4.5Mm 36Mm Pa Spne Tiger Nonster,12/7/2020,35045-36,4,,WK,,365
+32879-122,113760260,12/8/2020,12/7/2020,Core Link Llc,,Screw 4.5Mm 34Mm Pa Spne Tiger Nonster,12/7/2020,35045-34,2,,WK,,366
+32879-123,113720301,12/1/2020,11/30/2020,Orthofix Inc,orthofix firebird ,Screw 6.5Mm 45Mm Slf-Tap Mdlr Spne Bone,11/30/2020,44-5645,4,,WK,,367
+32879-123,113720301,12/1/2020,11/30/2020,Orthofix Inc,orthofix firebird ,Screw 6.5Mm 40Mm Slf-Tap Mdlr Spne Bone,11/30/2020,44-5640,4,,WK,,368
+32879-124,113609982,11/10/2020,11/9/2020,Core Link Llc,,3.5 x 14mm screw,11/9/2020,35035-14,4,,WK,cervical -- do we not include?,369
+32879-124,113609982,11/10/2020,11/9/2020,Core Link Llc,,3.5 x 16mm screw,11/9/2020,35035-16,2,,WK,cervical -- do we not include?,370
+32879-124,113609982,11/10/2020,11/9/2020,Core Link Llc,,4.0 x 20mm screw,11/9/2020,35040-20,2,,WK,cervical -- do we not include?,371
+32879-125,113581075,11/5/2020,11/2/2020,Orthofix Inc,orthofix firebird ,Screw 5.5Mm 35Mm Slf-Tap Mdlr Spne,11/2/2020,44-5535,2,,WK,,372
+32879-125,113581075,11/5/2020,11/2/2020,Orthofix Inc,orthofix firebird ,Screw 5.5Mm 40Mm Slf-Tap Mdlr Spne,11/2/2020,44-5540,4,,WK,,373
+32879-125,113581075,11/5/2020,11/2/2020,Orthofix Inc,orthofix firebird ,Screw 6.5Mm 40Mm Slf-Tap Mdlr Spne Bone,11/2/2020,44-5640,4,,WK,,374
+32879-126,113562712,11/3/2020,11/2/2020,Stryker Spine,Styker everest (K2M),Screw 5.5Mm 35Mm Pa Spne Vrst Nonster,11/2/2020,2911-05535,8,,WK,,375
+32879-126,113562712,11/3/2020,11/2/2020,Stryker Spine,Styker everest (K2M),Screw 5.5Mm 30Mm Pa Spne Vrst Nonster,11/2/2020,2911-05530,3,,WK,,376
+32879-126,113562712,11/3/2020,11/2/2020,Stryker Spine,Styker everest (K2M),Screw 5.5Mm 40Mm Pa Spne Vrst Nonster,11/2/2020,2911-05540,1,,WK,,377
+32879-127,113529467,10/28/2020,10/27/2020,Rti Surgical Inc,,4.5 x 35mm screw,10/27/2020,05-PA-45-35,2,,WK,,378
+32879-127,113529467,10/28/2020,10/27/2020,Rti Surgical Inc,,5.5 x 30mm screw,10/27/2020,05-PA-55-30,2,,WK,,379
+32879-127,113529467,10/28/2020,10/27/2020,Rti Surgical Inc,,5.5 x 35mm screw,10/27/2020,05-PA-55-35,4,,WK,,380
+32879-127,113529467,10/28/2020,10/27/2020,Rti Surgical Inc,,5.5 x 40mm screw,10/27/2020,05-PA-55-40,2,,WK,,381
+32879-127,113529467,10/28/2020,10/27/2020,Rti Surgical Inc,,6.5 x 40mm screw,10/27/2020,05-PA-65-40,6,,WK,,382
+32879-128,113302241,9/19/2020,9/18/2020,Orthofix Inc,orthofix firebird,Screw 6.5Mm 45Mm Slf-Tap Mdlr Spne Bone,9/18/2020,44-5645,4,,WK,,383
+32879-129,113292680,9/28/2020,9/15/2020,Stryker Spine,Styker everest (K2M),Screw Everest Polyaxial 06.5X40Mm,9/15/2020,2911-06540,2,,WK,,384
+32879-129,113292680,9/28/2020,9/15/2020,Stryker Spine,Styker everest (K2M),Screw 6.5Mm 50Mm Pa Spne Vrst Nonster,9/15/2020,2911-06550,10,,WK,,385
+32879-129,113292680,9/28/2020,9/15/2020,Stryker Spine,Styker everest (K2M),9.5 x 100 everest cannulated screw,9/15/2020,M5111-095100,2,,WK,,386
+32879-130,113257353,9/11/2020,9/8/2020,Rti Surgical Inc,,Screw 5.5mm 35mm Pa Cann Spne Pdcl,9/8/2020,05-PA-55-35,4,,WK,,387
+32879-131,,,8/18/2020,,,,,,,,WK,"No screws, only a screw set",388
+32879-132,113118311,8/19/2020,8/18/2020,Stryker Spine,Styker everest (K2M),Screw Everest Polyaxial 06.5X40Mm,8/18/2020,2911-06540,5,,WK,,389
+32879-132,113118311,8/19/2020,8/18/2020,Stryker Spine,Styker everest (K2M),Screw 6.5Mm 45Mm Pa Spne Vrst Nonster,8/18/2020,2911-06545,4,,WK,,390
+32879-132,113118311,8/19/2020,8/18/2020,Stryker Spine,Styker everest (K2M),Screw 6.5Mm 50Mm Pa Spne Vrst Nonster,8/18/2020,2911-06550,9,,WK,,391
+32879-133,113148984,8/24/2020,8/11/2020,Orthofix Inc,orthofix firebird,Screw 6.5Mm 50Mm Slf-Tap Mdlr Spne Bone,8/11/2020,44-5650,2,,LS,,392
+32879-133,113148984,8/24/2020,8/11/2020,Orthofix Inc,orthofix firebird,Screw 7.5Mm 50Mm Slf-Tap Mdlr Spne Bone,8/11/2020,44-5750,2,,LS,,393
+32879-133,113148984,8/24/2020,8/11/2020,Orthofix Inc,orthofix firebird,orthofix nxg 8.5 x 90 mm screw,8/11/2020,44-5890,2,,LS,,394
+32879-133,113148984,8/24/2020,8/11/2020,Orthofix Inc,orthofix firebird,Top Screw Firebird Mdlr Noncannulate,8/11/2020,36-2101,2,,LS,,395
+32879-133,113148984,8/24/2020,8/11/2020,Orthofix Inc,orthofix firebird,Screw 6.5Mm 50Mm Slf-Tap Cann Spne,8/11/2020,77-8650,2,,LS,,396
+32879-134,113027680,8/3/2020,8/1/2020,Orthofix Inc,orthofix firebird,Screw 5.5Mm 35Mm Slf-Tap Mdlr Spne,8/1/2020,44-5535,4,,LS,,397
+32879-134,113027680,8/3/2020,8/1/2020,Orthofix Inc,orthofix firebird,Screw 5.5Mm 40Mm Slf-Tap Mdlr Spne,8/1/2020,44-5540,2,,LS,,398
+32879-134,113027680,8/3/2020,8/1/2020,Orthofix Inc,orthofix firebird,Screw 6.5Mm 40Mm Slf-Tap Mdlr Spne Bone,8/1/2020,44-5640,2,,LS,,399
+32879-134,113027680,8/3/2020,8/1/2020,Orthofix Inc,orthofix firebird,Screw 6.5Mm 45Mm Slf-Tap Mdlr Spne Bone,8/1/2020,44-5645,2,,LS,,400
+32879-134,113027680,8/3/2020,8/1/2020,Orthofix Inc,orthofix firebird,Top Screw Firebird Mdlr Noncannulate,8/1/2020,36-2101,10,,LS,,401
+32879-135,113248391,9/10/2020,7/31/2020,Orthofix Inc,orthofix firebird,Screw 5.5Mm 35Mm Slf-Tap Mdlr Spne,7/31/2020,44-5535,4,,LS,,402
+32879-135,113248391,9/10/2020,7/31/2020,Orthofix Inc,orthofix firebird,Screw 6.5Mm 40Mm Slf-Tap Mdlr Spne Bone,7/31/2020,44-5640,4,,LS,,403
+32879-135,113248391,9/10/2020,7/31/2020,Orthofix Inc,orthofix firebird,Top Screw Firebird Mdlr Noncannulate,7/31/2020,36-2101,10,,LS,,404
+32879-135,113248391,9/10/2020,7/31/2020,Orthofix Inc,orthofix firebird,Screw 6.5Mm 45Mm Slf-Tap Mdlr Spne Bone,7/31/2020,44-5645,2,,LS,,405
+32879-136,113028707,8/3/2020,7/23/2020,Stryker Spine,Styker everest (K2M),Screw Everest Polyaxial 06.5X40Mm,7/23/2020,2911-06540,11,,LS,"due to the nature of her operation, she had screws that were placed in both the thoracic and lumbar regions --> the xray attached is the lumbar xray, but it doesn't show the entire number of screws",406
+32879-136,113028707,8/3/2020,7/23/2020,Stryker Spine,Styker everest (K2M),Screw 6.5Mm 50Mm Pa Spne Vrst Nonster,7/23/2020,2911-06550,9,,LS,,407
+32879-136,113028707,8/3/2020,7/23/2020,Stryker Spine,Styker everest (K2M),Screw 6.5Mm 45Mm Pa Spne Vrst Nonster,7/23/2020,2911-06545,2,,LS,,408
+32879-137,112978882,7/25/2020,7/22/2020,Orthofix Inc,orthofix firebird,Screw 5.5Mm 35Mm Slf-Tap Mdlr Spne,7/22/2020,44-5535,2,,LS,,409
+32879-137,112978882,7/25/2020,7/22/2020,Orthofix Inc,orthofix firebird,Screw 5.5Mm 40Mm Slf-Tap Mdlr Spne,7/22/2020,44-5540,2,,LS,,410
+32879-137,112978882,7/25/2020,7/22/2020,Orthofix Inc,orthofix firebird,Screw 6.5Mm 40Mm Slf-Tap Mdlr Spne Bone,7/22/2020,44-5640,2,,LS,,411
+32879-137,112978882,7/25/2020,7/22/2020,Orthofix Inc,orthofix firebird,Screw 6.5Mm 45Mm Slf-Tap Mdlr Spne Bone,7/22/2020,44-5645,2,,LS,,412
+32879-137,112978882,7/25/2020,7/22/2020,Orthofix Inc,orthofix firebird,Scrw Firebird 7.5Mm X 55Mm,7/22/2020,44-5755,2,,LS,,413
+32879-137,112978882,7/25/2020,7/22/2020,Orthofix Inc,orthofix firebird,Top Screw Firebird Mdlr Noncannulate,7/22/2020,36-2101,10,,LS,,414
+32879-138,112914869,7/14/2020,7/10/2020,Medtronic Sofamor Danek Inc,medtronic solera,Screw 5.5Mm 50Mm Ma Spne Solera Cd Hzn,7/10/2020,55840005550,2,,LS,,415
+32879-138,112914869,7/14/2020,7/10/2020,Medtronic Sofamor Danek Inc,medtronic solera,Screw 6.5Mm 50Mm Ma Spne Solera Cd Hzn,7/10/2020,55840006550,15,,LS,,416
+32879-138,112914869,7/14/2020,7/10/2020,Medtronic Sofamor Danek Inc,medtronic solera,Screw 7.5Mm 70Mm Ma Spne Cocr 5.5Mm Rod,7/10/2020,55840007570,2,,LS,is this a screw or a rod?,417
+32879-139,112907192,7/13/2020,7/9/2020,Medtronic Sofamor Danek Inc,medtronic solera,Screw 5.5Mm 50Mm Ma Spne Solera Cd Hzn,7/9/2020,55840005550,2,,LS,,418
+32879-139,112907192,7/13/2020,7/9/2020,Medtronic Sofamor Danek Inc,medtronic solera,Screw 7.5Mm 50Mm Ma Spne Solera Cd Hzn,7/9/2020,55840007550,4,,LS,,419
+32879-139,112907192,7/13/2020,7/9/2020,Medtronic Sofamor Danek Inc,medtronic solera,Screw 8.5Mm 50Mm Ma Spne Solera Cd Hzn,7/9/2020,55840008550,1,,LS,,420
+32879-139,112907192,7/13/2020,7/9/2020,Medtronic Sofamor Danek Inc,medtronic solera,Screw 9.5Mm 55Mm Ma Spne Cocr 5.5Mm Rod,7/9/2020,55840009555,1,,LS,is this a screw or a rod?,421
+32879-140,112821091,6/26/2020,6/26/2020,Medtronic Sofamor Danek Inc,medtronic solera,Screw 5.5Mm 50Mm Ma Spne Solera Cd Hzn,6/26/2020,55840005550,7,,WK,,422
+32879-140,112821091,6/26/2020,6/26/2020,Medtronic Sofamor Danek Inc,medtronic solera,Screw 6.5Mm 50Mm Ma Spne Solera Cd Hzn,6/26/2020,55840006550,5,,WK,,423
+32879-140,112821091,6/26/2020,6/26/2020,Medtronic Sofamor Danek Inc,medtronic solera,Screw 5.5Mm 45Mm Ma Spne Solera Cd Hzn,6/26/2020,55840005545,1,,WK,,424
+32879-141,112775359,6/18/2020,6/16/2020,Stryker Spine,Styker everest (K2M),Screw 6.5Mm 45Mm Pa Spne Vrst Nonster,6/16/2020,2911-06545,5,,WK,,425
+32879-141,112775359,6/18/2020,6/16/2020,Stryker Spine,Styker everest (K2M),Screw 6.5Mm 55Mm Pa Spne Vrst Nonster,6/16/2020,2911-06555,1,,WK,,426
+32879-142,112793746,6/22/2020,6/15/2020,Medtronic Sofamor,medtronic solera,Screw 5.5Mm 50Mm Ma Spne Solera Cd Hzn,6/15/2020,55840005550,2,,WK,,427
+32879-142,112793746,6/22/2020,6/15/2020,Medtronic Sofamor,medtronic solera,Screw 6.5Mm 50Mm Ma Spne Solera Cd Hzn,6/15/2020,55840006550,2,,WK,,428
+32879-142,112793746,6/22/2020,6/15/2020,Medtronic Sofamor,medtronic solera,Screw 6.5Mm 40Mm Ma Spne Solera Cd Hzn,6/15/2020,55840006540,2,,WK,,429
+32879-142,112793746,6/22/2020,6/15/2020,Medtronic Sofamor,medtronic solera,Screw 7.5Mm 35Mm Ma Spne Solera Cd Hzn,6/15/2020,55840007535,1,,WK,,430
+32879-142,112793746,6/22/2020,6/15/2020,Medtronic Sofamor,medtronic solera,Screw 7.5Mm 50Mm Ma Spne Solera Ca Hzn,6/15/2020,55840007550,3,,WK,,431
+32879-142,112793746,6/22/2020,6/15/2020,Medtronic Sofamor,medtronic solera,Screw 7.5Mm 45Mm Ma Spne Solera Cd Hzn,6/15/2020,55840007545,2,,WK,,432
+32879-142,112793746,6/22/2020,6/15/2020,Medtronic Sofamor,medtronic solera,Screw 7.5Mm 70Mm Ma Spne Cocr 5.5Mm Rod,6/15/2020,55840007570,2,,WK,is this a screw or a rod?,433
+32879-143,112798250,6/23/2020,6/9/2020,Medtronic Sofamor,medtronic solera,Screw 6.5Mm 45Mm Ma Spne Solera Cd Hzn,6/9/2020,55840006545,4,,WK,,434
+32879-143,112798250,6/23/2020,6/9/2020,Medtronic Sofamor,medtronic solera,Screw 6.5Mm 35Mm Ma Spne Solera Cd Hzn,6/9/2020,55840006535,1,,WK,,435
+32879-143,112798250,6/23/2020,6/9/2020,Medtronic Sofamor,medtronic solera,Screw 6.5Mm 40Mm Ma Spne Solera Cd Hzn,6/9/2020,55840006540,2,,WK,,436
+32879-143,112798250,6/23/2020,6/9/2020,Medtronic Sofamor,medtronic solera,Screw 5.5Mm 40Mm Ma Spne Solera Cd Hzn,6/9/2020,55840005540,2,,WK,,437
+32879-144,113085832,8/13/2020,5/26/2020,Orthofix Inc,Orthofix firebird,Screw 6.5Mm 40Mm Slf-Tap Cann Mdlr Spne,5/26/2020,77-8640,2,,LS,,438
+32879-144,113085832,8/13/2020,5/26/2020,Orthofix Inc,Orthofix firebird,6.5 x 40mm Cortical Fix Screw,5/26/2020,36-3640,2,,LS,,439
+32879-144,113085832,8/13/2020,5/26/2020,Orthofix Inc,Orthofix firebird,Top Screw Firebird Mdlr Noncannulate,5/26/2020,36-2101,2,,LS,,440
+32879-145,112610640,5/16/2020,5/12/2020,Medtronic Sofamor Danek Inc,medtronic solera,Screw 5.5Mm 35Mm Ma Spne Solera Cd Hzn,5/12/2020,55840005535,1,,LS,,441
+32879-145,112610640,5/16/2020,5/12/2020,Medtronic Sofamor Danek Inc,medtronic solera,Screw 5.5Mm 40Mm Ma Spne Solera Cd Hzn,5/12/2020,55840005540,3,,LS,,442
+32879-145,112610640,5/16/2020,5/12/2020,Medtronic Sofamor Danek Inc,medtronic solera,Screw 5Mm 30Mm Ma Spne Solera Cd Hzn,5/12/2020,55840005030,4,,LS,,443
+32879-145,112610640,5/16/2020,5/12/2020,Medtronic Sofamor Danek Inc,medtronic solera,Screw 5.5Mm 25Mm Ma Spne Solera Cd Hzn,5/12/2020,55840005525,3,,LS,,444
+32879-145,112610640,5/16/2020,5/12/2020,Medtronic Sofamor Danek Inc,medtronic solera,Screw 5.5Mm 30Mm Ma Spne Solera Cd Hzn,5/12/2020,55840005530,1,,LS,,445
+32879-146,112611906,5/16/2020,5/7/2020,Ulrich Medical Usa Inc,,Screw Lng Lck Spnl Obelisc Bone,5/7/2020,CS2901,1,,LS,,446
+32879-146,112611906,5/16/2020,5/7/2020,Medtronic Sofamor Danek Inc,,Screw 7.5Mm 70Mm Ma Spne Cocr 5.5Mm Rod,5/7/2020,55840007570,2,,LS,not sure if this is a rod or screw,447
+32879-146,112611906,5/16/2020,5/7/2020,Medtronic Sofamor Danek Inc,,Screw 8.5Mm 50Mm Ma Spne Solera Cd Hzn,5/7/2020,55840008550,2,,LS,,448
+32879-146,112611906,5/16/2020,5/7/2020,Medtronic Sofamor Danek Inc,,Fenestrated Screw,5/7/2020,55840025540T,4,,LS,5.5 x 40,449
+32879-146,112611906,5/16/2020,5/7/2020,Medtronic Sofamor Danek Inc,fenestrated,Fenestrated Screw,5/7/2020,55840026545T,2,,LS,6.5 x 45,450
+32879-146,112611906,5/16/2020,5/7/2020,Medtronic Sofamor Danek Inc,,Fenestrated Screw,5/7/2020,7480741T,6,,LS,no size listed,451
+32879-147,112582238,5/8/2020,5/5/2020,Stryker Spine,Styker everest (K2M),Screw Everest Polyaxial 06.5X40Mm,5/5/2020,2911-06540,3,,LS,,452
+32879-147,112582238,5/8/2020,5/5/2020,Stryker Spine,Styker everest (K2M),Screw 6.5Mm 45Mm Pa Spne Vrst Nonster,5/5/2020,2911-06545,3,,LS,,453
+32879-147,112582238,5/8/2020,5/5/2020,Stryker Spine,Styker everest (K2M),Screw 6.5Mm 50Mm Pa Spne Vrst Nonster,5/5/2020,2911-06550,2,,LS,,454
+32879-148,112729398,6/10/2020,4/20/2020,Medtronic Sofamor Danek Inc,medtronic solera,Screw 5.5Mm 40Mm Ma Spne Solera Cd Hzn,4/20/2020,55840005540,4,,LS,5.5 x 40 ,455
+32879-148,112729398,6/10/2020,4/20/2020,Medtronic Sofamor Danek Inc,medtronic solera,Screw 6.5Mm 40Mm Ma Spne Solera Cd Hzn,4/20/2020,55840006540,2,,LS,"the xray wasn't accessible to view directly, but added the accession # anyway...",456
+32879-148,112729398,6/10/2020,4/20/2020,Medtronic Sofamor Danek Inc,medtronic solera,Screw 6.5Mm 45Mm Ma Spne Solera Cd Hzn,4/20/2020,55840006545,1,,LS,,457
+32879-148,112729398,6/10/2020,4/20/2020,Medtronic Sofamor Danek Inc,medtronic solera,Screw Set Ti Spnl Brk Off Cd Hzn Nonster,4/20/2020,5540030,10,,LS,screw set listed just bc all of the combined screws were not adding up to 10,458
+32879-149,112500050,4/11/2020,4/9/2020,Medtronic Sofamor Danek Inc,medtronic solera,Screw 5.5Mm 45Mm Ma Spne Solera Cd Hzn,4/9/2020,55840005545,3,,LS,,459
+32879-149,112500050,4/11/2020,4/9/2020,Medtronic Sofamor Danek Inc,medtronic solera,Screw 6.5Mm 45Mm Ma Spne Solera Cd Hzn,4/9/2020,55840006545,2,,LS,,460
+32879-149,112500050,4/11/2020,4/9/2020,Medtronic Sofamor Danek Inc,medtronic solera,Screw 7.5Mm 45Mm Ma Spne Solera Cd Hzn,4/9/2020,55840007545,2,,LS,,461
+32879-149,112500050,4/11/2020,4/9/2020,Medtronic Sofamor Danek Inc,medtronic solera,Screw 7.5Mm 40Mm Ma Spne Solera Cd Hzn,4/9/2020,55840007540,3,,LS,,462
+32879-149,112500050,4/11/2020,4/9/2020,Medtronic Sofamor Danek Inc,medtronic solera,Screw 7.5Mm 35Mm Ma Spne Solera Cd Hzn,4/9/2020,55840007535,1,,LS,,463
+32879-149,112500050,4/11/2020,4/9/2020,Medtronic Sofamor Danek Inc,medtronic solera,Screw 7.5Mm 70Mm Ma Spne Cocr 5.5Mm Rod,4/9/2020,55840007570,2,,LS,not sure if this is a screw or a rod,464
+32879-149,112500050,4/11/2020,4/9/2020,Medtronic Sofamor Danek Inc,medtronic solera,Screw 5.5Mm 40Mm Ma Spne Solera Cd Hzn,4/9/2020,55840005540,5,,LS,,465
+32879-150,112509706,4/15/2020,4/6/2020,Medtronic Sofamor Danek Inc,medtronic solera,Screw 6.5Mm 50Mm Ma Spne Solera Cd Hzn,4/6/2020,55840006550,6,,LS,,466
+32879-150,112509706,4/15/2020,4/6/2020,Medtronic Sofamor Danek Inc,medtronic solera,Screw 7.5Mm 40Mm Ma Spne Solera Cd Hzn,4/6/2020,55840007540,2,,LS,,467
+32879-150,112509706,4/15/2020,4/6/2020,Medtronic Sofamor Danek Inc,medtronic solera,Screw 5.5Mm 40Mm Ma Spne Solera Cd Hzn,4/6/2020,55840005540,1,,LS,,468
+32879-150,112509706,4/15/2020,4/6/2020,Medtronic Sofamor Danek Inc,medtronic solera,Screw 6.5Mm 45Mm Ma Spne Solera Cd Hzn,4/6/2020,55840006545,2,,LS,,469
+32879-150,112509706,4/15/2020,4/6/2020,Medtronic Sofamor Danek Inc,medtronic solera,Screw 5.5Mm 45Mm Ma Spne Solera Cd Hzn,4/6/2020,55840005545,1,,LS,,470
+32879-151,112427667,3/17/2020,3/16/2020,Orthofix Inc,Orthofix firebird,Screw 6.5Mm 40Mm Slf-Tap Mdlr Spne Bone,3/16/2020,44-5640,5,,LS,,471
+32879-151,112427667,3/17/2020,3/16/2020,Orthofix Inc,Orthofix firebird,Screw 7.5Mm 40Mm Slf-Tap Mdlr Spne Bone,3/16/2020,44-5740,1,,LS,,472
+32879-151,112427667,3/17/2020,3/16/2020,Orthofix Inc,Orthofix firebird,Top Screw Firebird Mdlr Noncannulate,3/16/2020,36-2101,6,,LS,,473
+32879-152,112365001,3/6/2020,3/2/2020,Medtronic Sofamor Danek Inc,medtronic solera,Screw 5Mm 25Mm Ma Spne Solera Cd Hzn,3/2/2020,55840005025,2,,LS,"accession #: 112364998 lumbar spine x-ray showed screws as well, but majority was thoracic which was the accession number given",474
+32879-152,112365001,3/6/2020,3/2/2020,Medtronic Sofamor Danek Inc,medtronic solera,Screw 5.5Mm 30Mm Ma Spne Solera Cd Hzn,3/2/2020,55840005530,2,,LS,,475
+32879-152,112365001,3/6/2020,3/2/2020,Medtronic Sofamor Danek Inc,medtronic solera,Screw 5Mm 35Mm Ma Spne Solera Cd Hzn,3/2/2020,55840005035,4,,LS,,476
+32879-152,112365001,3/6/2020,3/2/2020,Medtronic Sofamor Danek Inc,medtronic solera,Screw 5Mm 40Mm Ma Spne Solera Cd Hzn,3/2/2020,55840005040,6,,LS,,477
+32879-152,112365001,3/6/2020,3/2/2020,Medtronic Sofamor Danek Inc,medtronic solera,Screw 5Mm 45Mm Ma Spne Solera Cd Hzn,3/2/2020,55840005045,6,,LS,,478
+32879-152,112365001,3/6/2020,3/2/2020,Medtronic Sofamor Danek Inc,medtronic solera,Screw 5.5Mm 40Mm Ma Spne Solera Cd Hzn,3/2/2020,55840005540,2,,LS,,479
+32879-152,112365001,3/6/2020,3/2/2020,Medtronic Sofamor Danek Inc,medtronic solera,Screw 6.5Mm 45Mm Ma Spne Solera Cd Hzn,3/2/2020,55840006545,3,,LS,,480
+32879-152,112365001,3/6/2020,3/2/2020,Medtronic Sofamor Danek Inc,medtronic solera,Screw 6.5Mm 40Mm Ma Spne Solera Cd Hzn,3/2/2020,55840006540,1,,LS,,481
+32879-153,112569420,5/5/2020,2/28/2020,Medtronic Sofamor Danek Inc,medtronic solera,Screw 6.5Mm 40Mm Ma Spne Solera Cd Hzn,2/28/2020,55840006540,4,,LS,,482
+32879-153,112569420,5/5/2020,2/28/2020,Medtronic Sofamor Danek Inc,medtronic solera,Screw 7.5Mm 40Mm Ma Spne Solera Cd Hzn,2/28/2020,55840007540,2,,LS,,483
+32879-154,112209959,2/8/2020,2/4/2020,Stryker Spine,Styker everest (K2M),Screw 6.5Mm 45Mm Pa Spne Vrst Nonster,2/4/2020,2911-06545,2,,LS,,484
+32879-154,112209959,2/8/2020,2/4/2020,Stryker Spine,Styker everest (K2M),Screw 6.5Mm 50Mm Pa Spne Vrst Nonster,2/4/2020,2911-06550,5,,LS,,485
+32879-154,112209959,2/8/2020,2/4/2020,Stryker Spine,Styker everest (K2M),Screw 6.5Mm 55Mm Pa Spne Vrst Nonster,2/4/2020,2911-06555,1,,LS,,486
+32879-154,112209959,2/8/2020,2/4/2020,K2 Medical Llc,Styker everest (K2M),9.5 X 100 POLY SCREW,2/4/2020,M5111-095100,1,,LS,,487
+32879-154,112209959,2/8/2020,2/4/2020,K2 Medical Llc,Styker everest (K2M),10.5 X 100 POLY SCREW,2/4/2020,M5111-010100,1,,LS,,488
+32879-155,NO SPINE XRAY,,2/3/2020,Medtronic Sofamor Danek Inc,medtronic solera,5.5 x 50 Fenestrated Screw,2/3/2020,55840025550T,4,,LS,NO SPINE XRAY,489
+32879-155,,,2/3/2020,Medtronic Sofamor Danek Inc,,6.5 x 45 Fenestrated Screw,2/3/2020,55840026545T,2,,LS,,490
+32879-155,,,2/3/2020,Medtronic Sofamor Danek Inc,,5.5 x 45 Fenestrated Screw,2/3/2020,55840025545T,2,,LS,,491
+32879-156,112199688,2/6/2020,2/3/2020,Orthofix Inc,orthofix firebird,Screw 6.5Mm 40Mm Slf-Tap Mdlr Spne Bone,2/3/2020,44-5640,1,,LS,,492
+32879-156,112199688,2/6/2020,2/3/2020,Orthofix Inc,orthofix firebird,Screw 6.5Mm 45Mm Slf-Tap Mdlr Spne Bone,2/3/2020,44-5645,1,,LS,,493
+32879-156,112199688,2/6/2020,2/3/2020,Orthofix Inc,orthofix firebird,Screw 7.5Mm 40Mm Slf-Tap Mdlr Spne Bone,2/3/2020,44-5740,2,,LS,,494
+32879-156,112199688,2/6/2020,2/3/2020,Orthofix Inc,orthofix firebird,Top Screw Firebird Mdlr Noncannulate,2/3/2020,36-2101,4,,LS,,495
+32879-157,112166691,1/31/2020,1/27/2020,Orthofix Inc,orthofix firebird,Scrw 7.5Mm X 45Mm,1/27/2020,44-5745,3,,LS,,496
+32879-157,112166691,1/31/2020,1/27/2020,Orthofix Inc,orthofix firebird,Screw 7.5Mm 50Mm Slf-Tap Mdlr Spne Bone,1/27/2020,44-5750,1,,LS,,497
+32879-157,112166691,1/31/2020,1/27/2020,Orthofix Inc,orthofix firebird,Top Screw Firebird Mdlr Noncannulate,1/27/2020,36-2101,4,,LS,,498
+32879-158,NO SPINE XRAY,,1/23/2020,Medtronic Sofamor Danek Inc,medtronic solera,Screw 5Mm 40Mm Ma Spne Solera Cd Hzn,1/23/2020,55840005040,6,,LS,NO SPINE XRAY FOUND,499
+32879-158,,,1/23/2020,Medtronic Sofamor Danek Inc,medtronic solera,Screw 4.5Mm 30Mm Ma Spne Solera Cd Hzn,1/23/2020,55840004530,3,,LS,,500
+32879-158,,,1/23/2020,Medtronic Sofamor Danek Inc,medtronic solera,Screw 4Mm 25Mm Ma Spne Cocr 5.5Mm Rod,1/23/2020,55840004025,1,,LS,not sure if this is a screw or rod.. but it adds together into set screw total so probs a screw?,501
+32879-158,,,1/23/2020,Medtronic Sofamor Danek Inc,medtronic solera,Screw 5Mm 30Mm Ma Spne Solera Cd Hzn,1/23/2020,55840005030,1,,LS,,502
+32879-158,,,1/23/2020,Medtronic Sofamor Danek Inc,medtronic solera,Screw 5Mm 35Mm Ma Spne Solera Cd Hzn,1/23/2020,55840005035,1,,LS,,503
+32879-159,112042384,1/9/2020,1/6/2020,Medtronic Sofamor Danek Inc,medtronic solera,Screw 6.5Mm 35Mm Ma Spne Solera Cd Hzn,1/6/2020,55840006535,2,,LS,,504
+32879-159,112042384,1/9/2020,1/6/2020,Medtronic Sofamor Danek Inc,medtronic solera,Screw 6.5Mm 40Mm Ma Spne Solera Cd Hzn,1/6/2020,55840006540,4,,LS,,505
+32879-160,112063895,1/13/2020,1/3/2020,Medtronic Sofamor Danek Inc,medtronic solera,Screw 5.5Mm 45Mm Ma Spne Solera Cd Hzn,1/3/2020,55840005545,1,,LS,accession # for thoracic spine: 112063899; also taken 1/13/2020,506
+32879-160,112063895,1/13/2020,1/3/2020,Medtronic Sofamor Danek Inc,medtronic solera,Screw 6.5Mm 30Mm Ma Spne Solera Cd Hzn,1/3/2020,55840006530,4,,LS,,507
+32879-160,112063895,1/13/2020,1/3/2020,Medtronic Sofamor Danek Inc,medtronic solera,Screw 6.5Mm 35Mm Ma Spne Solera Cd Hzn,1/3/2020,55840006535,6,,LS,,508
+32879-160,112063895,1/13/2020,1/3/2020,Medtronic Sofamor Danek Inc,medtronic solera,Screw 6.5Mm 40Mm Ma Spne Solera Cd Hzn,1/3/2020,55840006540,5,,LS,,509
+32879-160,112063895,1/13/2020,1/3/2020,Medtronic Sofamor Danek Inc,medtronic solera,Screw 6.5Mm 45Mm Ma Spne Solera Cd Hzn,1/3/2020,55840006545,4,,LS,,510
+32879-160,112063895,1/13/2020,1/3/2020,Medtronic Sofamor Danek Inc,medtronic solera,Screw 5.5Mm 30Mm Ma Spne Solera Cd Hzn,1/3/2020,55840005530,2,,LS,,511
+32879-161,112011215,1/8/2020,12/23/2019,Medtronic Sofamor Danek Inc,medtronic solera,Screw 7.5Mm 70Mm Ma Spne Cocr 5.5Mm Rod,12/23/2019,55840007570,2,,LS,THIS IS AN ENTIRE SPINE XRAY,512
+32879-161,112011215,1/8/2020,12/23/2019,Medtronic Sofamor Danek Inc,medtronic solera,Screw 6.5Mm 40Mm Ma Spne Solera Cd Hzn,12/23/2019,55840006540,10,,LS,,513
+32879-161,112011215,1/8/2020,12/23/2019,Medtronic Sofamor Danek Inc,medtronic solera,Screw 7.5Mm 40Mm Ma Spne Solera Cd Hzn,12/23/2019,55840007540,2,,LS,,514
+32879-161,112011215,1/8/2020,12/23/2019,Medtronic Sofamor Danek Inc,medtronic solera,Screw 5.5Mm 40Mm Ma Spne Solera Cd Hzn,12/23/2019,55840005540,8,,LS,,515
+32879-161,112011215,1/8/2020,12/23/2019,Medtronic Sofamor Danek Spine,medtronic solera,Screw 4.5Mm 34Mm Ma Spne Bone,12/23/2019,3604534,3,,LS,,516
+32879-161,112011215,1/8/2020,12/23/2019,Medtronic Sofamor Danek Spine,medtronic solera,Screw 4.5Mm 28Mm Ma Spne Bone,12/23/2019,3604528,1,,LS,,517
+32879-161,112011215,1/8/2020,12/23/2019,Medtronic Sofamor Danek Spine,medtronic solera,Screw 3.5Mm 26Mm Ma Spne Oc Upr Thor,12/23/2019,3603526,1,,LS,,518
+32879-161,112011215,1/8/2020,12/23/2019,Medtronic Sofamor Danek Inc,medtronic solera,Screw 3.5Mm 22Mm Ma Spne Bone,12/23/2019,3603522,1,,LS,,519
+32879-161,112011215,1/8/2020,12/23/2019,Medtronic Sofamor Danek Spine,medtronic solera,Screw 4.5Mm 24Mm Ma Spne Bone,12/23/2019,3604524,1,,LS,,520
+32879-161,112011215,1/8/2020,12/23/2019,Medtronic Sofamor Danek Spine,medtronic solera,Screw 4.5Mm 20Mm Ma Spne Oc Upr Thor,12/23/2019,G3604520,2,,LS,,521
+32879-161,112011215,1/8/2020,12/23/2019,Medtronic Sofamor Danek Spine,medtronic solera,Screw 5.5Mm 20Mm Ma Trns Spne Bone,12/23/2019,G3605520,1,,LS,,522
+32879-162,111968462,12/26/2019,12/21/2019,Medtronic Sofamor Danek Inc,medtronic solera,Screw 7.5Mm 35Mm Ma Spne Solera Cd Hzn,12/21/2019,55840007535,1,,LS,,523
+32879-162,111968462,12/26/2019,12/21/2019,Medtronic Sofamor Danek Inc,medtronic solera,Screw 7.5Mm 45Mm Ma Spne Solera Cd Hzn,12/21/2019,55840007545,8,,LS,,524
+32879-163,111886001,12/10/2019,12/6/2019,Depuy Spine,Depuy expedium (Synthes),SCREW 6MM 40MM SPNE PA CANN VPR TI,12/6/2019,186715640,2,,LS,,525
+32879-163,111886001,12/10/2019,12/6/2019,Depuy Spine,Depuy expedium (Synthes),SCREW 6MM 35MM SPNE PA CANN VPR TI,12/6/2019,186715635,2,,LS,,526
+32879-164,111875222,12/8/2019,12/5/2019,Medtronic Sofamor Danek Inc,medtronic solera,Screw 5.5Mm 45Mm Ma Spne Solera Cd Hzn,12/5/2019,55840005545,8,,LS,,527
+32879-164,111875222,12/8/2019,12/5/2019,Medtronic Sofamor Danek Inc,medtronic solera,Screw 5Mm 25Mm Ma Spne Solera Cd Hzn,12/5/2019,55840005025,1,,LS,,528
+32879-165,111897082,12/11/2019,12/5/2019,Medtronic Sofamor Danek Inc,medtronic solera,Screw 6.5Mm 45Mm Ma Spne Solera Cd Hzn,12/5/2019,55840006545,1,,LS,,529
+32879-165,111897082,12/11/2019,12/5/2019,Medtronic Sofamor Danek Inc,medtronic solera,Screw 5.5Mm 45Mm Ma Spne Solera Cd Hzn,12/5/2019,55840005545,5,,LS,,530
+32879-165,111897082,12/11/2019,12/5/2019,Medtronic Sofamor Danek Inc,medtronic solera,Screw 5.5Mm 40Mm Ma Spne Solera Cd Hzn,12/5/2019,55840005540,2,,LS,,531
+32879-166,111940350,12/19/2019,12/2/2019,Orthofix Inc,orthofix firebird,Scrw 7.5Mm X 45Mm,12/2/2019,44-5745,3,,LS,,532
+32879-166,111940350,12/19/2019,12/2/2019,Orthofix Inc,orthofix firebird,Top Screw Firebird Mdlr Noncannulate,12/2/2019,36-2101,3,,LS,,533
+32879-167,111776048,11/19/2019,11/11/2019,Medtronic Sofamor Danek Inc,medtronic solera,Screw 6.5Mm 45Mm Ma Spne Solera Cd Hzn,11/11/2019,55840006545,2,,LS,,534
+32879-167,111776048,11/19/2019,11/11/2019,Medtronic Sofamor Danek Inc,medtronic solera,Screw 5.5Mm 45Mm Ma Spne Solera Cd Hzn,11/11/2019,55840005545,1,,LS,,535
+32879-167,111776048,11/19/2019,11/11/2019,Medtronic Sofamor Danek Inc,medtronic solera,Screw 5.5Mm 40Mm Ma Spne Solera Cd Hzn,11/11/2019,55840005540,1,,LS,,536
+32879-167,111776048,11/19/2019,11/11/2019,Medtronic Sofamor Danek Inc,medtronic solera,Screw 5Mm 55Mm Ma Spne Cocr 5.5Mm Rod,11/11/2019,55840005055,1,,LS,,537
+32879-167,111776048,11/19/2019,11/11/2019,Medtronic Sofamor Danek Inc,medtronic solera,Screw 5.5Mm 55Mm Ma Spne Cocr 5.5Mm Rod,11/11/2019,55840005555,1,,LS,,538
+32879-167,111776048,11/19/2019,11/11/2019,Medtronic Sofamor Danek Inc,medtronic solera,Screw 6.5Mm 55Mm Ma Spne Solera Cd Hzn,11/11/2019,55840006555,2,,LS,,539
+32879-168,111807098,11/25/2019,11/8/2019,Medtronic Sofamor Danek Inc,,Screw Set Ti Spnl Brk Off Cd Hzn Nonster,,5540030,26,,LS,no individual screws of the screw set were put in; accession # for cervical: 111807092; accession # for thoracic: 111807093; all were taken on 11/25/2019,540
+32879-169,111722365,11/9/2019,11/7/2019,Medtronic Sofamor Danek Inc,medtronic solera,Screw 7.5Mm 50Mm Ma Spne Solera Cd Hzn,11/7/2019,55840007550,2,,LS,,541
+32879-169,111722365,11/9/2019,11/7/2019,Medtronic Sofamor Danek Inc,medtronic solera,Screw 6.5Mm 50Mm Ma Spne Solera Cd Hzn,11/7/2019,55840006550,1,,LS,,542
+32879-169,111722365,11/9/2019,11/7/2019,Medtronic Sofamor Danek Inc,medtronic solera,Screw 7.5Mm 45Mm Ma Spne Solera Cd Hzn,11/7/2019,55840007545,1,,LS,,543
+32879-170,111788637,11/21/2019,11/5/2019,,,JANUS SCREWS (CORTICAL SCREWS),11/5/2019,36-2635,2,,LS,no manufacturer given,544
+32879-170,111788637,11/21/2019,11/5/2019,,,JANUS SCREWS (CORTICAL SCREWS),11/5/2019,36-2640,4,,LS,no manufacturer given,545
+32879-170,111788637,11/21/2019,11/5/2019,,,JANUS SCREWS (CORTICAL SCREWS),11/5/2019,36-2645,4,,LS,no manufacturer given,546
+32879-170,111788637,11/21/2019,11/5/2019,Orthofix Inc,,Top Screw Firebird Mdlr Noncannulate,11/5/2019,36-2101,10,,LS,,547
+32879-171,111790905,11/21/2019,10/25/2019,Orthofix Inc,orthofix firebird ,Screw 5.5Mm 30Mm Slf-Tap Mdlr Spne Bone,10/25/2019,44-5530,2,,LS,,548
+32879-171,111790905,11/21/2019,10/25/2019,Orthofix Inc,orthofix firebird ,Screw 5.5Mm 35Mm Slf-Tap Mdlr Spne,10/25/2019,44-5535,5,,LS,,549
+32879-171,111790905,11/21/2019,10/25/2019,Orthofix Inc,orthofix firebird ,Screw 5.5Mm 40Mm Slf-Tap Mdlr Spne,10/25/2019,44-5540,1,,LS,,550
+32879-171,111790905,11/21/2019,10/25/2019,Orthofix Inc,orthofix firebird ,Screw 6.5Mm 40Mm Slf-Tap Mdlr Spne Bone,10/25/2019,44-5640,6,,LS,,551
+32879-171,111790905,11/21/2019,10/25/2019,Orthofix Inc,orthofix firebird ,Top Screw Firebird Mdlr Noncannulate,10/25/2019,36-2101,14,,LS,,552
+32879-172,111591036,10/17/2019,10/14/2019,Medtronic,medtronic solera,Screw 6.5Mm 40Mm Ma Spne Solera Cd Hzn,10/14/2019,55840006540,6,,WK,,553
+32879-172,111591036,10/17/2019,10/14/2019,Medtronic,medtronic solera,Screw 5.5Mm 40Mm Ma Spne Solera Cd Hzn,10/14/2019,55840005540,1,,WK,,554
+32879-172,111591036,10/17/2019,10/14/2019,Medtronic,medtronic solera,Screw 6.5Mm 45Mm Ma Spne Solera Cd Hzn,10/14/2019,55840006545,6,,WK,,555
+32879-172,111591036,10/17/2019,10/14/2019,Medtronic,medtronic solera,Screw 6.5Mm 50Mm Ma Spne Solera Cd Hzn,10/14/2019,55840006550,1,,WK,,556
+32879-172,111591036,10/17/2019,10/14/2019,Medtronic,medtronic solera,Screw 5.5Mm 45Mm Ma Spne Solera Cd Hzn,10/14/2019,55840005545,1,,WK,,557
+32879-173,111539386,10/8/2019,10/8/2019,Medtronic Inc,medtronic solera,Screw 4.5Mm 34Mm Ma Spne Bone,10/8/2019,3604534,2,,WK,,558
+32879-173,111539386,10/8/2019,10/8/2019,Medtronic Inc,medtronic solera,Screw 4.5Mm 24Mm Ma Spne Bone,10/8/2019,3604524,2,,WK,,559
+32879-173,111539386,10/8/2019,10/8/2019,Medtronic Inc,medtronic solera,Screw 3.5Mm 30Mm Ma Spne Oc Upr Thor,10/8/2019,3603530,2,,WK,,560
+32879-173,111539386,10/8/2019,10/8/2019,Medtronic Inc,medtronic solera,Screw 3.5Mm 26Mm Ma Spne Oc Upr Thor,10/8/2019,3603526,1,,WK,,561
+32879-173,111539386,10/8/2019,10/8/2019,Medtronic Inc,medtronic solera,Screw 4.5Mm 22Mm Ma Spne Bone,10/8/2019,3604522,1,,WK,,562
+32879-173,111539386,10/8/2019,10/8/2019,Medtronic Inc,medtronic solera,Screw 4.5Mm 20Mm Ma Spne Oc Upr Thor,10/8/2019,G3604520,1,,WK,,563
+32879-173,111539386,10/8/2019,10/8/2019,Medtronic Inc,medtronic solera,Screw 3.5Mm 18Mm Ma Spne Bone,10/8/2019,3603518,2,,WK,,564
+32879-173,111539386,10/8/2019,10/8/2019,Medtronic Inc,medtronic solera,Screw 3.5Mm 34Mm Ma Spne Bone,10/8/2019,3603534,2,,WK,,565
+32879-174,111531385,10/7/2019,10/4/2019,Medtronic Sofamor Danek Inc,medtronic solera,Screw 7.5Mm 45Mm Ma Spne Solera Cd Hzn,10/4/2019,55840007545,8,,WK,,566
+32879-174,111531385,10/7/2019,10/4/2019,Medtronic Sofamor Danek Inc,medtronic solera,Screw 7.5Mm 40Mm Ma Spne Solera Cd Hzn,10/4/2019,55840007540,4,,WK,,567
+32879-174,111531385,10/7/2019,10/4/2019,Medtronic Sofamor Danek Inc,medtronic solera,Screw 6.5Mm 40Mm Ma Spne Solera Cd Hzn,10/4/2019,55840006540,2,,WK,,568
+32879-174,111531385,10/7/2019,10/4/2019,Medtronic Sofamor Danek Inc,medtronic solera,Screw 7.5Mm 50Mm Ma Spne Solera Cd Hzn,10/4/2019,5580007550,2,,WK,,569
+32879-174,111531385,10/7/2019,10/4/2019,Medtronic Sofamor Danek Inc,medtronic solera,Screw 7.5Mm 70Mm Ma Spne Cocr 5.5Mm Rod,10/4/2019,55840007570,2,,WK,,570
+32879-175,111514039,10/4/2019,10/3/2019,Medtronic Sofamor Danek Inc,medtronic solera,Screw 6.5Mm 40Mm Ma Spne Solera Cd Hzn,10/3/2019,55840006540,5,,WK,,571
+32879-175,111514039,10/4/2019,10/3/2019,Medtronic Sofamor Danek Inc,medtronic solera,Screw 7.5Mm 40Mm Ma Spne Solera Cd Hzn,10/3/2019,55840007540,3,,WK,,572
+32879-175,111514039,10/4/2019,10/3/2019,Medtronic Sofamor Danek Inc,medtronic solera,Screw 7.5Mm 45Mm Ma Spne Solera Cd Hzn,10/3/2019,55840007545,7,,WK,,573
+32879-175,111514039,10/4/2019,10/3/2019,Medtronic Sofamor Danek Inc,medtronic solera,Screw 7.5Mm 35Mm Ma Spne Solera Cd Hzn,10/3/2019,55840007535,1,,WK,,574
+32879-175,111514039,10/4/2019,10/3/2019,Medtronic Sofamor Danek Inc,medtronic solera,Screw 5Mm 30Mm Ma Spne Solera Cd Hzn,10/3/2019,55840005030,2,,WK,,575
+32879-175,111514039,10/4/2019,10/3/2019,Medtronic Sofamor Danek Inc,medtronic solera,Screw 5.5Mm 35Mm Ma Spne Solera Cd Hzn,10/3/2019,55840005535,4,,WK,,576
+32879-175,111514039,10/4/2019,10/3/2019,Medtronic Sofamor Danek Inc,medtronic solera,Screw 5.5Mm 40Mm Ma Spne Solera Cd Hzn,10/3/2019,55840005540,6,,WK,,577
+32879-175,111514039,10/4/2019,10/3/2019,Medtronic Sofamor Danek Inc,medtronic solera,Screw 7.5Mm 50Mm Ma Spne Solera Cd Hzn,10/3/2019,55840007550,2,,WK,,578
+32879-176,,,10/1/2019,,,,,,,,WK,Only screw set and grafts/rods,579
+32879-177,111516096,10/4/2019,9/30/2019,Orthofix Inc,orthofix firebird,Screw 6.5Mm 40Mm Slf-Tap Mdlr Spne Bone,9/30/2019,44-5640,2,,WK,,580
+32879-177,111516096,10/4/2019,9/30/2019,Orthofix Inc,orthofix firebird,7.5 x 35mm Screw,9/30/2019,44-5735,1,,WK,,581
+32879-177,111516096,10/4/2019,9/30/2019,Orthofix Inc,orthofix firebird,Screw 7.5Mm 40Mm Slf-Tap Mdlr Spne Bone,9/30/2019,44-5740,1,,WK,,582
+32879-177,111516096,10/4/2019,9/30/2019,Orthofix Inc,orthofix firebird,Scrw 7.5Mm X 45Mm,9/30/2019,44-5745,5,,WK,,583
+32879-177,111516096,10/4/2019,9/30/2019,Orthofix Inc,orthofix firebird,Screw 7.5Mm 50Mm Slf-Tap Mdlr Spne Bone,9/30/2019,44-5750,2,,WK,,584
+32879-177,111516096,10/4/2019,9/30/2019,Orthofix Inc,orthofix firebird,8.5 x 80mm Screw,9/30/2019,77-8880,2,,WK,,585
+32879-177,111516096,10/4/2019,9/30/2019,Orthofix Inc,orthofix firebird,Top Screw Firebird Mdlr Noncannulate,9/30/2019,36-2101,10,,WK,,586
+32879-177,111516096,10/4/2019,9/30/2019,Orthofix Inc,orthofix firebird,Reduction Head Screw,9/30/2019,36-2103,4,,WK,,587
+32879-178,111492195,9/30/2019,9/30/2019,Medtronic Sofamor Danek Inc,medtronic solera,Screw 6.5Mm 45Mm Ma Spne Solera Cd Hzn,9/30/2019,55840006545,12,,WK,,588
+32879-178,111492195,9/30/2019,9/30/2019,Medtronic Sofamor Danek Inc,medtronic solera,Screw 6.5Mm 50Mm Ma Spne Solera Cd Hzn,9/30/2019,55840006550,2,,WK,,589
+32879-178,111492195,9/30/2019,9/30/2019,Medtronic Sofamor Danek Inc,medtronic solera,Screw 7.5Mm 40Mm Ma Spne Solera Cd Hzn,9/30/2019,55840007540,2,,WK,,590
+32879-178,111492195,9/30/2019,9/30/2019,Medtronic Sofamor Danek Inc,medtronic solera,Screw 7.5Mm 45Mm Ma Spne Solera Cd Hzn,9/30/2019,55840007545,2,,WK,,591
+32879-178,111492195,9/30/2019,9/30/2019,Medtronic Sofamor Danek Inc,medtronic solera,Screw 7.5Mm 70Mm Ma Spne Cocr 5.5Mm Rod,9/30/2019,55840007570,2,,WK,screw or rod?,592
+32879-179,,,8/30/2019,,,,,,,,,no screws,593
+32879-180,111335805,9/3/2019,8/27/2019,Orthofix Inc,orthofix firebird,5.5 x 35 screws,8/27/2019,44-5535,3,,WK,,594
+32879-180,111335805,9/3/2019,8/27/2019,Orthofix Inc,orthofix firebird,5.5 x 40 screws,8/27/2019,44-5540,4,,WK,,595
+32879-180,111335805,9/3/2019,8/27/2019,Orthofix Inc,orthofix firebird,5.5 x 45 screws,8/27/2019,44-5545,1,,WK,,596
+32879-180,111335805,9/3/2019,8/27/2019,Orthofix Inc,orthofix firebird,6.5 x 45 screws,8/27/2019,44-5645,4,,WK,,597
+32879-181,111288233,8/25/2019,8/22/2019,Medtronic Sofamor Danek Inc,medtronic solera,SCREW 6.5MM 45MM SPNE MA SOLERA CD HZN,8/22/2019,55840006545,4,,WK,,598
+32879-181,111288233,8/25/2019,8/22/2019,Medtronic Sofamor Danek Inc,medtronic solera,SCREW 6.5MM 40MM SPNE MA SOLERA CD HZN,8/22/2019,55840006540,4,,WK,,599
+32879-181,111288233,8/25/2019,8/22/2019,Medtronic Sofamor Danek Inc,medtronic solera,7.7 x 70mm Solera Screw,8/22/2019,55840007570,2,,WK,,600
+32879-182,111243224,8/16/2019,8/12/2019,Medtronic Sofamor Danek Inc,medtronic solera,SCREW 5.5MM 40MM SPNE MA SOLERA CD HZN,8/12/2019,55840005540,7,,WK,,601
+32879-182,111243224,8/16/2019,8/12/2019,Medtronic Sofamor Danek Inc,medtronic solera,SCREW 5.5MM 45MM SPNE MA SOLERA CD HZN,8/12/2019,55840005545,2,,WK,,602
+32879-182,111243224,8/16/2019,8/12/2019,Medtronic Sofamor Danek Inc,medtronic solera,SCREW 6.5MM 40MM SPNE MA SOLERA CD HZN,8/12/2019,55840006540,5,,WK,,603
+32879-182,111243224,8/16/2019,8/12/2019,Medtronic Sofamor Danek Inc,medtronic solera,SCREW 6.5MM 45MM SPNE MA SOLERA CD HZN,8/12/2019,55840006545,1,,WK,,604
+32879-182,111243224,8/16/2019,8/12/2019,Medtronic Sofamor Danek Inc,medtronic solera,SCREW 7.5MM 40MM SPNE MA SOLERA CD HZN,8/12/2019,55840007540,1,,WK,,605
+32879-183,111204312,8/9/2019,8/5/2019,Medtronic Sofamor Danek Inc,medtronic solera,SCREW 6.5MM 50MM SPNE MA SOLERA CD HZN,8/5/2019,55840006550,8,,LS,,606
+32879-183,111204312,8/9/2019,8/5/2019,Medtronic Sofamor Danek Inc,medtronic solera,SCREW 6.5MM 45MM SPNE MA SOLERA CD HZN,8/5/2019,55840006545,6,,LS,,607
+32879-183,111204312,8/9/2019,8/5/2019,Medtronic Sofamor Danek Inc,medtronic solera,SCREW 7.5MM 50MM SPNE MA SOLERA CD HZN,8/5/2019,55840007550,2,,LS,,608
+32879-184,111167693,8/3/2019,8/1/2019,Medtronic Sofamor Danek Inc,medtronic solera,SCREW 5.5MM 40MM SPNE MA SOLERA CD HZN,8/1/2019,55840005540,4,,LS,,609
+32879-184,111167693,8/3/2019,8/1/2019,Medtronic Sofamor Danek Inc,medtronic solera,SCREW 5MM 40MM SPNE MA SOLERA CD HZN,8/1/2019,55840005040,4,,LS,,610
+32879-184,111167693,8/3/2019,8/1/2019,Medtronic Ave,medtronic solera,SOLERA  SCREW,8/1/2019,55840005525,2,,LS,5.5 x 25 mm,611
+32879-185,111242923,8/16/2019,7/30/2019,Medtronic Sofamor Danek Inc,medtronic solera,SCRW DEFRMITY POLYAXIAL,7/30/2019,3600315,8,,LS,,612
+32879-185,111242923,8/16/2019,7/30/2019,Medtronic Sofamor Danek Inc,medtronic solera,SCRW ASMBLY POST CERV/OCC INC SCR/PLT,7/30/2019,3604530,2,,LS,4.5 x 30 mm,613
+32879-185,111242923,8/16/2019,7/30/2019,Medtronic Sofamor Danek Inc,medtronic solera,SCRW ASMBLY POST CERV/OCC INC SCR/PLT,7/30/2019,3604526,2,,LS,4.5 x 26 mm,614
+32879-185,111242923,8/16/2019,7/30/2019,Medtronic Sofamor Danek Inc,medtronic solera,SCRW ASMBLY POST CERV/OCC INC SCR/PLT,7/30/2019,3604524,2,,LS,4.5 x 24 mm,615
+32879-185,111242923,8/16/2019,7/30/2019,Medtronic Sofamor Danek Inc,medtronic solera,SCRW ASMBLY POST CERV/OCC INC SCR/PLT,7/30/2019,G3604520,2,,LS,4.5 x 20 mm,616
+32879-186,111155710,8/1/2019,7/29/2019,Medtronic Sofamor Danek Inc,medtronic solera,SCREW 6.5MM 45MM SPNE MA SOLERA CD HZN,7/29/2019,55840006545,6,,LS,,617
+32879-186,111155710,8/1/2019,7/29/2019,Medtronic Sofamor Danek Inc,medtronic solera,SCREW 5.5MM 40MM SPNE MA SOLERA CD HZN,7/29/2019,55840005540,2,,LS,,618
+32879-187,111157084,8/1/2019,7/29/2019,Medtronic Sofamor Danek Inc,medtronic solera,SCREW 5MM 35MM SPNE MA SOLERA CD HZN,7/29/2019,55840005035,2,,LS,,619
+32879-187,111157084,8/1/2019,7/29/2019,Medtronic Sofamor Danek Inc,medtronic solera,SCREW 5MM 45MM SPNE MA SOLERA CD HZN,7/29/2019,55840005045,2,,LS,,620
+32879-187,111157084,8/1/2019,7/29/2019,Medtronic Sofamor Danek Inc,medtronic solera,SCREW 5.5MM 45MM SPNE MA SOLERA CD HZN,7/29/2019,55840005545,4,,LS,,621
+32879-187,111157084,8/1/2019,7/29/2019,Medtronic Sofamor Danek Inc,medtronic solera,SCREW 5.5MM 40MM SPNE MA SOLERA CD HZN,7/29/2019,55840005540,2,,LS,,622
+32879-188,111151238,7/31/2019,7/26/2019,Medtronic Sofamor Danek Inc,medtronic solera,SCREW SET TI SPNL BRK OFF CD HZN,7/26/2019,5540030,16,,LS,only screw set listed; no individual screws...,623
+32879-189,111122124,7/25/2019,7/23/2019,Rti Surgical Inc,,SCRW 7.5MM X 45MM,7/23/2019,01-PA-75-45,4,,LS,,624
+32879-190,111111815,7/24/2019,7/20/2019,Medtronic Sofamor Danek Inc,medtronic solera,SCREW 5MM 50MM SPNE MA COCR 5.5MM ROD,7/20/2019,55840005050,4,,LS,,625
+32879-190,111111815,7/24/2019,7/20/2019,Medtronic Sofamor Danek Inc,medtronic solera,SCREW 5.5MM 50MM SPNE MA SOLERA CD HZN,7/20/2019,55840005550,3,,LS,,626
+32879-190,111111815,7/24/2019,7/20/2019,Medtronic Sofamor Danek Inc,medtronic solera,SCREW 6.5MM 50MM SPNE MA SOLERA CD HZN,7/20/2019,55840006550,5,,LS,,627
+32879-190,111111815,7/24/2019,7/20/2019,Medtronic Sofamor Danek Inc,medtronic solera,SCREW 5.5MM 40MM SPNE MA SOLERA CD HZN,7/20/2019,55840005540,1,,LS,,628
+32879-190,111111815,7/24/2019,7/20/2019,Medtronic Sofamor Danek Inc,medtronic solera,SCREW 5MM 40MM SPNE MA SOLERA CD HZN,7/20/2019,55840005040,4,,LS,,629
+32879-190,111111815,7/24/2019,7/20/2019,Medtronic Sofamor Danek Inc,medtronic solera,SCREW 5MM 45MM SPNE MA SOLERA CD HZN,7/20/2019,55840005045,3,,LS,,630
+32879-191,111108381,7/23/2019,7/19/2019,Medtronic Sofamor Danek Inc,medtronic solera,SCREW 5MM 35MM SPNE MA SOLERA CD HZN,7/19/2019,55840005035,2,,LS,,631
+32879-191,111108381,7/23/2019,7/19/2019,Medtronic Sofamor Danek Inc,medtronic solera,SCREW 5.5MM 45MM SPNE MA SOLERA CD HZN,7/19/2019,55840005545,5,,LS,,632
+32879-191,111108381,7/23/2019,7/19/2019,Medtronic Sofamor Danek Inc,medtronic solera,SCREW 5.5MM 40MM SPNE MA SOLERA CD HZN,7/19/2019,55840005540,1,,LS,,633
+32879-191,111108381,7/23/2019,7/19/2019,Medtronic Sofamor Danek Inc,medtronic solera,SCREW 8.5MM 45MM SPNE MA SOLERA CD HZN,7/19/2019,55840008545,1,,LS,,634
+32879-191,111108381,7/23/2019,7/19/2019,Medtronic Sofamor Danek Inc,medtronic solera,SCREW 7.5MM 45MM SPNE MA SOLERA CD HZN,7/19/2019,55840007545,3,,LS,,635
+32879-191,111108381,7/23/2019,7/19/2019,Medtronic Sofamor Danek Inc,medtronic solera,SCREW 6.5MM 45MM SPNE MA SOLERA CD HZN,7/19/2019,55840006545,8,,LS,,636
+32879-192,110967330,6/27/2019,6/25/2019,Everest Medical,Styker everest (K2M),5.5X40MM POLYAXIAL SCREW,6/25/2019,2911-05540,1,,LS,,637
+32879-192,110967330,6/27/2019,6/25/2019,Everest Medical,Styker everest (K2M),5.5X50MM POLYAXIAL SCREW,6/25/2019,2911-05550,1,,LS,,638
+32879-192,110967330,6/27/2019,6/25/2019,Everest Medical,Styker everest (K2M),6.5X45MM POLYAXIAL SCREW,6/25/2019,2911-06545,1,,LS,,639
+32879-192,110967330,6/27/2019,6/25/2019,Everest Medical,Styker everest (K2M),6.5X50MM POLYAXIAL SCREW,6/25/2019,2911-06550,1,,LS,,640
+32879-192,110967330,6/27/2019,6/25/2019,Everest Medical,Styker everest (K2M),5.0X40MM POLYAXIAL SCREW,6/25/2019,2911-05040,4,,LS,,641
+32879-193,110983741,7/1/2019,6/11/2019,K2 Medical Llc,Styker everest (K2M),Polyaxial Screw 6.5 x 40mm,6/11/2019,2911-06540,2,,LS,,642
+32879-193,110983741,7/1/2019,6/11/2019,K2 Medical Llc,Styker everest (K2M),Polyaxial Screw 6.5 x 45mm,6/11/2019,2911-06545,2,,LS,,643
+32879-193,110983741,7/1/2019,6/11/2019,K2 Medical Llc,Styker everest (K2M),Polyaxial Screw 6.5 x 50mm,6/11/2019,2911-06550,2,,LS,,644
+32879-194,110859774,6/8/2019,6/3/2019,Rti Surgical Inc,,5.5X40 SCREW,6/3/2019,01-PA-55-40,4,,LS,,645
+32879-194,110859774,6/8/2019,6/3/2019,,,6.5 x 40 screw,6/3/2019,01-PA-65-40,4,,LS,"no manufacturer given, but I would assume it's the same as the first..",646
+32879-194,110859774,6/8/2019,6/3/2019,,,6.5 x 45 screw,6/3/2019,01-PA-65-45,4,,LS,"no manufacturer given, but I would assume it's the same as the first..",647
+32879-195,110692896,5/9/2019,5/9/2019,Ortho Pedicatrics,,6.5 x 40 poly reduction ,5/9/2019,00-1300-9640,4,,LS,"can't see the xray bc it's on a different server; not sure if it has the screws in it or not... if not, the next one would be accession #: 111209517 on 8/11/2019 (although that's a thoracic and the one noted here is a thoracolumbar spine xray)",648
+32879-195,110692896,5/9/2019,5/9/2019,,,5.5 x 35 poly reduction,5/9/2019,00-1300-9535,2,,LS,"no manufacturer given, could assume it is also ortho pediatrics based off of the other two screws",649
+32879-195,110692896,5/9/2019,5/9/2019,Ortho Pedicatrics,,5.5x36 poly,5/9/2019,00-1300-7535,5,,LS,,650
+32879-196,110889994,6/13/2019,4/22/2019,,,SCREW,4/22/2019,01-PA-65-50,2,,LS,6.5X50,651
+32879-196,110889994,6/13/2019,4/22/2019,Rti Surgical Inc,,SCREW 7.5MM 40MM SPNE PDCL PA STREAMLINE,4/22/2019,01-PA-75-40,2,,LS,,652
+32879-197,110545772,4/13/2019,4/9/2019,K2 Medical Llc,Styker everest (K2M),6.5 x 50 everest screw,4/9/2019,2911-06550,2,,LS,,653
+32879-197,110545772,4/13/2019,4/9/2019,K2 Medical Llc,Styker everest (K2M),7.5 x 50 Everest Screw,4/9/2019,2911-07550,4,,LS,,654
+32879-198,110553121,4/15/2019,4/2/2019,K2 Medical Llc,Styker everest (K2M),SCRW MESA POLY 6.5MM X 40MM,4/2/2019,801-06540,3,,LS,original date of surgery was 4/3/2019-- changed to 4/2/2019 based off of EPIC chart,655
+32879-198,110553121,4/15/2019,4/2/2019,K2 Medical Llc,Styker everest (K2M),SCRW POLY MESA UNI 5.5MM X 40MM,4/2/2019,801-35540,2,,LS,unable to retrieve entire spine xray because it's on Centricity,656
+32879-199,110482817,4/2/2019,4/2/2019,Globus Medical,,6.5 x 50 Creo Threaded Screw,4/2/2019,5119.1652,4,,LS,,657
+32879-200,110436167,3/25/2019,3/25/2019,Rti Surgical Inc,,SCRW 7.5MM X 45MM,3/25/2019,01-PA-75-45,6,,LS,,658
+32879-200,110436167,3/25/2019,3/25/2019,Rti Surgical Inc,,SCREW 7.5MM 40MM SPNE PDCL PA STREAMLINE,3/25/2019,01-PA-75-40,4,,LS,,659
+32879-200,110436167,3/25/2019,3/25/2019,Rti Surgical Inc,,8.5 x 80 MIS Screw,3/25/2019,05-PA-85-80,2,,LS,,660
+32879-201,110428441,3/24/2019,3/19/2019,K2 Medical Llc,Styker everest (K2M),6.5 x 45mm Polyaxial Screw,3/19/2019,2911-06545,2,,WK,,661
+32879-201,110428441,3/24/2019,3/19/2019,K2 Medical Llc,Styker everest (K2M),6.5 x 50mm Polyaxial Screw,3/19/2019,2911-06550,5,,WK,,662
+32879-201,110428441,3/24/2019,3/19/2019,K2 Medical Llc,Styker everest (K2M),7.5 x 45mm Polyaxial Screw,3/19/2019,2911-07545,3,,WK,,663
+32879-201,110428441,3/24/2019,3/19/2019,K2 Medical Llc,Styker everest (K2M),7.5 x 85mm Polyaxial Screw,3/19/2019,2911-085100,2,,WK,,664
+32879-202,110285747,2/26/2019,2/25/2019,,,5.5x35 Screws,2/25/2019,01-PA-55-35,4,,WK,no manufacturer given,665
+32879-202,110285747,2/26/2019,2/25/2019,,,6.5x40 Screws,2/25/2019,01-PA-65-40,6,,WK,no manufacturer given,666
+32879-203,110162254,2/5/2019,2/4/2019,Core Link Llc,,4.5 X 34MM POLYAXIAL SCREW,2/4/2019,35045-34,3,,WK,,667
+32879-203,110162254,2/5/2019,2/4/2019,Core Link Llc,,4.5 X 36MM POLYAXIAL SCREW,2/4/2019,35045-36,2,,WK,,668
+32879-204,110153275,2/3/2019,1/31/2019,K2 Medical llc,,screw 3.5mm x 12mm,1/31/2019,7601-03512,1,,WK,Xray is cervical?,669
+32879-204,110153275,2/3/2019,1/31/2019,K2 Medical llc,,screw 3.5 x 14mm,1/31/2019,7601-03514,6,,WK,Xray is cervical?,670
+32879-204,110153275,2/3/2019,1/31/2019,K2 Medical llc,,screw 3.5 x 16mm,1/31/2019,7601-03516,1,,WK,Xray is cervical?,671
+32879-204,110153275,2/3/2019,1/31/2019,K2 Medical llc,,screw 4.0 x 18mm,1/31/2019,7601-04018,2,,WK,Xray is cervical?,672
+32879-204,110153275,2/3/2019,1/31/2019,K2 Medical llc,,screw 5.0 x 32mm,1/31/2019,7601-05032,2,,WK,Xray is cervical?,673
+32879-204,110153275,2/3/2019,1/31/2019,K2 Medical llc,,screw 5.0 x 34mm,1/31/2019,7601-05034,4,,WK,Xray is cervical?,674
+32879-205,110138570,1/31/2019,1/29/2019,K2 Medical Llc,,screw,1/29/2019,7601-03514,3,,WK,,675
+32879-205,110138570,1/31/2019,1/29/2019,K2 Medical Llc,,screw,1/29/2019,7601-03516,5,,WK,,676
+32879-205,110138570,1/31/2019,1/29/2019,K2 Medical Llc,,screw,1/29/2019,7601-04022,2,,WK,,677
+32879-205,110138570,1/31/2019,1/29/2019,K2 Medical Llc,,screw,1/29/2019,7601-10001,14,,WK,,678
+32879-205,110138570,1/31/2019,1/29/2019,K2 Medical Llc,,screw,1/29/2019,7601-540240,1,,WK,,679
+32879-205,110138570,1/31/2019,1/29/2019,K2 Medical Llc,,screw,1/29/2019,7601-540240,1,,WK,,680
+32879-205,110138570,1/31/2019,1/29/2019,K2 Medical Llc,,screw,1/29/2019,7601-05034,4,,WK,,681
+32879-206,110107013,1/24/2019,1/21/2019,Rti Surgical Inc,,SCREW 6.5MM 40MM SPNE PDCL PA STREAMLINE,1/21/2019,01-PA-65-40,8,,WK,,682
+32879-206,110107013,1/24/2019,1/21/2019,Rti Surgical Inc,,6.5mmX 35mm screw,1/21/2019,01-PA-65-35,1,,WK,,683
+32879-206,110107013,1/24/2019,1/21/2019,Rti Surgical Inc,,6.5mm X 30mm Screw,1/21/2019,01-PA-65-30,1,,WK,,684
+32879-207,110081316,1/20/2019,1/19/2019,Rti Surgical Inc,,5.5 X 40 SCREW,1/19/2019,01-PA-55-40,5,,WK,,685
+32879-207,110081316,1/20/2019,1/19/2019,Rti Surgical Inc,,5.5 X 30 SCREW,1/19/2019,01-PA-55-30,1,,WK,,686
+32879-207,110081316,1/20/2019,1/19/2019,Rti Surgical Inc,,6.5 X 40 SCREW,1/19/2019,01-PA-65-40,3,,WK,,687
+32879-208,110075412,1/18/2019,1/15/2019,Depuy Spine,Depuy expedium (Synthes),6.5 x 50 screw,1/15/2019,1797-15-650,2,,WK,,688
+32879-209,109970302,12/30/2018,12/27/2018,Medtronic Sofamor Danek Inc,medtronic solera,SCREW 8.5MM 45MM SPNE MA SOLERA CD HZN,12/27/2018,55840008545,10,,WK,,689
+32879-209,109970302,12/30/2018,12/27/2018,Medtronic Sofamor Danek Inc,medtronic solera,8.5 x 50mm Solera Screw,12/27/2018,55840008550,2,,WK,,690
+32879-209,109970302,12/30/2018,12/27/2018,Medtronic Sofamor Danek Inc,medtronic solera,8.5 x 60mm Solera Screw,12/27/2018,55840008560,1,,WK,,691
+32879-209,109970302,12/30/2018,12/27/2018,Medtronic Sofamor Danek Inc,medtronic solera,8.5 x 55mm Solera Screw,12/27/2018,55840008555,1,,WK,,692
+32879-209,109970302,12/30/2018,12/27/2018,Medtronic Sofamor Danek Inc,medtronic solera,7.5 x 70mm Solera Screw,12/27/2018,55840007570,2,,WK,,693
+32879-210,109970933,12/30/2018,12/24/2018,,,YUKON OCT POLYAXIAL SCREWS,12/24/2018,7601-03514,5,,LS,3.5X14MM,694
+32879-210,109970933,12/30/2018,12/24/2018,,,YUKON OCT POLYAXIAL SCREWS,12/24/2018,7601-05030,2,,LS,5.0X30MM,695
+32879-210,109970933,12/30/2018,12/24/2018,,,YUKON OCT POLYAXIAL SCREWS,12/24/2018,7601-05032,2,,LS,5.0X32MM,696
+32879-210,109970933,12/30/2018,12/24/2018,,,EVEREST POLYAXIAL SCREWS,12/24/2018,2901-10001,8,,LS,,697
+32879-210,109970933,12/30/2018,12/24/2018,,,EVEREST POLYAXIAL SCREWS,12/24/2018,2911-06550,6,,LS,6.5X50MM,698
+32879-210,109970933,12/30/2018,12/24/2018,,,EVEREST POLYAXIAL SCREWS,12/24/2018,2911-06555,2,,LS,6.5X55MM,699
+32879-211,109896061,12/14/2018,12/14/2018,,,5.4 x 40 mesa poly,12/14/2018,3001-06540,2,,LS,"no manufacturer given, the scans were on centricity so unable to see.. otherwise, the entire spine xray on 12/15/2018 (accession #: 109898943) could have the screws if this one does not",700
+32879-211,109896061,12/14/2018,12/14/2018,,,7.5 x 40 mesa poly,12/14/2018,3001-07540,2,,LS,,701
+32879-212,110180047,2/7/2019,12/10/2018,Ulrich Medical Usa Inc,medtronic solera,SCREW LNG SPNL LCK OBELISC BONE,12/10/2018,CS2901,1,,LS,,702
+32879-212,110180047,2/7/2019,12/10/2018,Medtronic Sofamor Danek Inc,medtronic solera,SCREW 6.5MM 45MM SPNE MA SOLERA CD HZN,12/10/2018,55840006545,1,,LS,,703
+32879-212,110180047,2/7/2019,12/10/2018,Medtronic Sofamor Danek Inc,medtronic solera,SCREW 6.5MM 50MM SPNE MA SOLERA CD HZN,12/10/2018,55840006550,5,,LS,,704
+32879-212,110180047,2/7/2019,12/10/2018,Medtronic Sofamor Danek Inc,medtronic solera,SCREW 5.5MM 45MM SPNE MA SOLERA CD HZN,12/10/2018,55840005545,2,,LS,,705
+32879-213,110124034,1/28/2019,12/7/2018,Medtronic Sofamor Danek Inc,medtronic solera,SCREW SET TI SPNL BRK OFF CD HZN,,5540030,20,,LS,"couldn't find individual screws, just the set screws",706
+32879-214,109820236,12/1/2018,11/30/2018,Medtronic Sofamor Danek Inc,medtronic solera,SCREW 5MM 40MM SPNE MA SOLERA CD HZN,11/30/2018,55840005040,2,,LS,,707
+32879-214,109820236,12/1/2018,11/30/2018,Medtronic Sofamor Danek Inc,medtronic solera,SCREW 5MM 35MM SPNE MA SOLERA CD HZN,11/30/2018,55840005035,2,,LS,,708
+32879-214,109820236,12/1/2018,11/30/2018,Medtronic Sofamor Danek Inc,medtronic solera,SCREW 5.5MM 35MM SPNE MA SOLERA CD HZN,11/30/2018,55840005535,2,,LS,,709
+32879-214,109820236,12/1/2018,11/30/2018,Medtronic Inc,medtronic solera,5x25mm solera screw,11/30/2018,55840005025,4,,LS,,710
+32879-214,109820236,12/1/2018,11/30/2018,Medtronic Inc,medtronic solera,5x20mm solera screw,11/30/2018,55840005020,2,,LS,,711
+32879-215,109843208,12/9/2018,11/25/2018,Medtronic Sofamor Danek Inc,medtronic solera,SCREW 5.5MM 35MM SPNE MA SOLERA CD HZN,11/25/2018,55840005535,2,,LS,,712
+32879-215,109843208,12/9/2018,11/25/2018,Medtronic Sofamor Danek Inc,medtronic solera,SCREW 5.5MM 30MM SPNE MA SOLERA CD HZN,11/25/2018,55840005530,2,,LS,,713
+32879-215,109843208,12/9/2018,11/25/2018,Medtronic Sofamor Danek Inc,medtronic solera,SCREW 6.5MM 30MM SPNE MA SOLERA CD HZN,11/25/2018,55840006530,1,,LS,,714
+32879-215,109843208,12/9/2018,11/25/2018,Medtronic Sofamor Danek Inc,medtronic solera,SCREW SOLERA 5.5 X 25 MM,11/25/2018,55840005525,3,,LS,,715
+32879-216,109750015,11/17/2018,11/16/2018,Medtronic Sofamor Danek Inc,medtronic solera,SCREW 6.5MM 45MM SPNE MA SOLERA CD HZN,11/16/2018,55840006545,2,,LS,,716
+32879-216,109750015,11/17/2018,11/16/2018,Medtronic Sofamor Danek Inc,medtronic solera,SCREW 6.5MM 40MM SPNE MA SOLERA CD HZN,11/16/2018,55840006540,5,,LS,,717
+32879-216,109750015,11/17/2018,11/16/2018,Medtronic Sofamor Danek Inc,medtronic solera,SCREW 5.5MM 40MM SPNE MA SOLERA CD HZN,11/16/2018,55840005540,1,,LS,,718
+32879-217,109751859,11/18/2018,11/16/2018,Medtronic Sofamor Danek Inc,medtronic solera,SCREW 5MM 50MM SPNE MA COCR 5.5MM ROD,11/16/2018,55840005050,4,,LS,,719
+32879-217,109751859,11/18/2018,11/16/2018,Medtronic Sofamor Danek Inc,medtronic solera,SCREW 6.5MM 45MM SPNE MA SOLERA CD HZN,11/16/2018,55840006545,3,,LS,,720
+32879-217,109751859,11/18/2018,11/16/2018,Medtronic Sofamor Danek Inc,medtronic solera,SCREW 6.5MM 30MM SPNE MA SOLERA CD HZN,11/16/2018,55840006530,2,,LS,,721
+32879-217,109751859,11/18/2018,11/16/2018,Medtronic Sofamor Danek Inc,medtronic solera,SCREW 5MM 45MM SPNE MA SOLERA CD HZN,11/16/2018,55840005045,2,,LS,,722
+32879-217,109751859,11/18/2018,11/16/2018,Medtronic Sofamor Danek Inc,medtronic solera,SCREW 5.5MM 50MM SPNE MA SOLERA CD HZN,11/16/2018,55840005550,3,,LS,,723
+32879-218,109756947,11/19/2018,10/30/2018,Depuy Spine,Depuy expedium (Synthes),6.5 x 40 screw,10/30/2018,1797-15-640,3,,LS,surgery date changed from 10/31/2018 in the chart to 10/30/2018 based off of EPIC chart data,724
+32879-218,109756947,11/19/2018,10/30/2018,Depuy Spine,Depuy expedium (Synthes),6.5x 45 screw,10/30/2018,1797-15-645,2,,LS,,725
+32879-219,110416305,3/21/2019,10/23/2018,Depuy Spine,Depuy expedium (Synthes),SCREW 7MM 45MM SPNE 1 INNIE PA XPDM TI,10/23/2018,1797-12-745,2,,LS,"xray showed 7 screws, as well as the set screw list so I included that here as well",726
+32879-219,110416305,3/21/2019,10/23/2018,Depuy Spine,Depuy expedium (Synthes),8x45 screw,10/23/2018,1797-12-845,2,,LS,,727
+32879-219,110416305,3/21/2019,10/23/2018,Depuy Spine,Depuy expedium (Synthes),8 x 40 screw,10/23/2018,1797-12-840,1,,LS,,728
+32879-219,110416305,3/21/2019,10/23/2018,Depuy Spine,Depuy expedium (Synthes),SCREW SET 5.5MM SPNE 1 INR XPDM,10/23/2018,1797-02-000,7,,LS,,729
+32879-220,109606533,10/23/2018,9/21/2018,Medtronic Inc,medtronic solera,SCREW 5MM 30MM SPNE 2 LD THRD FRM MA CLR,10/23/2018,54840005030,4,,LS,,730
+32879-220,109606533,10/23/2018,9/21/2018,Medtronic Inc,medtronic solera,SCREW 5MM 35MM SPNE 2 LD THRD FRM MA CLR,10/23/2018,54840005035,2,,LS,,731
+32879-220,109606533,10/23/2018,9/21/2018,Medtronic Inc,medtronic solera,5.0 x 20mm SOLERA SCREW,10/23/2018,54840005020,2,,LS,,732
+32879-220,109606533,10/23/2018,9/21/2018,Medtronic Inc,medtronic solera,SCREW 5MM 25MM SPNE 2 LD THRD FRM MA CLR,10/23/2018,54840005025,4,,LS,,733
+32879-220,109606533,10/23/2018,9/21/2018,Medtronic Inc,medtronic solera,SCREW 5.5MM 25MM SPNE 2 LD THRD FRM MA,10/23/2018,54840005525,2,,LS,,734
+32879-221,109419035,9/18/2018,9/17/2018,Medtronic Sofamor Danek Inc,medtronic solera,SCREW 5.5MM 50MM SPNE MA SOLERA CD HZN,9/17/2018,55840005550,2,,LS,,735
+32879-221,109419035,9/18/2018,9/17/2018,Medtronic Sofamor Danek Inc,medtronic solera,SCREW 5.5MM 45MM SPNE MA SOLERA CD HZN,9/17/2018,55840005545,4,,LS,,736
+32879-221,109419035,9/18/2018,9/17/2018,Medtronic Sofamor Danek Inc,medtronic solera,SCREW 5MM 35MM SPNE MA SOLERA CD HZN,9/17/2018,55840005035,3,,LS,,737
+32879-221,109419035,9/18/2018,9/17/2018,Medtronic Inc,medtronic solera,5.0 x 30 solera Screw,9/17/2018,55840005030,2,,LS,,738
+32879-222,109412688,9/17/2018,9/11/2018,Rti Surgical Inc,rti,SCREW 6.5MM 40MM SPNE PDCL PA STREAMLINE,9/11/2018,01-PA-65-40,1,,LS,,739
+32879-222,109412688,9/17/2018,9/11/2018,Rti Surgical Inc,,SCREW 6.5MM 45MM SPNE PDCL PA STREAMLINE,9/11/2018,01-PA-65-45,3,,LS,,740
+32879-222,109412688,9/17/2018,9/11/2018,Rti Surgical Inc,,streamline TL screw 7.5 x 35mm,9/11/2018,01-PA-75-35,2,,LS,,741
+32879-222,109412688,9/17/2018,9/11/2018,Rti Surgical Inc,,cannulated screw 8.5 x 80mm,9/11/2018,05-PA-85-80,2,,LS,,742
+32879-223,109723396,11/13/2018,9/10/2018,Medtronic Sofamor Danek Inc,medtronic solera,SCREW 5.5MM 45MM SPNE MA SOLERA CD HZN,9/10/2018,55840005545,4,,LS,5.5 x 45mm,743
+32879-223,109723396,11/13/2018,9/10/2018,Medtronic Sofamor Danek Inc,medtronic solera,SCREW 6.5MM 45MM SPNE MA SOLERA CD HZN,9/10/2018,55840006545,4,,LS,6.5 x 45mm,744
+32879-224,109303923,8/21/2018,8/17/2018,Medtronic Sofamor Danek Inc,medtronic solera,SCREW 5.5MM 50MM SPNE MA SOLERA CD HZN,8/17/2018,55840005550,2,,LS,,745
+32879-224,109303923,8/21/2018,8/17/2018,Medtronic Sofamor Danek Inc,medtronic solera,SCREW 6.5MM 50MM SPNE MA SOLERA CD HZN,8/17/2018,55840006550,2,,LS,,746
+32879-224,109303923,8/21/2018,8/17/2018,Medtronic Sofamor Danek Inc,medtronic solera,SCREW 7.5MM 50MM SPNE MA SOLERA CD HZN,8/17/2018,55840007550,4,,LS,,747
+32879-224,109303923,8/21/2018,8/17/2018,Medtronic Sofamor Danek Inc,medtronic solera,SCREW 6.5MM 45MM SPNE MA SOLERA CD HZN,8/17/2018,55840006545,1,,LS,,748
+32879-224,109303923,8/21/2018,8/17/2018,Medtronic Sofamor Danek Inc,medtronic solera,SCREW 7.5MM 45MM SPNE MA SOLERA CD HZN,8/17/2018,55840007545,1,,LS,,749
+32879-224,109303923,8/21/2018,8/17/2018,Medtronic Sofamor Danek Inc,medtronic solera,SCREW 7.5MM 80MM SPNE MA COCR 5.5MM ROD,8/17/2018,55840007580,1,,LS,,750
+32879-224,109303923,8/21/2018,8/17/2018,Medtronic Sofamor Danek Inc,medtronic solera,SCRW POLYAX PEDICLE - Solera,8/17/2018,55840007570,1,,LS,7.5 x 70mm,751
+32879-225,109380628,9/10/2018,8/14/2018,Depuy Spine,Depuy expedium (Synthes),SCREW 7MM 45MM SPNE PA XPDM TI 6.35MM,8/14/2018,1799-12-745,4,,LS,,752
+32879-225,109380628,9/10/2018,8/14/2018,Depuy Spine,Depuy expedium (Synthes),SCREW SET TI SPNE 1 INNIE XPDM 6.35 MM,8/14/2018,1799-02-000,9,,LS,screw set included bc not all screws were listed..,753
+32879-226,109299083,8/20/2018,8/13/2018,Medtronic Sofamor Danek Inc,medtronic solera,SCREW 6.5MM 45MM SPNE MA SOLERA CD HZN,8/13/2018,55840006545,4,,LS,,754
+32879-226,109299083,8/20/2018,8/13/2018,Medtronic Sofamor Danek Inc,medtronic solera,SCREW 5.5MM 40MM SPNE MA SOLERA CD HZN,8/13/2018,55840005540,4,,LS,,755
+32879-226,109299083,8/20/2018,8/13/2018,Medtronic Sofamor Danek Inc,medtronic solera,SCREW 5.5MM 45MM SPNE MA SOLERA CD HZN,8/13/2018,55840005545,2,,LS,,756
+32879-226,109299083,8/20/2018,8/13/2018,Medtronic Sofamor Danek Inc,medtronic solera,SCREW 5.5MM 30MM SPNE MA SOLERA CD HZN,8/13/2018,55840005530,1,,LS,,757
+32879-226,109299083,8/20/2018,8/13/2018,Medtronic Sofamor Danek Inc,medtronic solera,SCREW 6.5MM 35MM SPNE MA SOLERA CD HZN,8/13/2018,55840006535,4,,LS,,758
+32879-226,109299083,8/20/2018,8/13/2018,Medtronic Sofamor Danek Inc,medtronic solera,5.5 x 30mm Solera Screw,8/13/2018,55840005525,1,,LS,,759
+32879-227,109415488,9/18/2018,8/6/2018,Medtronic Sofamor Danek Inc,medtronic solera,SCREW 6.5MM 50MM SPNE MA SOLERA COCR,8/6/2018,55840006550,1,,LS,,760
+32879-227,109415488,9/18/2018,8/6/2018,Medtronic Sofamor Danek Inc,medtronic solera,SCREW 7.5MM 50MM SPNE MA CD HZN SOLERA,8/6/2018,55840007550,4,,LS,,761
+32879-227,109415488,9/18/2018,8/6/2018,Medtronic Sofamor Danek Inc,medtronic solera,SCREW 6.5MM 45MM SPNE MA SOLERA COCR,8/6/2018,55840006545,3,,LS,,762
+32879-227,109415488,9/18/2018,8/6/2018,Medtronic Sofamor Danek Inc,medtronic solera,SCREW 7.5MM 80MM SPNE MA COCR 5.5MM ROD,8/6/2018,55840007580,2,,LS,,763
+32879-228,109244019,8/7/2018,8/4/2018,K2 Medical Llc,,3.5 x 20 screw,8/4/2018,7601-03520,1,,LS,date changed from 8/5/2018 to 8/4/2018 per EPIC,764
+32879-228,109244019,8/7/2018,8/4/2018,K2 Medical Llc,,4.0 x 26 screw,8/4/2018,7601-04026,1,,LS,,765
+32879-228,109244019,8/7/2018,8/4/2018,K2 Medical Llc,,4.0 x 30 screw,8/4/2018,7601-04030,1,,LS,,766
+32879-228,109244019,8/7/2018,8/4/2018,K2 Medical Llc,,4.0 x 14 screw,8/4/2018,7601-04014,1,,LS,,767
+32879-228,109244019,8/7/2018,8/4/2018,K2 Medical Llc,,4.5 x 28 screw,8/4/2018,7601-04528,1,,LS,,768
+32879-228,109244019,8/7/2018,8/4/2018,K2 Medical Llc,,5.0 x 28 screw,8/4/2018,7601-05028,2,,LS,,769
+32879-228,109244019,8/7/2018,8/4/2018,K2 Medical Llc,,5.0 x 30 screw,8/4/2018,7601-05030,2,,LS,,770
+32879-228,109244019,8/7/2018,8/4/2018,K2 Medical Llc,,5.0 x 26 screw,8/4/2018,7601-05026,1,,LS,,771
+32879-229,109248549,8/8/2018,8/3/2018,Medtronic Sofamor Danek Inc,medtronic solera,SCRW POLYAX PEDICLE,8/3/2018,55840005550,2,,LS,5.5 x 50mm,772
+32879-229,109248549,8/8/2018,8/3/2018,Medtronic Sofamor Danek Inc,medtronic solera,SCREW 6.5MM 50MM SPNE MA SOLERA COCR,8/3/2018,55840006550,4,,LS,,773
+32879-229,109248549,8/8/2018,8/3/2018,Medtronic Sofamor Danek Inc,medtronic solera,SCREW 7.5MM 45MM SPNE MA COCR 5.5MM ROD,8/3/2018,55840007545,2,,LS,,774
+32879-230,109249189,8/8/2018,7/31/2018,Rti Surgical Inc,,STREAMLINE SCREW,7/31/2018,01-PA-75-40,1,,LS,7.5 X 40 MM,775
+32879-230,109249189,8/8/2018,7/31/2018,Rti Surgical Inc,,STREAMLINE SCREW,7/31/2018,01-PA-75-45,5,,LS,7.5  X 45 MM,776
+32879-230,109249189,8/8/2018,7/31/2018,Rti Surgical Inc,,STREAMLINE SCREW,7/31/2018,01-PA-75-50,3,,LS,7.5 X 50 MM,777
+32879-230,109249189,8/8/2018,7/31/2018,Rti Surgical Inc,,STREAMLINE SCREW,7/31/2018,01-PA-85-40,1,,LS,8.5 X 40 MM,778
+32879-230,109249189,8/8/2018,7/31/2018,Rti Surgical Inc,,STREAMLINE MIS SCREW,7/31/2018,05-PA-85-80,2,,LS,8.5 X 80 MM,779
+32879-230,109249189,8/8/2018,7/31/2018,Rti Surgical Inc,,streamline screw,7/31/2018,01-PA-65-45,2,,LS,6.5 x 45mm,780
+32879-231,109213896,7/30/2018,7/27/2018,Medtronic Sofamfor Danek Inc,medtronic solera,SCREW 7.5MM 40MM SPNE MA SOLERA COCR,7/27/2018,55840007540,5,,WK,,781
+32879-231,109213896,7/30/2018,7/27/2018,Medtronic Sofamfor Danek Inc,medtronic solera,SCREW 6.5MM 40MM SPNE MA SOLERA COCR,7/27/2018,55840006540,3,,WK,,782
+32879-231,109213896,7/30/2018,7/27/2018,Medtronic Sofamfor Danek Inc,medtronic solera,SCREW 5.5MM 40MM SPNE MA CD HZN SOLERA,7/27/2018,55840005540,4,,WK,,783
+32879-231,109213896,7/30/2018,7/27/2018,Medtronic Sofamfor Danek Inc,medtronic solera,SCREW 7.5MM 35MM SPNE MA COCR 5.5MM ROD,7/27/2018,55840007535,2,,WK,,784
+32879-231,109213896,7/30/2018,7/27/2018,Medtronic Sofamfor Danek Inc,medtronic solera,SCREW 5.5MM 35MM SPNE MA CD HZN SOLERA,7/27/2018,55840005535,3,,WK,,785
+32879-231,109213896,7/30/2018,7/27/2018,Medtronic Sofamfor Danek Inc,medtronic solera,SCREW POLYAX PEDICLE,7/27/2018,55840006535,1,,WK,,786
+32879-232,,,7/13/2018,,,,,,,,WK,No surgery found on 7/13/2018,787
+32879-233,,,7/12/2018,Medtronic Sofamor Danek Inc,medtronic solera,SCREW 6.5MM 45MM SPNE MA SOLERA COCR,7/12/2018,55840006545,6,,LS,patient found by searching for name,788
+32879-233,,,7/12/2018,Medtronic Sofamor Danek Inc,medtronic solera,SCREW 5.5MM 35MM SPNE MA CD HZN SOLERA,7/12/2018,55840005535,4,,LS,no xray spine found post surgery,789
+32879-233,,,7/12/2018,Medtronic Sofamor Danek Inc,medtronic solera,SCREW 5.5MM 40MM SPNE MA CD HZN SOLERA,7/12/2018,55840005540,2,,LS,,790
+32879-233,,,7/12/2018,Medtronic Sofamor Danek Inc,medtronic solera,SCREW 6.5MM 30MM SPNE MA SOLERA COCR,7/12/2018,55840006530,2,,LS,,791
+32879-234,109114246,7/6/2018,7/5/2018,Medtronic Sofamor Danek Inc,medtronic solera,SCREW 6.5MM 45MM SPNE MA SOLERA COCR,7/5/2018,55840006545,4,,WK,,792
+32879-234,109114246,7/6/2018,7/5/2018,Medtronic Sofamor Danek Inc,medtronic solera,SCREW 6.5MM 40MM SPNE MA SOLERA COCR,7/5/2018,55840006540,3,,WK,,793
+32879-234,109114246,7/6/2018,7/5/2018,Medtronic Sofamor Danek Inc,medtronic solera,SCREW 5.5MM 40MM SPNE MA CD HZN SOLERA,7/5/2018,55840005540,1,,WK,,794
+32879-235,109114216,7/6/2018,7/3/2018,Medtronic Sofamor Danek Inc,medtronic solera,SCRW POLYAX PEDICLE,7/3/2018,55840005045,2,,WK,,795
+32879-235,109114216,7/6/2018,7/3/2018,Medtronic Sofamor Danek Inc,medtronic solera,SCREW 5MM 40MM SPNE MA SOLERA COCR 5.5MM,7/3/2018,55840005040,5,,WK,,796
+32879-235,109114216,7/6/2018,7/3/2018,Medtronic Sofamor Danek Inc,medtronic solera,SCRW POLYAX PEDICLE,7/3/2018,55840005545,1,,WK,,797
+32879-235,109114216,7/6/2018,7/3/2018,Medtronic Sofamor Danek Inc,medtronic solera,SCREW 6.5MM 30MM SPNE MA SOLERA COCR,7/3/2018,55840006530,1,,WK,,798
+32879-235,109114216,7/6/2018,7/3/2018,Medtronic Sofamor Danek Inc,medtronic solera,SCREW 5.5MM 40MM SPNE MA CD HZN SOLERA,7/3/2018,55840005540,3,,WK,,799
+32879-235,109114216,7/6/2018,7/3/2018,Medtronic Sofamor Danek Inc,medtronic solera,SCREW 6.5MM 45MM SPNE MA SOLERA COCR,7/3/2018,55840006545,1,,WK,,800
+32879-236,109113927,7/5/2018,7/2/2018,Medtronic Sofamor Danek Inc,medtronic solera,SCRW POLYAX PEDICLE,7/2/2018,55840007545,4,,WK,,801
+32879-236,109113927,7/5/2018,7/2/2018,Medtronic Sofamor Danek Inc,medtronic solera,SCRW POLYAX PEDICLE,7/2/2018,55840007540,2,,WK,,802
+32879-236,109113927,7/5/2018,7/2/2018,Medtronic Sofamor Danek Inc,medtronic solera,SCRW POLYAX PEDICLE,7/2/2018,55840006545,2,,WK,,803
+32879-236,109113927,7/5/2018,7/2/2018,Medtronic Sofamor Danek Inc,medtronic solera,SCRW POLYAX PEDICLE,7/2/2018,55840007580,2,,WK,,804
+32879-237,109098234,7/2/2018,7/1/2018,RTI Streamline,,RTI Streamline Pedicle Screws 6.5 x 45mm,7/1/2018,01-PA-65-45,3,,WK,,805
+32879-237,109098234,7/2/2018,7/1/2018,RTI Streamline,,RTI Streamline Pedicle Screws 7.5 x 45mm,7/1/2018,01-PA-75-45,3,,WK,,806
+32879-237,109098234,7/2/2018,7/1/2018,RTI Streamline,,RTI Streamline Pedicle Screws 6.5 x 40mm,7/1/2018,01-PA-65-40,6,,WK,,807
+32879-238,109051658,6/20/2018,6/20/2018,Medtronic Sofamor Danek Inc,medtronic solera,SCREW 6.5MM 45MM SPNE MA SOLERA COCR,6/20/2018,55840006545,4,,WK,,808
+32879-238,109051658,6/20/2018,6/20/2018,Medtronic Sofamor Danek Inc,medtronic solera,SCREW 6.5MM 40MM SPNE MA SOLERA COCR,6/20/2018,55840006540,2,,WK,,809
+32879-238,109051658,6/20/2018,6/20/2018,Medtronic Sofamor Danek Inc,medtronic solera,5.5x40mm Solera screw,6/20/2018,5.584E+11,4,,WK,,810
+32879-239,109056018,6/20/2018,6/18/2018,Medtronic Inc,medtronic solera,SCREW 5MM 40MM SOPRO SPNL 2 LD THRD FRM,6/18/2018,54840005040,2,,WK,,811
+32879-239,109056018,6/20/2018,6/18/2018,Medtronic Inc,medtronic solera,SCREW 4.5MM 40MM SPNE 2 LD MA CLR CD,6/18/2018,54840004540,1,,WK,,812
+32879-239,109056018,6/20/2018,6/18/2018,Medtronic Inc,medtronic solera,SCREW 4.5MM 35MM SPNE 2 LD MA CLR CD,6/18/2018,54840004535,1,,WK,,813
+32879-239,109056018,6/20/2018,6/18/2018,Medtronic Inc,medtronic solera,SCREW 4.5MM 25MM SPNE 2 LD MA CLR CD,6/18/2018,54840004525,2,,WK,,814
+32879-239,109056018,6/20/2018,6/18/2018,Medtronic Inc,medtronic solera,SCREW 4.5MM 20MM SPNE 2 LD MA CLR CD,6/18/2018,54840004520,1,,WK,,815
+32879-239,109056018,6/20/2018,6/18/2018,Medtronic Inc,medtronic solera,SCREW 5.5MM 30MM SPNE 2 LD MA CLR CD,6/18/2018,54840005530,2,,WK,,816
+32879-239,109056018,6/20/2018,6/18/2018,Medtronic Inc,medtronic solera,SCREW 5.5MM 25MM SPNE 2 LD MA CLR CD,6/18/2018,54840005525,2,,WK,,817
+32879-240,109036902,6/15/2018,6/12/2018,,rti,6.5x35 mm screw,6/12/2018,01-PA-65-35,2,,LS,no manufacturer given,818
+32879-240,109036902,6/15/2018,6/12/2018,,,6.5X50MM SCREW,6/12/2018,01-PA-65-50,2,,LS,no manufacturer given,819
+32879-240,109036902,6/15/2018,6/12/2018,,,7.5X40MM SCREW,6/12/2018,01-PA-75-40,2,,LS,no manufacturer given,820
+32879-241,109071450,6/25/2018,6/10/2018,,,6.5 X 40MM SCREW,,01-PA-65-40,4,,LS,no manufacturer given,821
+32879-242,108982631,6/3/2018,5/25/2018,Medtronic Sofamor Danek Inc,medtronic solera,SCREW 6.5MM 45MM SPNE MA SOLERA COCR,5/25/2018,55840006545,3,,LS,,822
+32879-242,108982631,6/3/2018,5/25/2018,Medtronic Sofamor Danek Inc,medtronic solera,SCREW 5.5MM 40MM SPNE MA CD HZN SOLERA,5/25/2018,55840005540,1,,LS,,823
+32879-242,108982631,6/3/2018,5/25/2018,Medtronic Inc,medtronic solera,SCREW 6.5MM 35MM SPNE MA SOLERA COCR,5/25/2018,55840006535,1,,LS,,824
+32879-242,108982631,6/3/2018,5/25/2018,Medtronic Inc,medtronic solera,SCREW 5.5MM 45MM SPNE MA SOLERA COCR,5/25/2018,55840005545,2,,LS,,825
+32879-242,108982631,6/3/2018,5/25/2018,Medtronic Inc,medtronic solera,SCREW 6.5MM 50MM SPNE MA SOLERA COCR,5/25/2018,55840006550,1,,LS,,826
+32879-242,108982631,6/3/2018,5/25/2018,Medtronic Inc,medtronic solera,SCREW 5.0MM 45MM SPNE MA SOLERA COCR,5/25/2018,55840005045,1,,LS,,827
+32879-242,108982631,6/3/2018,5/25/2018,Medtronic Sofamor Danek Inc,medtronic solera,SCREW 5.5MM 35MM SPNE MA CD HZN SOLERA,5/25/2018,55840005535,1,,LS,,828
+32879-242,108982631,6/3/2018,5/25/2018,Medtronic Sofamor Danek Inc,medtronic solera,SCREW 6.5MM 40MM SPNE MA SOLERA COCR,5/25/2018,55840006540,1,,LS,,829
+32879-242,108982631,6/3/2018,5/25/2018,Medtronic Sofamor Danek Inc,medtronic solera,SCREW 7.5MM 40MM SPNE MA SOLERA COCR,5/25/2018,55840007540,1,,LS,,830
+32879-242,108982631,6/3/2018,5/25/2018,Medtronic Sofamor Danek Inc,medtronic solera,SCREW 8.5MM 40MM SPNE MA SOLERA COCR,5/25/2018,55840008540,3,,LS,,831
+32879-242,108982631,6/3/2018,5/25/2018,Medtronic Sofamor Danek Inc,medtronic solera,SCREW 8.5MM 35MM SPNE MA SOLERA COCR,5/25/2018,55840008535,1,,LS,,832
+32879-242,108982631,6/3/2018,5/25/2018,Medtronic Sofamor Danek Inc,medtronic solera,SCREW 8.5MM 45MM SPNE MA SOLERA COCR,5/25/2018,55840008545,1,,LS,,833
+32879-242,108982631,6/3/2018,5/25/2018,,medtronic solera,SCREW 7.5MM 80MM SPNE MA SOLERA COCR,5/25/2018,55840007580,2,,LS,no manufacturer given,834
+32879-243,108826698,4/25/2018,4/23/2018,Medtronic Sofamor Danek Inc,medtronic solera,7.5mm x 45mm Solera Screw,4/23/2018,55840007545,2,,LS,,835
+32879-243,108826698,4/25/2018,4/23/2018,Medtronic Sofamor Danek Inc,medtronic solera,SCREW 7.5MM 50MM SPNE MA CD HZN SOLERA,4/23/2018,55840007550,2,,LS,,836
+32879-244,108818087,4/23/2018,4/20/2018,Medtronic Sofamor Danek Inc,medtronic solera,SCREW 6.5MM 45MM SPNE MA SOLERA COCR,4/20/2018,55840006545,2,,LS,lumbar xray alone does not cover all of the screws..,837
+32879-244,108818087,4/23/2018,4/20/2018,Medtronic Sofamor Danek Inc,medtronic solera,SCREW 7.5MM 50MM SPNE MA CD HZN SOLERA,4/20/2018,55840007550,1,,LS,accession # for entire spine x-ray: 109159164; 7/17/2018 date,838
+32879-244,108818087,4/23/2018,4/20/2018,Medtronic Inc,medtronic solera,SCREW 7.5mm x 80mm,4/20/2018,55840007580,2,,LS,accession # for thoracic spine x-ray: 108818089; 4/23/2018 date,839
+32879-244,108818087,4/23/2018,4/20/2018,Medtronic Inc,medtronic solera,SOLERA SCREW 8.5 X 45MM,4/20/2018,55840008545,2,,LS,,840
+32879-244,108818087,4/23/2018,4/20/2018,Medtronic Inc,medtronic solera,SOLERA SCREW 7.5 X 45MM,4/20/2018,55840007545,3,,LS,,841
+32879-244,108818087,4/23/2018,4/20/2018,Medtronic Inc,medtronic solera,SOLERA SCREW 5.5 X 50MM,4/20/2018,55840005550,4,,LS,,842
+32879-244,108818087,4/23/2018,4/20/2018,Medtronic Inc,medtronic solera,SOLERA SCREW 5.0 X 50MM,4/20/2018,55840005050,2,,LS,,843
+32879-245,109158286,7/17/2018,4/13/2018,Medtronic Inc,,Solera set screw,,5540030,24,,LS,"no individual screws listed, so put set screws here.. entire spine xray listed due to sheer number and span of the screws",844
+32879-246,109136058,7/11/2018,4/6/2018,MEDTRONIC SOFAMOR DANEK,medtronic solera,Solera Screw,4/6/2018,55840005545,2,,LS,pulled from care everywhere clinical summary,845
+32879-246,109136058,7/11/2018,4/6/2018,MEDTRONIC SOFAMOR DANEK,medtronic solera,Solera Screw,4/6/2018,55840006550,1,,LS,,846
+32879-246,109136058,7/11/2018,4/6/2018,MEDTRONIC SOFAMOR DANEK,medtronic solera,Screw 55840006545 5.5 Mas 6.5x45 Cc - Log216513,4/6/2018,55840006545,1,,LS,,847
+32879-247,4593949,3/31/2018,3/29/2018,Depuy Spine,Depuy expedium (Synthes),Screw 5x35,3/29/2018,1997-21-535 ,4,,DT,,848
+32879-247,4593949,3/31/2018,3/29/2018,Depuy Spine,Depuy expedium (Synthes),Screw 6x40,3/29/2018,1997-21-640 ,4,,DT,,849
+32879-247,4593949,3/31/2018,3/29/2018,Depuy Spine,Depuy expedium (Synthes),Screw 6x35,3/29/2018,1997-21-635 ,2,,DT,,850
+32879-248,4581460,3/8/2018,3/6/2018,"DEPUY SPINE, INC.",Depuy expedium (Synthes),Screw Cortical Fixation Mps Tit 6mmx 40mm ,3/6/2018,1797-12-640 ,2,,DT,,851
+32879-248,4581460,3/8/2018,3/6/2018,"DEPUY SPINE, INC.",Depuy expedium (Synthes),Screw Cortical Fixation Mps Tit 6mmx 35mm ,3/6/2018,1797-12-635 ,4,,DT,,852
+32879-248,4581460,3/8/2018,3/6/2018,"DEPUY SPINE, INC.",Depuy expedium (Synthes),Screw Cortical Fixation Mps Tit 7mmx 40mm,3/6/2018,1797-12-740 ,2,,DT,,853
+32879-249,4568863,2/13/2018,2/7/2018,Depuy Spine,Depuy expedium (Synthes),5x30 Screw,2/7/2018,1797-12-530,1,,DT,,854
+32879-249,4568863,2/13/2018,2/7/2018,"DEPUY SPINE, INC.",Depuy expedium (Synthes),Screw Polyaxial Expedium Titanium 5x35m,2/7/2018, 1797-12-535 ,4,,DT,,855
+32879-249,4568863,2/13/2018,2/7/2018,"DEPUY SPINE, INC.",Depuy expedium (Synthes),Screw Polyaxial Expedium Titanium 5x40mm ,2/7/2018, 1797-12-540 ,1,,DT,,856
+32879-249,4568863,2/13/2018,2/7/2018,"DEPUY SPINE, INC.",Depuy expedium (Synthes),Screw Polyaxl Tit W/Dimple In Head 6x40mm ,2/7/2018,1797-12-640,6,,DT,,857
+32879-250,4561561,1/31/2018,1/26/2018,Medtronic Sofamor Danek Inc,medtronic solera,5.5 X 45mm Solera Screw,1/26/2018,55840005545,2,,DT,,858
+32879-250,4561561,1/31/2018,1/26/2018,Medtronic Sofamor Danek Inc,medtronic solera,5.0x 45 Mm Solera Screw,1/26/2018,55840005045,2,,DT,,859
+32879-250,4561561,1/31/2018,1/26/2018,Medtronic Sofamor Danek Inc,medtronic solera,Screw 5mm 40mm Spne Ma Solera Cocr 5.5mm ,1/26/2018,55840005040,4,,DT,,860
+32879-251,4551411,1/12/2018,1/11/2018,"DEPUY SPINE, INC.",Depuy expedium (Synthes),Screw Cortical Fixation Mps Tit 7mmx 45mm,1/11/2018,1867-31-745,2,,DT,"""L4 screw blew out lateral border of the pedicle. Decision was made once the screw broke out at L4 to maintain the unilateral instrumentation on the left and to maintain the screws at L5 and S1
+on the right.""",861
+32879-251,4551411,1/12/2018,1/11/2018,"DEPUY SPINE, INC.",Depuy expedium (Synthes),Screw Cortical Fixation Mps Tit 7mmx 40mm ,1/11/2018,1867-31-740,4,,DT,,862
+32879-252,4551382,1/12/2018,1/4/2018,Medtronic Inc,medtronic solera,5.5 X 45mm Solera Screw,1/4/2018,55840005545,3,,DT,,863
+32879-252,4551382,1/12/2018,1/4/2018,MEDTRONIC INC.,medtronic solera,5.0 X 45mm Solera Screw,1/4/2018,55840005045,6,,DT,,864
+32879-252,4551383,1/12/2018,1/4/2018,MEDTRONIC INC.,medtronic solera,6.5 X 35 Mm Solera Screw,1/4/2018,55840006535,1,,DT,,865
+32879-252,4551383,1/12/2018,1/4/2018,MEDTRONIC INC.,medtronic solera,5.0 X 50 Mm Solera Screw,1/4/2018,55840005050,1,,DT,,866
+32879-252,4551383,1/12/2018,1/4/2018,MEDTRONIC INC.,medtronic solera,5.0 X 40 Mm Solera Screw,1/4/2018,5584005040,4,,DT,,867
+32879-252,4551383,1/12/2018,1/4/2018,MEDTRONIC INC.,medtronic solera,5.0 35 Mm Solera Screw,1/4/2018,55840005035,5,,DT,,868
+32879-252,4551383,1/12/2018,1/4/2018,MEDTRONIC INC.,medtronic solera,5.0 X 30mm Solera Screw,1/4/2018,5584005030,1,,DT,,869
+32879-252,4551383,1/12/2018,1/4/2018,Medtronic Inc,medtronic solera,5.0 X 25 Mm Solera Screw,1/4/2018,5584005025,2,,DT,,870
+32879-252,4551383,1/12/2018,1/4/2018,Medtronic Sofamor Danek Inc,medtronic solera,Screw 5.5mm 30mm Spne Ma Cd Hzn Solera - Log204665,1/4/2018,55840005530,2,,DT,,871
+32879-252,4551383,1/12/2018,1/4/2018,MEDTRONIC SOFAMOR DANEK,medtronic solera,Screw 55840006545 5.5 Mas 6.5x45 Cc - Log204665,1/4/2018,55840006545,1,,DT,,872
+32879-253,4544863,12/31/2017,12/28/2017,"DEPUY SPINE, INC.",Depuy expedium (Synthes),7x45mm Reduction Screw,12/28/2017,1799-32-745,4,,LS,,873
+32879-253,4544863,12/31/2017,12/28/2017,"DEPUY SPINE, INC.",Depuy expedium (Synthes),8x55 Mm Reduction Screw,12/28/2017,1799-32-855,4,,LS,,874
+32879-253,4544863,12/31/2017,12/28/2017,"DEPUY SPINE, INC.",Depuy expedium (Synthes),Scrw Polyax Pedicle - Log203752,12/28/2017,179912865,2,,LS,,875
+32879-253,4544863,12/31/2017,12/28/2017,"DEPUY SPINE, INC.",Depuy expedium (Synthes),"Implant, Screw Polyaxial Expdm 6.35 Ti 7x45mm - Log203752",12/28/2017,1799-12-745,6,,LS,,876
+32879-253,4544863,12/31/2017,12/28/2017,"DEPUY SPINE, INC.",Depuy expedium (Synthes),Mntr M/L Screw 4.0 Dia X 24 - Log205615,12/28/2017,188319424,2,,LS,cervical spine screw,877
+32879-253,4544863,12/31/2017,12/28/2017,"DEPUY SPINE, INC.",Depuy expedium (Synthes),"Implant, Cap Screw Inner Titanium - Log205615",12/28/2017,1883-42-200,12,,LS,cervical spine screw,878
+32879-253,4544863,12/31/2017,12/28/2017,"DEPUY SPINE, INC.",Depuy expedium (Synthes),"Implant, Screw Bone Tit Savored Angle 3.5mm X 16mm - Log205615",12/28/2017,1883-18-316,6,,LS,cervical spine screw,879
+32879-253,4544863,12/31/2017,12/28/2017,"DEPUY SPINE, INC.",Depuy expedium (Synthes),"Implant, Screw Bone M/L Favored Angle 3.5mm X 20mm - Log205615",12/28/2017,1883-19-320,2,,LS,cervical spine screw,880
+32879-254,4552266,12/22/2017,12/14/2017,"DEPUY SPINE, INC.",Depuy expedium (Synthes),"Implant, Screw Polyaxial Expedium Titanium 5x35mm - Log201966",12/14/2017,1797-12-535,4,,LS,thoracic screws,881
+32879-254,4552266,12/22/2017,12/14/2017,"DEPUY SPINE, INC.",Depuy expedium (Synthes),"Implant, Screw Polyaxl Tit W/Dimple In Head 6x40mm - Log201966",12/14/2017,1797-12-640,6,,LS,thoracic screws,882
+32879-255,4536760,12/15/2017,12/12/2017,"DEPUY SPINE, INC.",Depuy expedium (Synthes),"Implant, Screw Polyaxl Tit W/Dimple In Head 6x40mm - Log201530",12/12/2017,1797-12-640,3,,LS,care everywhere says implanted 3... then explanted 1?,883
+32879-255,4536760,12/15/2017,12/12/2017,"DEPUY SPINE, INC.",Depuy expedium (Synthes),"Implant, Screw Inner Single Set Tit - Log201530",12/12/2017,179702000,4,,LS,,884
+32879-256,459674213,12/9/2017,12/8/2017,MEDTRONIC SOFAMOR DANEK,medtronic solera,Screw 55840006540 5.5 Mas 6.5x40 Cc - Log200782,12/8/2017,55840006540,2,,WK,,885
+32879-256,459674213,12/9/2017,12/8/2017,Medtronic Sofamor Danek Inc,medtronic solera,Screw 5.5mm 40mm Spne Ma Cd Hzn Solera - Log200782,12/8/2017,55840005540,3,,WK,,886
+32879-256,459674213,12/9/2017,12/8/2017,Medtronic Sofamor Danek Inc,medtronic solera,Screw 5mm 40mm Spne Ma Solera Cocr 5.5mm - Log200782,12/8/2017,55840005040,3,,WK,,887
+32879-257,,,11/30/2017,,,,,,,,WK,"only grafts, rods, screw sets",888
+32879-258,4518221,11/13/2017,11/9/2017,"DEPUY SPINE, INC.",medtronic solera,"Implant, Screw Polyaxial Expdm 6.35 Ti 6x35mm - Log196970",11/9/2017,1799-12-635,1,,WK,,889
+32879-258,4518221,11/13/2017,11/9/2017,"DEPUY SPINE, INC.",medtronic solera,"Implant, Screw Polyaxial Expdm 6.35 Ti 6x45mm - Log196970",11/9/2017,1799-12-645,2,,WK,,890
+32879-258,4518221,11/13/2017,11/9/2017,"DEPUY SPINE, INC.",medtronic solera,"Implant, Screw Polyaxial Expdm 6.35 Ti 7x45mm - Log196970",11/9/2017,1799-120-745,2,,WK,,891
+32879-259,4506954,10/24/2017,10/23/2017,Medtronic Inc,medtronic solera,5.0 X25mm Solera Screw,10/23/2017,55840005025 ,2,,WK,,892
+32879-259,4506954,10/24/2017,10/23/2017,Medtronic Inc,medtronic solera,5.0 X 35mm Solera Screw,10/23/2017,55840005035 ,5,,WK,,893
+32879-260,4506672,10/23/2017,10/20/2017,Medtronic Inc,medtronic solera,5.0x45mm Solera,10/20/2017,55840005045 ,2,,WK,,894
+32879-260,4506672,10/23/2017,10/20/2017,Medtronic Inc,medtronic solera,5.0x30mm Solera Screw,10/20/2017,55840005030 ,3,,WK,,895
+32879-260,4506672,10/23/2017,10/20/2017,Medtronic Sofamor Danek Inc,medtronic solera,Screw 5mm 40mm Spne Ma Solera Cocr 5.5mm - Log179839,10/20/2017,55840005040 ,3,,WK,,896
+32879-260,4506672,10/23/2017,10/20/2017,Medtronic Sofamor Danek Inc,medtronic solera,Screw 5.5mm 35mm Spne Ma Cd Hzn Solera - Log179839,10/20/2017,55840005535 ,1,,WK,,897
+32879-260,4506672,10/23/2017,10/20/2017,Medtronic Sofamor Danek Inc,medtronic solera,Screw 5.5mm 40mm Spne Ma Cd Hzn Solera - Log179839,10/20/2017,55840005540 ,2,,WK,,898
+32879-260,4506672,10/23/2017,10/20/2017,Medtronic Sofamor Danek Inc,medtronic solera,Screw 5.5mm 30mm Spne Ma Cd Hzn Solera - Log179839,10/20/2017,55840005530 ,1,,WK,,899
+32879-261,4505753,10/21/2017,10/13/2017,,medtronic solera,(Sa7 316768) 5.0 X 40mm Solera Screw,10/13/2017,55840005040 ,1,,WK,,900
+32879-261,4505753,10/21/2017,10/13/2017,Medtronic Sofamor Danek Inc,medtronic solera,Screw 5.5mm 35mm Spne Ma Cd Hzn Solera - Log178919,10/13/2017,55840005535 ,1,,WK,,901
+32879-261,4505753,10/21/2017,10/13/2017,Medtronic Sofamor Danek Inc,medtronic solera,Screw 6.5mm 30mm Spne Ma Solera Cocr - Log178919,10/13/2017,55840006530 ,4,,WK,,902
+32879-261,4505753,10/21/2017,10/13/2017,MEDTRONIC SOFAMOR DANEK,medtronic solera,Screw 55840006550 5.5 Mas 6.5x50 Cc - Log178919,10/13/2017,55840006550 ,6,,WK,,903
+32879-261,4505753,10/21/2017,10/13/2017,,medtronic solera,(Sa7 316768) 5.5 X 50 Mm Solera Screw,10/13/2017,55840005550,3,,WK,,904
+32879-261,4505753,10/21/2017,10/13/2017,,medtronic solera,(Sa7 316768) 5.5 X 45mm Solera Screw ,10/13/2017,55840005545 ,4,,WK,,905
+32879-261,4505753,10/21/2017,10/13/2017,Medtronic Sofamor Danek Inc,medtronic solera,Screw 5.5mm 40mm Spne Ma Cd Hzn Solera - Log178919,10/13/2017,55840005540 ,1,,WK,,906
+32879-262,,,10/3/2017,,,,,,,,WK,"""no matching encounter found""",907
+32879-263,4493111,9/29/2017,9/28/2017,"DEPUY SPINE, INC.",Depuy expedium (Synthes),Verse Screw,9/28/2017,1997-21-640,4,,WK,surgery date was wrong (said 9/27 but it was on 9/28),908
+32879-264,4490971,9/25/2017,9/22/2017,,medtronic solera,Sa7 316768 Solera Screw,9/22/2017,55840005525 ,1,,WK,,909
+32879-264,4490971,9/25/2017,9/22/2017,MEDTRONIC SOFAMOR DANEK,medtronic solera,Screw 55840006550 5.5 Mas 6.5x50 Cc - Log189624,9/22/2017,55840006550 ,1,,WK,,910
+32879-264,4490971,9/25/2017,9/22/2017,,medtronic solera,Sa7 316768 5.5 X 45mm Solera Screw,9/22/2017,55840005545,1,,WK,,911
+32879-264,4490971,9/25/2017,9/22/2017,,medtronic solera,Sa7 316768 Soleral Screw,9/22/2017,55840005550 ,2,,WK,,912
+32879-264,4490971,9/25/2017,9/22/2017,MEDTRONIC SOFAMOR DANEK,medtronic solera,Screw 55840006545 5.5 Mas 6.5x45 Cc - Log189624,9/22/2017,55840006545 ,3,,WK,,913
+32879-264,4490971,9/25/2017,9/22/2017,Medtronic Sofamor Danek Inc,medtronic solera,Screw 5.5mm 40mm Spne Ma Cd Hzn Solera - Log189624,9/22/2017,55840005540 ,1,,WK,,914
+32879-265,,,9/19/2017,,,,,,,,,,915
+32879-266,4481069,9/7/2017,9/5/2017,MEDTRONIC INC.,medtronic solera,5.5x45mm Solera Screw,9/5/2017,55840005545 ,5,,WK,,916
+32879-266,4481069,9/7/2017,9/5/2017,MEDTRONIC INC.,medtronic solera,5.5 X 40mm Solera Screw,9/5/2017,55840005540 ,1,,WK,,917
+32879-266,4481069,9/7/2017,9/5/2017,MEDTRONIC INC.,medtronic solera,5.5 X 50mm Solera Screw,9/5/2017,55840005550 ,1,,WK,,918
+32879-266,4481069,9/7/2017,9/5/2017,MEDTRONIC INC.,medtronic solera,5.0 X 45mm Solera Screw,9/5/2017,55840005045 ,1,,WK,,919
+32879-267,4472341,8/22/2017,8/21/2017,MEDTRONIC SPINE LLC (KYPHON),medtronic solera,4.5 X 35mm Solera Screw,8/21/2017,55840004535 ,1,,WK,,920
+32879-267,4472341,8/22/2017,8/21/2017,MEDTRONIC SPINE LLC (KYPHON),medtronic solera,5.0 X 35mm,8/21/2017,55840005035 ,1,,WK,,921
+32879-267,4472341,8/22/2017,8/21/2017,Medtronic Sofamor Danek Inc,medtronic solera,Screw 5.5mm 30mm Spne Ma Cd Hzn Solera - Log184813,8/21/2017,55840005530 ,1,,WK,,922
+32879-267,4472341,8/22/2017,8/21/2017,Medtronic Sofamor Danek Inc,medtronic solera,Screw 5.5mm 35mm Spne Ma Cd Hzn Solera - Log184813,8/21/2017,55840005530 ,1,,WK,,923
+32879-267,4472341,8/22/2017,8/21/2017,Medtronic Sofamor Danek Inc,medtronic solera,Screw 5.5mm 40mm Spne Ma Cd Hzn Solera - Log184813,8/21/2017,55840005540 ,1,,WK,,924
+32879-267,4472341,8/22/2017,8/21/2017,MEDTRONIC SPINE LLC (KYPHON),medtronic solera,5.5 X 45mm,8/21/2017,55840005545 ,4,,WK,,925
+32879-267,4472341,8/22/2017,8/21/2017,MEDTRONIC SOFAMOR DANEK,medtronic solera,Screw 55840006545 5.5 Mas 6.5x45 Cc - Log184813,8/21/2017,55840006545 ,1,,WK,,926
+32879-268,4461995,8/4/2017,8/2/2017,,,,,,,,WK,"""Cannot Request Information""",927
+32879-269,4462886,8/6/2017,8/1/2017,"DEPUY SPINE, INC.",Depuy expedium (Synthes),"Implant, Screw Polyaxl Tit W/Dimple In Head 6x35mm - Log180537",8/1/2017,1797-12-740,6,,WK,,928
+32879-269,4462886,8/6/2017,8/1/2017,"DEPUY SPINE, INC.",Depuy expedium (Synthes),"Implant, Screw Polyaxl Tit W/Dimple In Head 7x40mm - Log180537",8/1/2017,1797-12-740,6,,WK,,929
+32879-270,4459190,7/31/2017,7/30/2017,,,,,,,,WK,SLU not an option on Care Everywhere,930
+32879-271,4456659,7/26/2017,7/25/2017,"DEPUY SPINE, INC.",Depuy expedium (Synthes),"Implant, Screw Polyaxial Expedium Titanium 5x35mm - Log179055",7/25/2017,1797-12-535,4,,WK,,931
+32879-271,4456659,7/26/2017,7/25/2017,"DEPUY SPINE, INC.",Depuy expedium (Synthes),"Implant, Screw Polyaxl Tit W/Dimple In Head 6x35mm - Log179055",7/25/2017,1797-12-635,2,,WK,,932
+32879-271,4456659,7/26/2017,7/25/2017,"DEPUY SPINE, INC.",Depuy expedium (Synthes),"Implant, Screw Polyaxl Tit W/Dimple In Head 6x40mm - Log179055",7/25/2017,1797-12-640,6,,WK,,933
+32879-271,4456659,7/26/2017,7/25/2017,Depuy Spine,Depuy expedium (Synthes),Viper Screw 7x45mm,7/25/2017,186715745 ,4,,WK,,934
+32879-272,4451761,7/17/2017,7/14/2017,MEDTRONIC INC.,medtronic solera,5.5 X 50mm Solara Screw,7/14/2017,55840005550 ,4,,WK,,935
+32879-272,4451761,7/17/2017,7/14/2017,MEDTRONIC SOFAMOR DANEK,medtronic solera,Screw 55840006545 5.5 Mas 6.5x45 Cc - Log179252,7/14/2017,55840006545 ,1,,WK,,936
+32879-272,4451761,7/17/2017,7/14/2017,Medtronic Sofamor Danek Inc,medtronic solera,Screw 5.5mm 40mm Spne Ma Cd Hzn Solera - Log179252,7/14/2017,55840005540 ,1,,WK,,937
+32879-272,4451761,7/17/2017,7/14/2017,,medtronic solera,5.0 X 45mm Solara Screw,7/14/2017,55840005045 ,2,,WK,,938
+32879-272,4451761,7/17/2017,7/14/2017,MEDTRONIC INC.,medtronic solera,5.5 X 45mm Solara Screw,7/14/2017,55840005545 ,2,,WK,,939
+32879-273,4442394,6/30/2017,6/29/2017,"DEPUY SPINE, INC.",Depuy expedium (Synthes),"Implant, Screw Polyaxial Expedium Titanium 5x35mm - Log176952",6/29/2017,1797-12-535,2,,WK,Surgery date was wrong (7/1),940
+32879-273,4442394,6/30/2017,6/29/2017,"DEPUY SPINE, INC.",Depuy expedium (Synthes),"Implant, Screw Polyaxl Tit W/Dimple In Head 6x35mm - Log176952",6/29/2017,1797-12-635,2,,WK,Surgery date was wrong (7/1),941
+32879-273,4442394,6/30/2017,6/29/2017,"DEPUY SPINE, INC.",Depuy expedium (Synthes),"Implant, Screw Polyaxl Tit W/Dimple In Head 6x40mm - Log176952",6/29/2017,1797-12-640,5,,WK,Surgery date was wrong (7/1),942
+32879-273,4442394,6/30/2017,6/29/2017,"DEPUY SPINE, INC.",Depuy expedium (Synthes),"Implant, Screw Polyaxl Tit W/Dimple In Head 7x40mm - Log176952",6/29/2017,1797-12-740,5,,WK,Surgery date was wrong (7/1),943
+32879-274,4440461,6/27/2017,6/26/2017,MEDTRONIC SOFAMOR DANEK,medtronic solera,Screw 54840005030 Mas 5.0x30 Cc - Log176538,6/26/2017,54840005030 ,3,,WK,,944
+32879-274,4440461,6/27/2017,6/26/2017,,medtronic solera,4.5x25mm Solera Screw,6/26/2017,54840004525 ,5,,WK,,945
+32879-274,4440461,6/27/2017,6/26/2017,MEDTRONIC SOFAMOR DANEK,medtronic solera,Screw 54840004530 Mas 4.5x30 Cc - Log176538,6/26/2017,54840004530 ,1,,WK,,946
+32879-274,4440461,6/27/2017,6/26/2017,MEDTRONIC SOFAMOR DANEK,medtronic solera,"Implant, Screw Cort Canc Multiaxial Cochr 5.0x25mm - Log176538",6/26/2017,54840005025 ,3,,WK,,947
+32879-275,4437794,6/22/2017,6/20/2017,,medtronic solera,Screw,6/20/2017,55840005550 ,3,,WK,,948
+32879-275,4437794,6/22/2017,6/20/2017,,medtronic solera,Screw,6/20/2017,55840005545 ,1,,WK,,949
+32879-275,4437794,6/22/2017,6/20/2017,MEDTRONIC SOFAMOR DANEK,medtronic solera,Screw 6.5mm 30mm Spne Ma Solera Cocr - Log175551,6/20/2017,55840006530 ,1,,WK,,950
+32879-275,4437794,6/22/2017,6/20/2017,MEDTRONIC SOFAMOR DANEK,medtronic solera,Screw 55840007540 5.5 Mas 7.5x40 Cc - Log175551,6/20/2017,55840007540 ,2,,WK,,951
+32879-275,4437794,6/22/2017,6/20/2017,Medtronic Sofamor Danek Inc,medtronic solera,Screw 5.5mm 30mm Spne Ma Cd Hzn Solera - Log175551,6/20/2017,55840005530 ,3,,WK,,952
+32879-276,107694323,6/20/2017,6/19/2017,,,,,,,,WK,"""no matching encounter found""",953
+32879-277,,,6/10/2017,,,,,,,,WK,No implants found,954
+32879-278,4426734,6/3/2017,6/2/2017,Medtronic Sofamor Danek Inc,medtronic solera,Screw 5mm 40mm Spne Ma Solera Cocr 5.5mm - Log172693,6/2/2017,55840005040 ,3,,WK,,955
+32879-278,4426734,6/3/2017,6/2/2017,Medtronic Sofamor Danek Inc,medtronic solera,Screw 5.5mm 35mm Spne Ma Cd Hzn Solera - Log172693,6/2/2017,55840005535 ,2,,WK,,956
+32879-278,4426734,6/3/2017,6/2/2017,Medtronic Sofamor Danek Inc,medtronic solera,Screw 5.5mm 30mm Spne Ma Cd Hzn Solera - Log172693,6/2/2017,55840005530 ,4,,WK,,957
+32879-278,4426734,6/3/2017,6/2/2017,MEDTRONIC INC.,medtronic solera,5.0 X 35 Mm Solera Screw,6/2/2017,55840005035 ,1,,WK,,958
+32879-279,4427121,6/4/2017,5/29/2017,"DEPUY SPINE, INC.",Depuy expedium (Synthes),"Implant, Screw Polyaxial Expdm 6.35 Ti 7x45mm - Log172302",5/29/2017,1799-12-745,2,,WK,,959
+32879-279,4427121,6/4/2017,5/29/2017,"DEPUY SPINE, INC.",Depuy expedium (Synthes),"Implant, Screw Polyaxial Expdm 6.35 Ti 7x50mm - Log172302",5/29/2017,1799-12-750,4,,WK,,960
+32879-280,,,5/27/2017,,,,,,,,,,961
+32879-281,4422791,5/26/2017,5/25/2017,"ULRICH MEDICAL USA, INC.",medtronic solera,"Implant, Screw Bone Spinal Lockng Tit Obelisc 20mm - Log168801",5/25/2017,CS 2901,1,,WK,,962
+32879-281,4422791,5/26/2017,5/25/2017,Medtronic Sofamor Danek Inc,medtronic solera,Screw 5.5mm 30mm Spne Ma Cd Hzn Solera - Log168801,5/25/2017,55840005530 ,1,,WK,,963
+32879-281,4422791,5/26/2017,5/25/2017,MEDTRONIC SOFAMOR DANEK,medtronic solera,Screw 55840006545 5.5 Mas 6.5x45 Cc - Log168801,5/25/2017,55840006545 ,2,,WK,,964
+32879-281,4422791,5/26/2017,5/25/2017,Medtronic Sofamor Danek Inc,medtronic solera,Solera Screw,5/25/2017,55840005545 ,1,,WK,,965
+32879-281,4422791,5/26/2017,5/25/2017,Medtronic Sofamor Danek Inc,medtronic solera,Screw 6.5mm 30mm Spne Ma Solera Cocr - Log168801,5/25/2017,55840006530 ,1,,WK,,966
+32879-282,4419013,5/20/2017,5/19/2017,MEDTRONIC SOFAMOR DANEK,medtronic solera,"Implant, Screw Cort Canc Multiaxial 5.5mm X 40mm - Log170575",5/19/2017,54840005540 ,6,,WK,,967
+32879-282,4419013,5/20/2017,5/19/2017,MEDTRONIC SOFAMOR DANEK,medtronic solera,"Implant, Screw Cort Canc Multiaxial 5.0mm X 35mm - Log170575",5/19/2017,54840005035 ,4,,WK,,968
+32879-282,4419013,5/20/2017,5/19/2017,MEDTRONIC INC.,medtronic solera,Solera Screw ,5/19/2017,54840004030 ,1,,WK,,969
+32879-282,4419013,5/20/2017,5/19/2017,MEDTRONIC SOFAMOR DANEK,medtronic solera,"Implant, Screw Cort Canc Multiaxial 4mm X 35mm - Log170575",5/19/2017,54840004035 ,1,,WK,,970
+32879-283,4413325,5/11/2017,5/10/2017,MEDTRONIC SOFAMOR DANEK,medtronic solera,"Implant, Screw Self Drilling Variable 4 X 14mm - Log169280",5/10/2017,3120514 ,4,,WK,,971
+32879-283,4413325,5/11/2017,5/10/2017,Medtronic Sofamor Danek Spine,medtronic solera,5.0mm X 45mm Solera Screw,5/10/2017,55840005045 ,2,,WK,,972
+32879-283,4413325,5/11/2017,5/10/2017,Medtronic Sofamor Danek Inc,medtronic solera,Screw 5mm 40mm Spne Ma Solera Cocr 5.5mm - Log169280,5/10/2017,55840005040 ,4,,WK,,973
+32879-283,4413325,5/11/2017,5/10/2017,Medtronic Sofamor Danek Inc,medtronic solera,4.5mm X 40mm Solera Screw,5/10/2017,55840004540 ,6,,WK,,974
+32879-284,,,4/25/2017,,,,,,,,WK,SLU not an option on Care Everywhere,975
+32879-285,4399507,4/17/2017,4/13/2017,Medtronic Inc,medtronic solera,Solera Screw,4/13/2017,55840005045 ,2,,WK,,976
+32879-285,4399507,4/17/2017,4/13/2017,Medtronic Inc,medtronic solera,Solera Screw,4/13/2017,55840005545 ,2,,WK,,977
+32879-285,4399507,4/17/2017,4/13/2017,Medtronic Inc,medtronic solera,Solera Screw,4/13/2017,55840005035 ,1,,WK,,978
+32879-285,4399507,4/17/2017,4/13/2017,Medtronic Inc,medtronic solera,Solera Screw,4/13/2017,55840005030 ,1,,WK,,979
+32879-285,4399507,4/17/2017,4/13/2017,Medtronic Inc,medtronic solera,Solera Screw,4/13/2017,55840005040 ,3,,WK,,980
+32879-285,4399507,4/17/2017,4/13/2017,Medtronic Inc,medtronic solera,Solera Screw,4/13/2017,55840004540 ,1,,WK,,981
+32879-286,,,4/13/2017,,,,,,,,WK,"""cannot request information""",982
+32879-287,,,4/12/2017,,,,,,,,WK,"""cannot request information""",983
+32879-288,,,4/11/2017,,,,,,,,WK,"""cannot request information""",984
+32879-289,,,4/8/2017,,,,,,,,WK,"""no matching encounter found""",985
+32879-290,4395569,4/10/2017,4/6/2017,"DEPUY SPINE, INC.",Depuy expedium (Synthes),"Implant, Screw Polyaxial Expdm 6.35 Ti 7x50mm - Log157907",4/6/2017,1799-12-750,2,,WK,,986
+32879-290,4395569,4/10/2017,4/6/2017,"DEPUY SPINE, INC.",Depuy expedium (Synthes),Screw,4/6/2017,179912845,2,,WK,,987
+32879-290,4395569,4/10/2017,4/6/2017,"DEPUY SPINE, INC.",Depuy expedium (Synthes),Poly Screw,4/6/2017,179970035,2,,WK,,988
+32879-291,4382366,3/18/2017,3/17/2017,MEDTRONIC INC.,medtronic solera,Solera Screw,3/17/2017,55840005035 ,1,,WK,,989
+32879-291,4382366,3/18/2017,3/17/2017,Medtronic Sofamor Danek Inc,medtronic solera,Screw 5.5mm 40mm Spne Ma Cd Hzn Solera - Log161327,3/17/2017,55840005540 ,1,,WK,,990
+32879-291,4382366,3/18/2017,3/17/2017,Medtronic Sofamor Danek Inc,medtronic solera,Screw 5.5mm 40mm Spne Ma Cd Hzn Solera - Log161327,3/17/2017,55840005540 ,1,,WK,,991
+32879-291,4382366,3/18/2017,3/17/2017,Medtronic Sofamor Danek Inc,medtronic solera,Screw 5.5mm 40mm Spne Ma Cd Hzn Solera - Log161327,3/17/2017,55840005540 ,1,,WK,,992
+32879-291,4382366,3/18/2017,3/17/2017,Medtronic Sofamor Danek Inc,medtronic solera,Screw 5.5mm 40mm Spne Ma Cd Hzn Solera - Log161327,3/17/2017,55840005540 ,1,,WK,,993
+32879-291,4382366,3/18/2017,3/17/2017,Medtronic Sofamor Danek Inc,medtronic solera,Screw 5.5mm 40mm Spne Ma Cd Hzn Solera - Log161327,3/17/2017,55840005540 ,1,,WK,,994
+32879-291,4382366,3/18/2017,3/17/2017,Medtronic Sofamor Danek Inc,medtronic solera,Screw 5.5mm 40mm Spne Ma Cd Hzn Solera - Log161327,,55840005540 ,1,,WK,,995
+32879-291,4382366,3/18/2017,3/17/2017,Medtronic Sofamor Danek Inc,medtronic solera,Screw 5.5mm 40mm Spne Ma Cd Hzn Solera - Log161327,,55840005540 ,1,,WK,,996
+32879-291,4382366,3/18/2017,3/17/2017,Medtronic Sofamor Danek Inc,medtronic solera,Screw 5.5mm 40mm Spne Ma Cd Hzn Solera - Log161327,,55840005540 ,1,,WK,,997
+32879-291,4382366,3/18/2017,3/17/2017,MEDTRONIC SOFAMOR DANEK,medtronic solera,Screw 55840006540 5.5 Mas 6.5x40 Cc - Log161327,,55840006540 ,1,,WK,,998
+32879-291,4382366,3/18/2017,3/17/2017,MEDTRONIC SOFAMOR DANEK,medtronic solera,Screw 55840006545 5.5 Mas 6.5x45 Cc - Log161327,,55840006545 ,1,,WK,,999
+32879-291,4382366,3/18/2017,3/17/2017,Medtronic Sofamor Danek Inc,medtronic solera,Screw 5mm 40mm Spne Ma Solera Cocr 5.5mm - Log161327,,55840005040 ,1,,WK,,1000
+32879-291,4382366,3/18/2017,3/17/2017,Medtronic Sofamor Danek Inc,medtronic solera,Screw 5mm 40mm Spne Ma Solera Cocr 5.5mm - Log161327,,55840005040 ,1,,WK,,1001
+32879-291,4382366,3/18/2017,3/17/2017,MEDTRONIC SOFAMOR DANEK,medtronic solera,"Implant, Screw Self Drilling Fixed 4 X 16mm - Log161327",,3120416 ,1,,WK,,1002
+32879-291,4382366,3/18/2017,3/17/2017,MEDTRONIC SOFAMOR DANEK,medtronic solera,"Implant, Screw Self Drilling Fixed 4 X 16mm - Log161327",,3120416 ,1,,WK,,1003
+32879-291,4382366,3/18/2017,3/17/2017,MEDTRONIC SOFAMOR DANEK,medtronic solera,"Implant, Screw Self Drilling Fixed 4 X 16mm - Log161327",,3120416 ,1,,WK,,1004
+32879-291,4382366,3/18/2017,3/17/2017,MEDTRONIC SOFAMOR DANEK,medtronic solera,"Implant, Screw Self Drilling Fixed 4 X 16mm - Log161327",,3120416 ,1,,WK,,1005
+32879-292,4382143,3/17/2017,3/14/2017,Depuy Spine,Depuy expedium (Synthes),8 X 45 Mm Poly Screw ,3/14/2017,1797-12-845,1,,WK,,1006
+32879-292,4382143,3/17/2017,3/14/2017,"DEPUY SPINE, INC.",Depuy expedium (Synthes),"Implant, Screw Polyaxl Tit W/Dimple In Head 7x40mm - Log160281",3/14/2017,1797-12-740,2,,WK,,1007
+32879-292,4382143,3/17/2017,3/14/2017,"DEPUY SPINE, INC.",Depuy expedium (Synthes),Exp Ti Poly Screw 8mmx50mm - Log160281,3/14/2017,179712850 ,2,,WK,,1008
+32879-292,4382143,3/17/2017,3/14/2017,"DEPUY SPINE, INC.",Depuy expedium (Synthes),"Implant, Screw Polyaxl Tit W/Dimple In Head 6x40mm - Log160281",3/14/2017,1797-12-640,4,,WK,,1009
+32879-292,4382143,3/17/2017,3/14/2017,"DEPUY SPINE, INC.",Depuy expedium (Synthes),"Implant, Screw Polyaxl Tit W/Dimple In Head 7x45mm - Log160281",3/14/2017,1797-12-745,1,,WK,,1010
+32879-293,4384662,3/22/2017,3/13/2017,MEDTRONIC SOFAMOR DANEK,medtronic solera,Screw 55840006540 5.5 Mas 6.5x40 Cc - Log160284,3/13/2017,55840006540,4,,LS,,1011
+32879-293,4384662,3/22/2017,3/13/2017,Medtronic Sofamor Danek Inc,medtronic solera,Screw 5.5mm 40mm Spne Ma Cd Hzn Solera - Log160284,3/13/2017,55840005540,1,,LS,,1012
+32879-293,4384662,3/22/2017,3/13/2017,,medtronic solera,Sa7 316768 5.0 X 50 Mm Solera Screw,3/13/2017,55840005550,1,,LS,"no manufacturer mentioned, assume medtronic?",1013
+32879-293,4384662,3/22/2017,3/13/2017,,medtronic solera,Sa7 316768 5.5 X 45mm Solera Screw,3/13/2017,55840005545,1,,LS,"no manufacturer mentioned, assume medtronic?",1014
+32879-294,4400807,4/19/2017,2/27/2017,MEDTRONIC SOFAMOR DANEK,medtronic solera,Screw 55840007540 5.5 Mas 7.5x40 Cc - Log158013,2/27/2017,55840007540,2,,LS,,1015
+32879-294,4400807,4/19/2017,2/27/2017,MEDTRONIC SOFAMOR DANEK,medtronic solera,Screw 55840006540 5.5 Mas 6.5x40 Cc - Log158013,2/27/2017,55840006540,4,,LS,,1016
+32879-294,4400807,4/19/2017,2/27/2017,Medtronic Inc,medtronic solera,Sa 7 316768 6.5 X 35 Mm Solera Screw,2/27/2017,55840006535,4,,LS,,1017
+32879-294,4400807,4/19/2017,2/27/2017,Medtronic Sofamor Danek Inc,medtronic solera,Screw 5.5mm 35mm Spne Ma Cd Hzn Solera - Log158013,2/27/2017,55840005535,2,,LS,,1018
+32879-295,107279356,2/24/2017,2/24/2017, K2 Medical Llc,Styker everest (K2M),Sacral Screw 5.5x35,2/24/2017,801-05535D,4,,LS,"patient is deceased, epic chart review states surgery was 2/24/2017",1019
+32879-295,107279356,2/24/2017,2/24/2017, K2 Medical Llc,Styker everest (K2M),SCRW MESA 6.5 X 40MM SACR,2/24/2017,801-06540D,4,,LS,,1020
+32879-296,4372005,2/27/2017,2/23/2017,MEDTRONIC SOFAMOR DANEK,medtronic solera,"Implant, Screw Cort Canc Multiaxial 5.0mm X 40mm - Log157220",2/23/2017,54840005040,7,,LS,,1021
+32879-296,4372005,2/27/2017,2/23/2017,MEDTRONIC SOFAMOR DANEK,medtronic solera,Screw 54840005030 Mas 5.0x30 Cc - Log157220,2/23/2017,54840005030,1,,LS,,1022
+32879-296,4372005,2/27/2017,2/23/2017,Medtronic Inc,medtronic solera,Solers Screw,2/23/2017,54840004535,1,,LS,,1023
+32879-297,107301958,3/3/2017,2/21/2017,Depuy Spine,Depuy expedium (Synthes),Screw 5Mm 30Mm Spne 1 Innie Pa Xpdm Ti,2/21/2017,179712530,2,,LS,,1024
+32879-297,107301958,3/3/2017,2/21/2017,Depuy Spine,Depuy expedium (Synthes),Screw 5Mm 40Mm Spne 1 Innie Pa Xpdm Ti,2/21/2017,1797-12-540,4,,LS,,1025
+32879-297,107301958,3/3/2017,2/21/2017,Depuy Spine,Depuy expedium (Synthes),SCRW POLY SI 6.0 X 30MM,2/21/2017,1797-12-630,1,,LS,,1026
+32879-297,107301958,3/3/2017,2/21/2017,Depuy Spine,Depuy expedium (Synthes),Screw 6Mm 35Mm Spne 1 Innie Pa Xpdm Ti,2/21/2017,179712635,2,,LS,,1027
+32879-297,107301958,3/3/2017,2/21/2017,Depuy Spine,Depuy expedium (Synthes),Screw 6Mm 40Mm Spne 1 Innie Pa Xpdm Ti,2/21/2017,1797-12-640,5,,LS,,1028
+32879-298,4368013,2/20/2017,2/18/2017,MEDTRONIC SOFAMOR DANEK,medtronic solera,Screw 55840006545 5.5 Mas 6.5x45 Cc - Log157025,2/18/2017,55840006545,2,,LS,lumbar,1029
+32879-298,4368013,2/20/2017,2/18/2017,Medtronic Sofamor Danek Spine,medtronic solera,5.5 X 45 Solera Screw,2/18/2017,55840005545,2,,LS,lumbar,1030
+32879-298,4368013,2/20/2017,2/18/2017,Medtronic Sofamor Danek Spine,medtronic solera,4.5 X 45 Solera Screw,2/18/2017,55840004545,1,,LS,thoracic,1031
+32879-298,4368013,2/20/2017,2/18/2017,Medtronic Sofamor Danek Inc,medtronic solera,Screw 5.5mm 40mm Spne Ma Cd Hzn Solera - Log157025,2/18/2017,55840005540,3,,LS,thoracic,1032
+32879-298,4368013,2/20/2017,2/18/2017,MEDTRONIC SOFAMOR DANEK,medtronic solera,Screw 55840006540 5.5 Mas 6.5x40 Cc - Log157025,2/18/2017,55840006540,1,,LS,thoracic,1033
+32879-299,,,2/14/2017,,,,,,,,LS,"not sure where to find the implants.. Dr. Place's operative note mentions ""DePuy Synthes 5.5 mm titanium implants.""",1034
+32879-300,107246232,2/16/2017,2/13/2017,Depuy Spine,Depuy expedium (Synthes),SCREW 6MM 40MM SPNE PA CANN VPR TI MIS,2/13/2017,,4,,LS,"pulled from operative note, could not find other autopopulated implants in notes",1035
+32879-300,107246232,2/16/2017,2/13/2017,Depuy Spine,Depuy expedium (Synthes),SCRW VIPER MON TI 6.0MM X 40MM,2/13/2017,,4,,LS,also no clinical summary,1036
+32879-301,4361246,2/8/2017,2/7/2017,"DEPUY SPINE, INC.",Depuy expedium (Synthes),"Implant, Screw Polyaxial Expedium Titanium 5x35mm - Log154277",2/7/2017,1797-12-535,4,,LS,,1037
+32879-301,4361246,2/8/2017,2/7/2017,"DEPUY SPINE, INC.",Depuy expedium (Synthes),"Implant, Screw Polyaxial Expedium Titanium 5x40mm - Log154277",2/7/2017,1797-12-540,2,,LS,,1038
+32879-301,4361246,2/8/2017,2/7/2017,"DEPUY SPINE, INC.",Depuy expedium (Synthes),"Implant, Screw Polyaxl Tit W/Dimple In Head 6x40mm - Log154277",2/7/2017,1797-12-640,4,,LS,,1039
+32879-302,4354867,1/27/2017,1/24/2017,"DEPUY SPINE, INC.",Depuy expedium (Synthes),"Implant, Screw Polyaxl Tit W/Dimple In Head 7x50mm - Log148564",1/24/2017,1797-12-750,2,,LS,,1040
+32879-302,4354867,1/27/2017,1/24/2017,"DEPUY SPINE, INC.",Depuy expedium (Synthes),"Implant, Screw Inner Single Set Tit - Log148564",1/24/2017,179702000,2,,LS,,1041
+32879-303,4343796,1/6/2017,1/4/2017,"DEPUY SPINE, INC.",Depuy expedium (Synthes),"Implant, Screw Inner Set Spinal Moss Miami - Log150162",1/4/2017,1797-02-000,8,,LS,,1042
+32879-303,4343796,1/6/2017,1/4/2017,"DEPUY SPINE, INC.",Depuy expedium (Synthes),"Implant, Screw Cortical Fixation Mps Tit 7mmx 40mm - Log150162",1/4/2017,1867-31-740,2,,LS,,1043
+32879-303,4343796,1/6/2017,1/4/2017,"DEPUY SPINE, INC.",Depuy expedium (Synthes),"Implant, Screw Cortical Fixation Mps Tit 7mmx 45mm - Log150162",1/4/2017,1867-31-745,1,,LS,,1044
+32879-303,4343796,1/6/2017,1/4/2017,"DEPUY SPINE, INC.",Depuy expedium (Synthes),"Implant, Screw Cortical Fixatin Mps Tit 6mm X 45mm - Log150162",1/4/2017,1867-31-645,1,,LS,,1045
+32879-303,4343796,1/6/2017,1/4/2017,"DEPUY SPINE, INC.",Depuy expedium (Synthes),"Implant, Screw Cortical Fixation Mps Tit 6mmx 40mm - Log150162",1/4/2017,1867-31-640,3,,LS,,1046
+32879-303,4343796,1/6/2017,1/4/2017,"DEPUY SPINE, INC.",Depuy expedium (Synthes),"Implant, Screw Cortical Fixation Mps Tit 5mmx 40mm - Log150162",1/4/2017,1867-31-540,1,,LS,,1047
+32879-304,no post-op x-ray in chart,,12/23/2016,"DEPUY SPINE, INC.",Depuy expedium (Synthes),"Implant, Screw Polyaxl Tit W/Dimple In Head 6x40mm - Log148498",12/23/2016,1797-12-640,6,,LS,,1048
+32879-304,,,12/23/2016,"DEPUY SPINE, INC.",Depuy expedium (Synthes),"Implant, Screw Polyaxl Tit W/Dimple In Head 6x45mm - Log148498",12/23/2016,1797-12-645,7,,LS,,1049
+32879-304,,,12/23/2016,,Depuy expedium (Synthes),Expediam 5.5,12/23/2016,1797-12-650,1,,LS,not sure if this is a screw or not but there are 14 screws in the screw set listed...,1050
+32879-305,4334807,12/19/2016,12/16/2016,"DEPUY SPINE, INC.",Depuy expedium (Synthes),"Implant, Screw Polyaxl Tit W/Dimple In Head 6x40mm - Log147906",12/16/2016,1797-12-640,3,,LS,,1051
+32879-305,4334807,12/19/2016,12/16/2016,"DEPUY SPINE, INC.",Depuy expedium (Synthes),"Implant, Screw Polyaxl Tit W/Dimple In Head 6x45mm - Log147906",12/16/2016,1797-12-645,1,,LS,,1052
+32879-305,4334807,12/19/2016,12/16/2016,,Depuy expedium (Synthes),5x45mm Screw,12/16/2016,179712545,3,,LS,,1053
+32879-305,4334807,12/19/2016,12/16/2016,,Depuy expedium (Synthes),4.35x45mm Screw,12/16/2016,179712445,1,,LS,,1054
+32879-306,,,12/9/2016,,,,,,,,LS,"no data available regarding implants in her chart, clinical summary not available",1055
+32879-307,4330132,12/11/2016,12/8/2016,"DEPUY SPINE, INC.",Depuy expedium (Synthes),"Implant, Screw Cortical Fixatin Mps Tit 6mm X 45mm - Log146659",12/8/2016,1867-31-645,2,,LS,,1056
+32879-307,4330132,12/11/2016,12/8/2016,"DEPUY SPINE, INC.",Depuy expedium (Synthes),"Implant, Screw Cortical Fixation Mps Tit 5mmx 30mm - Log146659",12/8/2016,1867-31-530,1,,LS,,1057
+32879-307,4330132,12/11/2016,12/8/2016,"DEPUY SPINE, INC.",Depuy expedium (Synthes),"Implant, Screw Cortical Fixation Mps Tit 7mmx 40mm - Log146659",12/8/2016,1867-31-740,1,,LS,,1058
+32879-307,4330132,12/11/2016,12/8/2016,"DEPUY SPINE, INC.",Depuy expedium (Synthes),"Implant, Screw Cortical Fixation Mps Tit 7mmx 45mm - Log146659",12/8/2016,1867-31-745,2,,LS,,1059
+32879-307,4330132,12/11/2016,12/8/2016,"DEPUY SPINE, INC.",Depuy expedium (Synthes),"Implant, Screw Cortical Fixation Mps Tit 6mmx 35mm - Log146659",12/8/2016,1867-31-635,2,,LS,,1060
+32879-308,106951135,11/25/2016,11/25/2016,K2 Medical Llc,Styker everest (K2M),SCRW POLY MESA 5.5MM X 40MM,11/25/2016,801-05540,2,,LS,,1061
+32879-309,4322146,11/25/2016,11/18/2016,Depuy Spine,Depuy expedium (Synthes),5x30mm Poly Screw,11/25/2016,1799-12-530,1,,LS,,1062
+32879-309,4322146,11/25/2016,11/18/2016,"DEPUY SPINE, INC.",Depuy expedium (Synthes),"Implant, Screw Polyaxial Expdm 6.35 Ti 5x35mm - Log144268",11/25/2016,1799-12-535,5,,LS,,1063
+32879-309,4322146,11/25/2016,11/18/2016,"DEPUY SPINE, INC.",Depuy expedium (Synthes),"Implant, Screw Polyaxial Expdm 6.35 Ti 6x35mm - Log144268",11/25/2016,1799-12-635,4,,LS,,1064
+32879-309,4322146,11/25/2016,11/18/2016,"DEPUY SPINE, INC.",Depuy expedium (Synthes),"Implant, Screw Polyaxial Expdm 6.35 Ti 6x40mm - Log144268",11/25/2016,1799-12-640,2,,LS,,1065
+32879-309,4322146,11/25/2016,11/18/2016,"DEPUY SPINE, INC.",Depuy expedium (Synthes),"Implant, Screw Polyaxial Expdm 6.35 Ti 7x35mm - Log144268",11/25/2016,1799-12-735,2,,LS,,1066
+32879-310,4317243,11/15/2016,11/10/2016,"DEPUY SPINE, INC.",Depuy expedium (Synthes),"Implant, Screw Polyaxial Expdm 6.35 Ti 6x45mm - Log142637",11/10/2016,1799-12-645,4,,LS,,1067
+32879-310,4317243,11/15/2016,11/10/2016,"DEPUY SPINE, INC.",Depuy expedium (Synthes),"Implant, Screw Polyaxial Expdm 6.35 Ti 7x45mm - Log142637",11/10/2016,1799-12-745,1,,,,1068
+32879-310,4317243,11/15/2016,11/10/2016,"DEPUY SPINE, INC.",Depuy expedium (Synthes),"Implant, Screw Polyaxial Expdm 6.35 Ti 7x50mm - Log142637",11/10/2016,1799-12-750,2,,,,1069
+32879-310,4317243,11/15/2016,11/10/2016,"DEPUY SPINE, INC.",Depuy expedium (Synthes),Expedium 7x55mm Screw,11/10/2016,1799-12-755,1,,,,1070
+32879-311,4312447,11/6/2016,11/3/2016,"DEPUY SPINE, INC.",Depuy expedium (Synthes),"Implant, Screw Polyaxl Tit W/Dimple In Head 7x45mm - Log138847",11/3/2016,1797-12-745,5,,,,1071
+32879-311,4312447,11/6/2016,11/3/2016,"DEPUY SPINE, INC.",Depuy expedium (Synthes),"Implant, Screw Polyaxl Tit W/Dimple In Head 7x50mm - Log138847",11/3/2016,1797-12-750,3,,,,1072
+32879-311,4312447,11/6/2016,11/3/2016,"DEPUY SPINE, INC.",Depuy expedium (Synthes),"Implant, Screw Cortical Fixation Mps Tit 6mmx 40mm - Log138847",11/3/2016,1867-31-640,2,,,,1073
+32879-311,4312447,11/6/2016,11/3/2016,"DEPUY SPINE, INC.",Depuy expedium (Synthes),"Implant, Screw Cortical Fixation Mps Tit 6mmx 45mm - Log138847",11/3/2016,186731645,2,,,,1074
+32879-312,4314344,11/9/2016,10/25/2016,"DEPUY SPINE, INC.",Depuy expedium (Synthes),"Implant, Screw Polyaxial Expedium Titanium 5x35mm - Log140724",10/25/2016,1797-12-535,8,,,,1075
+32879-312,4314344,11/9/2016,10/25/2016,"DEPUY SPINE, INC.",Depuy expedium (Synthes),"Implant, Screw Polyaxl Tit W/Dimple In Head 6x35mm - Log140724",10/25/2016,1797-12-635,2,,,,1076
+32879-312,4314344,11/9/2016,10/25/2016,"DEPUY SPINE, INC.",Depuy expedium (Synthes),"Implant, Screw Polyaxl Tit W/Dimple In Head 6x40mm - Log140724",10/25/2016,1797-12-640,4,,,,1077
+32879-313,106845019,10/26/2016,9/30/2016,Ortho Pedicatrics,,6.0MM X 40MM POLY SCREW,9/30/2016,00-1300-2640,5,,LS,,1078
+32879-314,4284276,9/15/2016,9/13/2016,,Depuy expedium (Synthes),Expeaium Velse Screws,9/13/2016,1997-21-745,2,,LS,,1079
+32879-314,4284276,9/15/2016,9/13/2016,Depuy Spine,Depuy expedium (Synthes),Expeaium Velse Screws,9/13/2016,1997-21-740,3,,LS,,1080
+32879-315,4310562,11/2/2016,9/6/2016,"DEPUY SPINE, INC.",Depuy expedium (Synthes),"Implant, Screw Cortical Fixation Mps Tit 6mmx 35mm - Log133119",9/6/2016,1867-31-635,2,,LS,,1081
+32879-315,4310562,11/2/2016,9/6/2016,"DEPUY SPINE, INC.",Depuy expedium (Synthes),"Implant, Screw Cortical Fixation Mps Tit 7mmx 40mm - Log133119",9/6/2016,1867-31-740,8,,LS,,1082
+32879-316,4270303,8/22/2016,8/18/2016,"DEPUY SPINE, INC.",Depuy expedium (Synthes),"Implant, Screw Cortical Fixatin Mps Tit 6mm X 45mm - Log128362",8/18/2016,1867-31-645,2,,LS,,1083
+32879-316,4270303,8/22/2016,8/18/2016,"DEPUY SPINE, INC.",Depuy expedium (Synthes),"Implant, Screw Cortical Fixation Mps Tit 7mmx 45mm - Log128362",8/18/2016,1867-31-745,2,,LS,,1084
+32879-317,4246704,7/9/2016,7/1/2016,"DEPUY SPINE, INC.",Depuy expedium (Synthes),"Implant, Screw Polyaxial Expdm 6.35 Ti 6x40mm - Log124445",7/1/2016,1799-12-640,8,,LS,,1085
+32879-317,4246704,7/9/2016,7/1/2016,"DEPUY SPINE, INC.",Depuy expedium (Synthes),"Implant, Screw Polyaxial Expdm 6.35 Ti 7x40mm - Log124445",7/1/2016,1799-12-740,2,,LS,,1086
+32879-318,4237119,6/22/2016,6/13/2016,"DEPUY SPINE, INC.",Depuy expedium (Synthes),"Implant, Screw Inner Single Set Tit - Log120044",,179702000,30,,LS,could not see the individual screws in the clinical summary,1087
+32879-319,4236525,6/21/2016,6/7/2016,"DEPUY SPINE, INC.",Depuy expedium (Synthes),Expedium Verse 6x35mm,6/7/2016,199721635,2,,LS,,1088
+32879-319,4236525,6/21/2016,6/7/2016,"DEPUY SPINE, INC.",Depuy expedium (Synthes),Expedium Verse 6x40mm,6/7/2016,199721640,4,,LS,,1089
+32879-320,4236539,6/21/2016,6/1/2016,"DEPUY SPINE, INC.",Depuy expedium (Synthes),"Implant, Screw Polyaxl Tit W/Dimple In Head 6x35mm - Log120484",6/1/2016,1797-12-635,1,,LS,,1090
+32879-320,4236539,6/21/2016,6/1/2016,"DEPUY SPINE, INC.",Depuy expedium (Synthes),"Implant, Screw Polyaxl Tit W/Dimple In Head 6x40mm - Log120484",6/1/2016,1797-12-640,15,,LS,,1091
+32879-321,4214342,5/12/2016,4/29/2016,Synthes Spine,Depuy expedium (Synthes),"Implant, Screw Locking Titanium - Log116514",4/29/2016,04.614.508,10,,LS,,1092
+32879-321,4214342,5/12/2016,4/29/2016,Synthes Spine,Depuy expedium (Synthes),4.5mm X 34mm Screw,4/29/2016,04.615.234,2,,LS,,1093
+32879-321,4214342,5/12/2016,4/29/2016,Synthes Spine,Depuy expedium (Synthes),4.5mm X 36mm Screw,4/29/2016,04.615.236,2,,LS,,1094
+32879-321,4214342,5/12/2016,4/29/2016,Synthes Spine,Depuy expedium (Synthes),4.0mm X 20mm Screw,4/29/2016,04.615.120,1,,LS,,1095
+32879-322,106181096,4/21/2016,4/19/2016,Depuy Spine,Depuy expedium (Synthes),SCRW PLOY MIS CANN TI 6.0MM X 40MM,4/19/2016,,2,,LS,"info taken from operative report, no serial numbers or model numbers given and no clinical summary seen in care everywhere",1096
+32879-322,106181096,4/21/2016,4/19/2016,,Depuy expedium (Synthes),mono screw 6 x45 mm,4/19/2016,,4,,LS,,1097
+32879-322,106181096,4/21/2016,4/19/2016,Depuy Spine,Depuy expedium (Synthes),SCRW MIS SGL INNER ST,4/19/2016,,6,,LS,,1098
+32879-323,,,4/7/2016,,,,,,,,,,1099
+32879-324,,,3/26/2016,,,,,,,,,,1100
+32879-325,,,3/10/2016,,,,,,,,,,1101
+32879-326,,,3/8/2016,,,,,,,,,,1102
+32879-327,,,2/16/2016,,,,,,,,,,1103
+32879-328,,,2/6/2016,,,,,,,,,,1104
+32879-329,,,2/3/2016,,,,,,,,,,1105
+32879-330,,,2/2/2016,,,,,,,,,,1106
+32879-331,,,1/26/2016,,,,,,,,,,1107
+32879-332,,,1/22/2016,,,,,,,,,,1108
+32879-333,,,1/15/2016,,,,,,,,,,1109
+32879-334,,,1/7/2016,,,,,,,,,,1110
+32879-335,,,1/7/2016,,,,,,,,,,1111
+32879-336,,,1/1/2016,,,,,,,,,,1112
+32879-337,,,12/14/2015,,,,,,,,,,1113
+32879-338,,,11/25/2015,,,,,,,,,,1114
+32879-339,,,11/8/2015,,,,,,,,,,1115
+32879-340,,,10/29/2015,,,,,,,,,,1116
+32879-341,,,10/20/2015,,,,,,,,,,1117
+32879-342,,,10/12/2015,,,,,,,,,,1118
+32879-343,,,10/9/2015,,,,,,,,,,1119
+32879-344,,,10/6/2015,,,,,,,,,,1120
+32879-345,,,10/2/2015,,,,,,,,,,1121
+32879-346,,,9/24/2015,,,,,,,,,,1122
+32879-347,,,9/21/2015,,,,,,,,,,1123
+32879-348,,,9/19/2015,,,,,,,,,,1124
+32879-349,,,9/1/2015,,,,,,,,,,1125
+32879-350,,,8/27/2015,,,,,,,,,,1126
+32879-351,,,8/24/2015,,,,,,,,,,1127
+32879-352,,,8/16/2015,,,,,,,,,,1128
+32879-353,,,8/14/2015,,,,,,,,,,1129
+32879-354,,,8/6/2015,,,,,,,,,,1130
+32879-355,,,7/28/2015,,,,,,,,,,1131
+32879-356,,,7/16/2015,,,,,,,,,,1132
+32879-357,,,7/16/2015,,,,,,,,,,1133
+32879-358,,,7/14/2015,,,,,,,,,,1134
+32879-359,,,7/11/2015,,,,,,,,,,1135
+32879-360,,,6/16/2015,,,,,,,,,,1136
+32879-361,,,6/8/2015,,,,,,,,WK,"""This document is unavailable because Prior to 4/7/18 Saint Louis University is no longer on the Care Everywhere Network.""",1137
+32879-362,4017732,5/9/2015,5/7/2015,,,,,,,,WK,Surgery encounter note unavailable,1138
+32879-363,4016161,5/6/2015,5/1/2015,"DePuy Spine, Inc.",Depuy expedium (Synthes),Exp 6.35 Ss Poly 9 X 45 Mm - Log70005,5/1/2015,189612945,2,Y,AG,,1139
+32879-363,4016161,5/6/2015,5/1/2015,"DePuy Spine, Inc.",Depuy expedium (Synthes),"Implant, Screw Polyaxial Expdm 6.35 S/S 9x80mm - Log70005",5/1/2015,1896-12-980,2,,AG,,1140
+32879-363,4016161,5/6/2015,5/1/2015,"DePuy Spine, Inc.",Depuy expedium (Synthes),"Implant, Screw Polyaxial Expdm 6.35 S/S 7x40mm - Log70005",5/1/2015,1896-12-740,2,,AG,,1141
+32879-363,4016161,5/6/2015,5/1/2015,"DePuy Spine, Inc.",Depuy expedium (Synthes),"Implant, Screw Polyaxial Expdm 6.35 S/S 7x45mm - Log70005",5/1/2015, 1896-12-745 ,3,,AG,,1142
+32879-363,4016161,5/6/2015,5/1/2015,"DePuy Spine, Inc.",Depuy expedium (Synthes),"Implant, Screw Polyaxial Expdm 6.35 S/S 7x50mm - Log70005",5/1/2015,1896-12-750,5,,AG,,1143
+32879-363,4016161,5/6/2015,5/1/2015,"DePuy Spine, Inc.",Depuy expedium (Synthes),"Implant, Screw Polyaxial Expdm 6.35 S/S 8x45mm - Log70005",5/1/2015,1896-12-845,1,,AG,,1144
+32879-364,4004892,4/15/2015,3/30/2015,"DePuy Spine, Inc.",Depuy expedium (Synthes),"Implant, Screw Cortical Fixation Mps Tit 7mmx 55mm - Log67658",3/30/2015,1867-31-755,3,Y,AG,,1145
+32879-364,4004892,4/15/2015,3/30/2015,"DePuy Spine, Inc.",Depuy expedium (Synthes),Viper Sai Screw,3/30/2015,1797-04-880,2,,AG,,1146
+32879-364,4004892,4/15/2015,3/30/2015,"DePuy Spine, Inc.",Depuy expedium (Synthes),"Implant, Screw Cortical Fixation Mps Tit 6mmx 40mm - Log67658",3/30/2015,1867-31-640,4,,AG,,1147
+32879-364,4004892,4/15/2015,3/30/2015,"DePuy Spine, Inc.",Depuy expedium (Synthes),"Implant, Screw Cortical Fixation Mps Tit 6mmx 45mm - Log67658",3/30/2015,186731645,4,,AG,,1148
+32879-364,4004892,4/15/2015,3/30/2015,"DePuy Spine, Inc.",Depuy expedium (Synthes),6x50 Expedium Screw,3/30/2015,1867-31-650,2,,AG,,1149
+32879-364,4004892,4/15/2015,3/30/2015,"DePuy Spine, Inc.",Depuy expedium (Synthes),"Implant, Screw Cortical Fixation Mps Tit 7mmx 40mm - Log67658",3/30/2015,1867-31-740,2,,AG,,1150
+32879-364,4004892,4/15/2015,3/30/2015,"DePuy Spine, Inc.",Depuy expedium (Synthes),"Implant, Screw Cortical Fixation Mps Tit 7mmx 45mm - Log67658",3/30/2015,1867-31-745,1,,AG,,1151
+32879-364,4004892,4/15/2015,3/30/2015,"DePuy Spine, Inc.",Depuy expedium (Synthes),"Implant, Screw Cortical Fixation Mps Tit 7mmx 50mm - Log67658",3/30/2015,1867-31-750,2,,AG,,1152
+32879-365,3989382,3/17/2015,3/16/2015,,,,,,,Y,AG,unable to find implant manufacturer anywhere in chart,1153
+32879-366,3977533,2/22/2015,2/19/2015,"DePuy Spine, Inc.",Depuy expedium (Synthes),"Implant, Screw Polyaxial Expdm 6.35 Ti 6x40mm - Log65156",2/19/2015,1799-12-640,4,Y,AG,thoracolumbar xray,1154
+32879-366,3977533,2/22/2015,2/19/2015,"DePuy Spine, Inc.",Depuy expedium (Synthes),"Implant, Screw Polyaxial Expdm 6.35 Ti 7x35mm - Log65156",2/19/2015,1799-12-735,2,,AG,,1155
+32879-366,3977533,2/22/2015,2/19/2015,"DePuy Spine, Inc.",Depuy expedium (Synthes),"Implant, Screw Polyaxial Expdm 6.35 Ti 7x45mm - Log65156",2/19/2015,1799-12-745,4,,AG,,1156
+32879-367,,,2/6/2015,,,,,,,,,,1157
+32879-368,3969726,2/5/2015,1/30/2015,"DePuy Spine, Inc.",Depuy expedium (Synthes),"Implant, Screw Cancellous Poly Titanium 6.5 X 40mm - Log62834",1/30/2015,1867-15-640,4,Y,AG,,1158
+32879-368,3969726,2/5/2015,1/30/2015,"DePuy Spine, Inc.",Depuy expedium (Synthes),"Implant, Screw Cancellous Poly Titanium 6.5 X 45mm - Log62834",1/30/2015,1867-15-645 ,2,,AG,,1159
+32879-368,3969726,2/5/2015,1/30/2015,"DePuy Spine, Inc.",Depuy expedium (Synthes),"Implant, Screw Cancellous Poly Titanium 7 X 50mm - Log62834",1/30/2015,1867-15-750,2,,AG,,1160
+32879-368,3969726,2/5/2015,1/30/2015,"DePuy Spine, Inc.",Depuy expedium (Synthes),Poly Screw 7x55mm,1/30/2015,1867-15-755,2,,AG,,1161
+32879-369,3989799,3/18/2015,2/2/2015,,,,,,,Y,,unable to find implant manufacturer anywhere in chart,1162
+32879-370,3969254,2/4/2015,1/30/2015,"DePuy Spine, Inc.",Depuy expedium (Synthes),"Implant, Screw Polyaxial Expedium Titanium 5x35mm - Log61833",1/30/2015,1797-12-535,4,Y,AG,,1163
+32879-370,3969254,2/4/2015,1/30/2015,"DePuy Spine, Inc.",Depuy expedium (Synthes),"Implant, Screw Polyaxl Tit W/Dimple In Head 6x40mm - Log61833",1/30/2015, 1797-12-640 ,5,,AG,,1164
+32879-371,,,1/15/2015,,,,,,,,,,1165
+32879-372,3954883,1/7/2015,1/6/2015,"DePuy Spine, Inc.",Depuy expedium (Synthes),"Implant, Screw Polyaxial Expdm 6.35 S/S 6x40mm - Log58228",1/6/2015,1896-12-640,1,Y,AG,,1166
+32879-372,3954883,1/7/2015,1/6/2015,"DePuy Spine, Inc.",Depuy expedium (Synthes),"Implant, Screw Polyaxial Expdm 6.35 S/S 7x40mm - Log58228",1/6/2015,1896-12-740,6,,AG,,1167
+32879-372,3954883,1/7/2015,1/6/2015,"DePuy Spine, Inc.",Depuy expedium (Synthes),"Implant, Screw Polyaxial Expdm 6.35 S/S 7x45mm - Log58228",1/6/2015,1896-12-745,1,,AG,,1168
+32879-372,3954883,1/7/2015,1/6/2015,"DePuy Spine, Inc.",Depuy expedium (Synthes),"Implant, Screw Polyaxial Expdm 6.35 S/S 7x50mm - Log58228",1/6/2015,1896-12-750,1,,AG,,1169
+32879-372,3954883,1/7/2015,1/6/2015,"DePuy Spine, Inc.",Depuy expedium (Synthes),"Implant, Screw Polyaxial Expdm 6.35 S/S 8x40mm - Log58228",1/6/2015,1896-12-840,1,,AG,,1170
+32879-373,3952985,1/4/2015,1/2/2015,"DePuy Spine, Inc.",Depuy expedium (Synthes),"Implant, Screw Polyaxl Tit W/Dimple In Head 7x40mm - Log55186",1/2/2015,1797-12-740,2,Y,AG,,1171
+32879-373,3952985,1/4/2015,1/2/2015,"DePuy Spine, Inc.",Depuy expedium (Synthes),"Implant, Screw Polyaxl Tit W/Dimple In Head 7x45mm - Log55186",1/2/2015,1797-12-745 ,2,Y,AG,,1172
